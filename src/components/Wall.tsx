@@ -1,4 +1,4 @@
-import { useComputed } from "@preact/signals";
+import { useComputed, useSignal } from "@preact/signals";
 import { LANES } from "../data/constants.ts";
 import type { Lane } from "../data/schema.ts";
 import { FOODS, LANE_LABELS } from "../lib/client-data.ts";
@@ -16,7 +16,7 @@ function Token({ entry }: { entry: InSeason }) {
   const { food, status } = entry;
   const uncertain = food.windows[0]?.mark === "est";
   return (
-    <a class={`token t-${food.tier}`} href={`/food/${food.id}/`}>
+    <a class={`token t-${food.tier}`} href={`/food/${food.id}/`} data-print={food.print ? `${food.id}:${food.print}` : undefined}>
       <span class="token-ko" lang="ko">{food.ko}{uncertain ? <sup title="Estimated window">?</sup> : null}</span>
       <span class="token-en">{food.en}</span>
       {status.phase === "last" && status.daysLeft <= 14 ? <span class="token-left">{status.daysLeft}d left</span> : null}
@@ -24,7 +24,27 @@ function Token({ entry }: { entry: InSeason }) {
   );
 }
 
+interface Peek {
+  id: string;
+  ratio: number;
+  x: number;
+  y: number;
+}
+
 export function Wall() {
+  const peek = useSignal<Peek | null>(null);
+
+  const onPointerMove = (event: PointerEvent) => {
+    if (event.pointerType !== "mouse" || !(event.target instanceof Element)) return;
+    const value = event.target.closest<HTMLElement>("[data-print]")?.dataset.print;
+    if (!value) {
+      peek.value = null;
+      return;
+    }
+    const [id = "", ratio = "1"] = value.split(":");
+    peek.value = { id, ratio: Number(ratio), x: event.clientX, y: event.clientY };
+  };
+
   const entries = useComputed(() => {
     const filter = laneFilter.value;
     const current = settledDay.value;
@@ -47,7 +67,7 @@ export function Wall() {
   const list = entries.value;
   const { year } = toParts(day.value);
   return (
-    <section class="wall" aria-label="Foods in season on the selected day">
+    <section id="wall" class="wall" aria-label="Foods in season on the selected day" onPointerMove={onPointerMove} onPointerLeave={() => { peek.value = null; }}>
       <div class="wall-bar">
         <label class="scrub">
           <span class="scrub-date">{shortDate(day.value)}</span>
@@ -86,6 +106,11 @@ export function Wall() {
         );
       })}
       {list.length === 0 ? <p class="empty">Nothing in this lane on this day.</p> : null}
+      {peek.value ? (
+        <div class="peek" aria-hidden="true" style={{ left: peek.value.x, top: peek.value.y }}>
+          <span class="print-ink" style={{ "--src": `url(/prints/${peek.value.id}.webp)`, aspectRatio: String(peek.value.ratio) }} />
+        </div>
+      ) : null}
     </section>
   );
 }

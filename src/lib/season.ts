@@ -1,8 +1,12 @@
 import type { Anchor, Food, FoodWindow, Lane, Mark } from "../data/schema.ts";
 import { anchorDay } from "./calendar.ts";
 import { addDays, dayOf, toParts, type DayNum } from "./dates.ts";
+import { headlineRank } from "./headliners.ts";
 
-export type SeasonFood = Pick<Food, "id" | "ko" | "rr" | "en" | "phrase" | "lane" | "tier" | "windows">;
+export type SeasonFood = Pick<Food, "id" | "ko" | "rr" | "en" | "phrase" | "lane" | "tier" | "windows"> & {
+  /** Width over height of the food's halftone print, when it has one. */
+  print?: number;
+};
 
 export interface Span {
   start: DayNum;
@@ -139,7 +143,8 @@ export function inSeason<F extends SeasonFood>(foods: readonly F[], day: DayNum)
     const status = statusAt(food.windows, day);
     if (!status) continue;
     const mark = food.windows[0]?.mark ?? "sourced";
-    const score = TIER_SCORE[food.tier] + PHASE_SCORE[status.phase] + MARK_SCORE[mark] - status.runLength / 40;
+    const fame = food.tier === "national" ? 30 - headlineRank(food.id) : 0;
+    const score = TIER_SCORE[food.tier] + PHASE_SCORE[status.phase] + MARK_SCORE[mark] + fame - status.runLength / 40;
     out.push({ food, status, score });
   }
   return out.sort((a, b) => b.score - a.score || a.food.id.localeCompare(b.food.id));

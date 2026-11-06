@@ -2,11 +2,25 @@
 import Base from "../layouts/Base.astro";
 import { Home } from "../components/Home.tsx";
 import { todayInSeoul } from "../lib/dates.ts";
+import { midMonth, yearForMonth } from "../lib/foods.ts";
+import { MONTH_COPY } from "../lib/months.ts";
 import { printedOn } from "../lib/palette.ts";
 
 const builtOn = todayInSeoul();
 const { vars } = printedOn(builtOn);
+const months = MONTH_COPY.map((copy, index) => ({
+  ...copy,
+  month: index + 1,
+  ink: printedOn(midMonth(index + 1, yearForMonth(index + 1))).vars,
+}));
 ---
 <Base title="이맘때 imamttae: what to eat in Korea right now" description="Spin a year of Korean seasonal food. Find what is good to eat in Korea today, or any other day of the year." ink={vars}>
   <Home client:load builtOn={builtOn} />
+  <nav class="month-strip" aria-label="Months">
+    {months.map((entry) => (
+      <a href={`/months/${entry.slug}/`} style={`background:${entry.ink.paper};color:${entry.ink.ink}`} title={entry.name}>
+        <span>{entry.month}</span>
+      </a>
+    ))}
+  </nav>
 </Base>

@@ -1,1 +1,1274 @@
-{}
+{
+  "gimjang": {
+    "width": 760,
+    "height": 570,
+    "author": "by Caroline Knox at flickr",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Korean_cuisine-Gimjang-Preparation_for_making_kimchi-01.jpg"
+  },
+  "dongchimi": {
+    "width": 760,
+    "height": 625,
+    "author": "Korea.net / Korean Culture and Information Service",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:KOCIS_Dongchimi_(4814811048).jpg"
+  },
+  "meju": {
+    "width": 760,
+    "height": 505,
+    "author": "mspphoto",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Meju_(fermented_soybean).jpg"
+  },
+  "saeu-jeot": {
+    "width": 760,
+    "height": 503,
+    "author": "한산도 수산",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:Saeujeot_(fermented_shrimp)_jeotgal_(Caridea)_3.jpg"
+  },
+  "gotgam": {
+    "width": 760,
+    "height": 507,
+    "author": "Hyeon-Jeong Suk",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gotgam_(dried_persimmon).jpg"
+  },
+  "gulbi": {
+    "width": 760,
+    "height": 507,
+    "author": "국립국어원",
+    "license": "CC BY-SA 2.0 kr",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/kr/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Larimichthys_polyactis.jpg"
+  },
+  "siraegi": {
+    "width": 489,
+    "height": 760,
+    "author": "국립국어원",
+    "license": "CC BY-SA 2.0 kr",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/kr/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Siraegi.jpg"
+  },
+  "maesil-cheong": {
+    "width": 760,
+    "height": 506,
+    "author": "유리언니",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:Maesilcheong_(plum_syrup)_(prunus_mume).jpg"
+  },
+  "yuja-cheong": {
+    "width": 760,
+    "height": 507,
+    "author": "croxriver",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:Yujacha_(yuja_tea).jpg"
+  },
+  "bogeo": {
+    "width": 760,
+    "height": 417,
+    "author": "a Wikimedia Commons contributor",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fugu_in_Tank.jpg"
+  },
+  "agwi": {
+    "width": 760,
+    "height": 545,
+    "author": "Derivate work by Citron from : Dr. Steve Ross, UNC-W. NOAA Office o...",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Chaunax_stigmaeus_dorsal_view2.jpg"
+  },
+  "gwamegi": {
+    "width": 760,
+    "height": 570,
+    "author": "by Nicole Cho (nchoz) at Flickr",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Korean_cuisine-Gwamegi-01.jpg"
+  },
+  "doreumuk": {
+    "width": 760,
+    "height": 760,
+    "author": "Daiju Azuma",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:Arctoscopus_japonicus.jpg"
+  },
+  "myeongtae": {
+    "width": 760,
+    "height": 507,
+    "author": "Σ64",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gadus_chalcogrammus_01.jpg"
+  },
+  "hongeo": {
+    "width": 760,
+    "height": 722,
+    "author": "OpenCage.info",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:Okamejei_kenojei2.jpg"
+  },
+  "sancheoneo": {
+    "width": 760,
+    "height": 570,
+    "author": "Gaeho77",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Oncorhynchus_masou_masou,_Danyang.jpg"
+  },
+  "dodari-ssukguk": {
+    "width": 760,
+    "height": 515,
+    "author": "Syrio",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pleuronichthys_cornutus_at_Osaka_aquarium.jpg"
+  },
+  "chamdom": {
+    "width": 760,
+    "height": 380,
+    "author": "Miya",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Pagrus_major_Red_seabream_ja01.jpg"
+  },
+  "imyeonsueo": {
+    "width": 760,
+    "height": 760,
+    "author": "Daiju Azuma",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:Pleurogrammus_azonus.jpg"
+  },
+  "jogi": {
+    "width": 760,
+    "height": 507,
+    "author": "국립국어원",
+    "license": "CC BY-SA 2.0 kr",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/kr/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Larimichthys_polyactis.jpg"
+  },
+  "myeolchi": {
+    "width": 760,
+    "height": 495,
+    "author": "a Wikimedia Commons contributor",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Anchovy_closeup.jpg"
+  },
+  "baemjangeo": {
+    "width": 760,
+    "height": 505,
+    "author": "opencage",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:Anguilla_japonica.jpg"
+  },
+  "gaetjangeo": {
+    "width": 760,
+    "height": 514,
+    "author": "Tambe",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Muraenesox_cineres.jpg"
+  },
+  "nongeo": {
+    "width": 760,
+    "height": 570,
+    "author": "Izuzuki",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Suzuki201302.jpg"
+  },
+  "jeoneo": {
+    "width": 760,
+    "height": 509,
+    "author": "Jjw",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Konosirus_punctatus_in_store.jpg"
+  },
+  "godeungeo": {
+    "width": 760,
+    "height": 460,
+    "author": "a Wikimedia Commons contributor",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Scomber_japonicus.png"
+  },
+  "galchi": {
+    "width": 760,
+    "height": 760,
+    "author": "a Wikimedia Commons contributor",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:Trichiurus_lepturus_by_OpenCage.jpg"
+  },
+  "gwangeo": {
+    "width": 760,
+    "height": 570,
+    "author": "User:Vmenkov",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Paralichthys-olivaceus-Federal-Way-3583.jpg"
+  },
+  "ureok": {
+    "width": 760,
+    "height": 509,
+    "author": "Tomarin",
+    "license": "CC BY-SA 2.1 jp",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Sebastes_schlegelii_Hilgendorf,_1880.jpg"
+  },
+  "mikkuraji": {
+    "width": 760,
+    "height": 276,
+    "author": "George Chernilevsky",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Misgurnus_fossilis_2009_G1.jpg"
+  },
+  "gyul": {
+    "width": 760,
+    "height": 570,
+    "author": "Forest & Kim Starr",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Starr_061105-1370_Citrus_reticulata.jpg"
+  },
+  "hallabong": {
+    "width": 760,
+    "height": 549,
+    "author": "Laitr Keiows",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dekopon.jpg"
+  },
+  "redhyang": {
+    "width": 760,
+    "height": 570,
+    "author": "Scudsvlad",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%EA%B7%A4%EA%B3%BC_%EB%A0%88%EB%93%9C%ED%96%A5.jpg"
+  },
+  "cheonhyehyang": {
+    "width": 760,
+    "height": 507,
+    "author": "idaun",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Cheonhyehyang.jpg"
+  },
+  "yuja": {
+    "width": 760,
+    "height": 507,
+    "author": "Nikita from Russian Federation",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Yuzu_oranges_(6459456959).jpg"
+  },
+  "remon": {
+    "width": 760,
+    "height": 570,
+    "author": "Petar43",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Citrus_limonum.JPG"
+  },
+  "ttalgi": {
+    "width": 760,
+    "height": 507,
+    "author": "Ivar Leidus",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_single2.jpg"
+  },
+  "bokbunja": {
+    "width": 760,
+    "height": 505,
+    "author": "성락 + 연주",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Korean_raspberry_2008.jpg"
+  },
+  "blueberry": {
+    "width": 760,
+    "height": 554,
+    "author": "영어 위키백과의 PhreddieH3",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:PattsBlueberries.jpg"
+  },
+  "cherry": {
+    "width": 760,
+    "height": 760,
+    "author": "Benjamint444, edited by Fir0002",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Cherry_Stella444.jpg"
+  },
+  "salgu": {
+    "width": 760,
+    "height": 561,
+    "author": "Zeynel Cebeci",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Apricot_fruits_on_tree,_Ni%C4%9Fde_2017-08-05_01-1.jpg"
+  },
+  "boksunga": {
+    "width": 760,
+    "height": 507,
+    "author": "Allagash Brewing",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Peaches_at_Applecrest_Farm_Orchards_-_20108457519.jpg"
+  },
+  "jadu": {
+    "width": 760,
+    "height": 570,
+    "author": "영어 위키백과의 Fir0002",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Plums_hanging.jpg"
+  },
+  "chamoe": {
+    "width": 760,
+    "height": 570,
+    "author": "hutch",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Korean_melon-Chamoe-01.jpg"
+  },
+  "subak": {
+    "width": 505,
+    "height": 760,
+    "author": "Fred Hsu (Wikipedia:User:Fred Hsu on en.wikipedia)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg"
+  },
+  "melon": {
+    "width": 760,
+    "height": 570,
+    "author": "Seth Vidal",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Muskmelon.jpg"
+  },
+  "bangul-tomato": {
+    "width": 760,
+    "height": 526,
+    "author": "Luc Viatour",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Tomates_cerises_Luc_Viatour.jpg"
+  },
+  "aepeul-mango": {
+    "width": 760,
+    "height": 570,
+    "author": "Asit K. Ghosh Thaumaturgist",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mango_Irwin_Asit_fs8.jpg"
+  },
+  "kaembel-eolli": {
+    "width": 570,
+    "height": 760,
+    "author": "Dragonflyir hassanahmadi",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Abhar-iran.JPG"
+  },
+  "geobong": {
+    "width": 570,
+    "height": 760,
+    "author": "Grialte (Jennie Kondo - Jennie Valdivieso Kondo)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Japan%27s_Kyoho_Grapes.jpg"
+  },
+  "syainmeoskaet": {
+    "width": 522,
+    "height": 760,
+    "author": "黒崎一男",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%83%E3%83%88.jpg"
+  },
+  "muhwagwa": {
+    "width": 760,
+    "height": 507,
+    "author": "Ivar Leidus",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fig_(Ficus_carica)_fruits.jpg"
+  },
+  "dangam": {
+    "width": 760,
+    "height": 507,
+    "author": "Frank Schulenburg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fuyu_persimmon_fruits,_one_cut_open.jpg"
+  },
+  "kiwi": {
+    "width": 760,
+    "height": 519,
+    "author": "Luc Viatour",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:Kiwi_(Actinidia_chinensis)_1_Luc_Viatour.jpg"
+  },
+  "seongnyu": {
+    "width": 475,
+    "height": 760,
+    "author": "a Wikimedia Commons contributor",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Illustration_Punica_granatum1.jpg"
+  },
+  "daechu": {
+    "width": 501,
+    "height": 760,
+    "author": "Francisco Manuel Blanco (O.S.A.)",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Zizyphus_jujuba_Blanco1.59-cropped.jpg"
+  },
+  "hodu": {
+    "width": 760,
+    "height": 570,
+    "author": "abu a.k.a Andrzej Burak",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Walnuss.jpg"
+  },
+  "jat": {
+    "width": 633,
+    "height": 760,
+    "author": "MPF",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:KoreanPineSeeds.jpg"
+  },
+  "ttangkong": {
+    "width": 512,
+    "height": 760,
+    "author": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Arachis_hypogaea_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-163.jpg"
+  },
+  "banana": {
+    "width": 520,
+    "height": 760,
+    "author": "a Wikimedia Commons contributor",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Luxor,_Banana_Island,_Banana_Tree,_Egypt,_Oct_2004.jpg"
+  },
+  "painaepeul": {
+    "width": 760,
+    "height": 510,
+    "author": "말라얄람어 위키백과의 Suniltg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg"
+  },
+  "bomdong": {
+    "width": 760,
+    "height": 507,
+    "author": "semizzang",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bomdong_cabbage.jpg"
+  },
+  "minari": {
+    "width": 760,
+    "height": 564,
+    "author": "KENPEI",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Oenanthe_javanica1.jpg"
+  },
+  "naengi": {
+    "width": 493,
+    "height": 760,
+    "author": "Johann Georg Sturm (Painter: Jacob Sturm)",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Capsella_bursa-pastoris_Sturm23.jpg"
+  },
+  "dallae": {
+    "width": 760,
+    "height": 506,
+    "author": "Moosimi",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Allium_monanthum.jpg"
+  },
+  "ssuk": {
+    "width": 760,
+    "height": 510,
+    "author": "Asfreeas",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Wormwood2.jpg"
+  },
+  "chwinamul": {
+    "width": 760,
+    "height": 505,
+    "author": "hellaOAKLAND at Flickr",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Korean_cuisine-Namul-06.jpg"
+  },
+  "gosari": {
+    "width": 449,
+    "height": 760,
+    "author": "Carl Axel Magnus Lindman",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Pteridium_aquilinum_nf.jpg"
+  },
+  "maneul": {
+    "width": 459,
+    "height": 760,
+    "author": "a Wikimedia Commons contributor",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Allium_sativum_Woodwill_1793.jpg"
+  },
+  "haji-gamja": {
+    "width": 506,
+    "height": 760,
+    "author": "Amédée Masclef",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:234_Solanum_tuberosum_L.jpg"
+  },
+  "tomato": {
+    "width": 517,
+    "height": 760,
+    "author": "Francisco Manuel Blanco (O.S.A.)",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Lycopersicum_philippinarum_Blanco1.43b.jpg"
+  },
+  "chal-oksusu": {
+    "width": 760,
+    "height": 534,
+    "author": "국립국어원",
+    "license": "CC BY-SA 2.0 kr",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/kr/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Glutinous_corn.jpg"
+  },
+  "songi": {
+    "width": 760,
+    "height": 570,
+    "author": "Ryane Snow (snowman)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2010-08-06_Tricholoma_matsutake_(S._Ito_%26_S._Imai)_Singer_97084.jpg"
+  },
+  "neungi": {
+    "width": 760,
+    "height": 532,
+    "author": "Holger Krisp",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Habichtspilz-Sarcodon-imbricatus.jpg"
+  },
+  "pyogo": {
+    "width": 593,
+    "height": 760,
+    "author": "a Wikimedia Commons contributor",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Lentinula_edodes_USDA.jpg"
+  },
+  "memil": {
+    "width": 570,
+    "height": 760,
+    "author": "Dalgial",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%EB%A9%94%EB%B0%80.JPG"
+  },
+  "doraji": {
+    "width": 427,
+    "height": 760,
+    "author": "Gaeho77",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Platycodon_grandiflorus,_Seoul.jpg"
+  },
+  "goguma": {
+    "width": 760,
+    "height": 428,
+    "author": "miya (토론)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ipomoea_batatasL_ja01.jpg"
+  },
+  "insam": {
+    "width": 760,
+    "height": 760,
+    "author": "FloraFarm GmbH / Katharina Lohrie",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ginsengpflanze.jpg"
+  },
+  "neulgeun-hobak": {
+    "width": 760,
+    "height": 570,
+    "author": "하얀나래",
+    "license": "CC BY 2.0 kr",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/kr/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Cheongdung-hobak.jpg"
+  },
+  "mu": {
+    "width": 760,
+    "height": 362,
+    "author": "Chris 73",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Daikon.Japan.jpg"
+  },
+  "tteokguk": {
+    "width": 760,
+    "height": 570,
+    "author": "soscs",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Tteokguk.jpg"
+  },
+  "gorosoe": {
+    "width": 570,
+    "height": 760,
+    "author": "Christian Hummert (Ixitixel)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Acer_mono_(Flower).jpg"
+  },
+  "samgyeopsal-day": {
+    "width": 760,
+    "height": 506,
+    "author": "idkjm123",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Samgyeopsal_(pork_belly).jpg"
+  },
+  "ssuktteok": {
+    "width": 760,
+    "height": 507,
+    "author": "Hyeon-Jeong Suk",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ssuktteok.jpg"
+  },
+  "samgyetang": {
+    "width": 760,
+    "height": 614,
+    "author": "wizdata",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Samgye-tang_2.jpg"
+  },
+  "songpyeon": {
+    "width": 760,
+    "height": 507,
+    "author": "korea.net",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Chuseok_Songpyeon.jpg"
+  },
+  "patsirutteok": {
+    "width": 760,
+    "height": 507,
+    "author": "Hyeon-Jeong Suk",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sirutteok.jpg"
+  },
+  "chapssaltteok": {
+    "width": 760,
+    "height": 507,
+    "author": "Jirka Matousek",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Chapssal-tteok.jpg"
+  },
+  "yeot": {
+    "width": 507,
+    "height": 760,
+    "author": "국립국어원",
+    "license": "CC BY-SA 2.0 kr",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/kr/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Yeot_3.jpg"
+  },
+  "patjuk": {
+    "width": 760,
+    "height": 608,
+    "author": "국립국어원",
+    "license": "CC BY-SA 2.0 kr",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/kr/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Patjuk_(red_bean_porridge).jpg"
+  },
+  "hanu": {
+    "width": 760,
+    "height": 507,
+    "author": "mycrefun",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Hanu.jpg"
+  },
+  "dwaejigogi": {
+    "width": 760,
+    "height": 506,
+    "author": "Rainer Zenz",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Schweinebauch-2.jpg"
+  },
+  "uyu": {
+    "width": 675,
+    "height": 760,
+    "author": "Stefan Kühn",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Milk_glass.jpg"
+  },
+  "gul": {
+    "width": 760,
+    "height": 570,
+    "author": "a Wikimedia Commons contributor",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Rock-oyster.jpg"
+  },
+  "kkomak": {
+    "width": 570,
+    "height": 760,
+    "author": "Féron Benjamin",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Coque_blanche_(Cerastoderma_edule).jpg"
+  },
+  "garibi": {
+    "width": 760,
+    "height": 690,
+    "author": "a Wikimedia Commons contributor",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Scallop_weathervane.jpg"
+  },
+  "saejogae": {
+    "width": 570,
+    "height": 760,
+    "author": "Féron Benjamin",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Coque_blanche_(Cerastoderma_edule).jpg"
+  },
+  "honghap": {
+    "width": 760,
+    "height": 570,
+    "author": "Steve46814",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Korea-Black_mussels_6680-07.JPG"
+  },
+  "bajirak": {
+    "width": 760,
+    "height": 549,
+    "author": "a Wikimedia Commons contributor",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Ruditapes_philippinarum.jpg"
+  },
+  "kijogae": {
+    "width": 507,
+    "height": 760,
+    "author": "국립국어원",
+    "license": "CC BY-SA 2.0 kr",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/kr/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Pen_shells.jpg"
+  },
+  "jaecheop": {
+    "width": 760,
+    "height": 608,
+    "author": "Yaca2671",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Masijimi_01.jpg"
+  },
+  "jeonbok": {
+    "width": 760,
+    "height": 732,
+    "author": "Kowloonese",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:AbaloneOutside.jpg"
+  },
+  "sora": {
+    "width": 760,
+    "height": 694,
+    "author": "James St. John",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Turbo_cornutus_(horned_turban_snail)_2_(25031884946).jpg"
+  },
+  "kkotge": {
+    "width": 760,
+    "height": 570,
+    "author": "self",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Portunus_trituberculatus.jpg"
+  },
+  "daege": {
+    "width": 760,
+    "height": 570,
+    "author": "Totti",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Chionoecetes_opilio_Kanikkokan.jpg"
+  },
+  "hongge": {
+    "width": 760,
+    "height": 402,
+    "author": "Daderot",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Chionoecetes_japonicus_-_National_Museum_of_Nature_and_Science,_Tokyo_-_DSC06895.JPG"
+  },
+  "kingkeurab": {
+    "width": 760,
+    "height": 518,
+    "author": "David Csepp, NMFS/AKFSC/ABL.",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Fish4032_-_Flickr_-_NOAA_Photo_Library.jpg"
+  },
+  "jukkumi": {
+    "width": 760,
+    "height": 498,
+    "author": "Totti",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Octopus_ocellatus_Miyajima2.jpg"
+  },
+  "nakji": {
+    "width": 760,
+    "height": 760,
+    "author": "a Wikimedia Commons contributor",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:Octopus_minor_by_OpenCage.jpg"
+  },
+  "muneo": {
+    "width": 760,
+    "height": 570,
+    "author": "NOAA/R. N. Lea [1]",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Enteroctopus_dolfeini.jpg"
+  },
+  "salojingeo": {
+    "width": 760,
+    "height": 444,
+    "author": "self",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Todarodes_pacificus_ruler.jpg"
+  },
+  "hanchi": {
+    "width": 760,
+    "height": 608,
+    "author": "SEFSC Pascagoula Laboratory; Collection of Brandi Noble, NOAA/NMFS/...",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Lolliguncula_brevis1.jpg"
+  },
+  "meongge": {
+    "width": 760,
+    "height": 570,
+    "author": "bifyu",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Halocynthia_roretzi-Sea_pineapples_at_Tsukiji_Market-01.jpg"
+  },
+  "mideodeok": {
+    "width": 569,
+    "height": 760,
+    "author": "Matthieu Sontag (User:Mirgolth)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Styela_clava.JPG"
+  },
+  "haesam": {
+    "width": 760,
+    "height": 760,
+    "author": "de:User:Cubanito",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Holothuria_cf_arguinensis.jpg"
+  },
+  "seongge": {
+    "width": 760,
+    "height": 673,
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Echinometra_mathaei_MHNT_Philippines.jpg"
+  },
+  "gaebul": {
+    "width": 760,
+    "height": 570,
+    "author": "J. Patrick Fischer",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Echiura_in_Korea1.jpg"
+  },
+  "miyeok": {
+    "width": 760,
+    "height": 504,
+    "author": "division, CSIRO",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_952_Undaria_pinnatifida_Japanese_kelp.jpg"
+  },
+  "dasima": {
+    "width": 760,
+    "height": 507,
+    "author": "freddy an",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Dasima_2.jpg"
+  },
+  "bungeoppang": {
+    "width": 760,
+    "height": 760,
+    "author": "Penny Richards",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Boong_o_bbang.jpg"
+  },
+  "hoppang": {
+    "width": 570,
+    "height": 760,
+    "author": "TFurban",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hoppang_machine.jpg"
+  },
+  "eomuk": {
+    "width": 760,
+    "height": 568,
+    "author": "Pibiy",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Assorted_Eomuk.jpg"
+  },
+  "gyeranppang": {
+    "width": 760,
+    "height": 507,
+    "author": "travel oriented from Seoul, South Korea",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gyeranppang_by_travel_oriented.jpg"
+  },
+  "gunbam": {
+    "width": 760,
+    "height": 570,
+    "author": "User:Jengod",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Roastedchestnuts.JPG"
+  },
+  "gul-gukbap": {
+    "width": 760,
+    "height": 570,
+    "author": "by lwy",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Korean_soup-Gulgukbap-01.jpg"
+  },
+  "yuja-cha": {
+    "width": 760,
+    "height": 564,
+    "author": "국립국어원",
+    "license": "CC BY-SA 2.0 kr",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/kr/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Yujacha.jpg"
+  },
+  "patbingsu": {
+    "width": 570,
+    "height": 760,
+    "author": "레비",
+    "license": "CC BY 2.0 kr",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/kr/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Korean_shaved-ice_Patbingsu_A01.jpg"
+  },
+  "naengmyeon": {
+    "width": 760,
+    "height": 507,
+    "author": "korea.net",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dongmu_Bapsang_02.jpg"
+  },
+  "kongguksu": {
+    "width": 760,
+    "height": 509,
+    "author": "egg (Hong, Yun Seon)",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Korean_noodles-Kongguksu-01.jpg"
+  },
+  "mulhoe": {
+    "width": 760,
+    "height": 506,
+    "author": "사람냄새",
+    "license": "CC BY 2.0 kr",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/kr/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Mulhoe.jpg"
+  },
+  "subak-hwachae": {
+    "width": 760,
+    "height": 574,
+    "author": "Dr 방원장",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Subak-hwachae.jpg"
+  },
+  "misutgaru": {
+    "width": 760,
+    "height": 507,
+    "author": "국립국어원",
+    "license": "CC BY-SA 2.0 kr",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/kr/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Misutgaru.jpg"
+  },
+  "bangeo": {
+    "width": 760,
+    "height": 506,
+    "author": "E-190's",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Seriola_quinqueradiata_(200810).jpg"
+  },
+  "mineo": {
+    "width": 570,
+    "height": 760,
+    "author": "Sadopaul",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Miichthys_miiuy_at_Sinan_in_2026_(1).jpg"
+  },
+  "baechu": {
+    "width": 570,
+    "height": 760,
+    "author": "Scot Nelson from USA",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Napa_Cabbage_(Won_Bok,_Chinese_Cabbage,_Celery_Cabbage)_Bacterial_soft_rot_(35468272752).jpg"
+  },
+  "samchi": {
+    "width": 570,
+    "height": 760,
+    "author": "re_nebel",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Scomberomorus_niphonius_1.jpg"
+  },
+  "kkongchi": {
+    "width": 760,
+    "height": 507,
+    "author": "出羽雀台",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cololabis_saira_in_a_tank.jpg"
+  },
+  "hwangtae": {
+    "width": 760,
+    "height": 570,
+    "author": "경빈마마",
+    "license": "CC BY 2.0 kr",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/kr/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Hwangtae-gui.jpg"
+  },
+  "bam": {
+    "width": 760,
+    "height": 571,
+    "author": "John Robert McPherson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Castanea_crenata_City_Botanic_Gardens_Brisbane_L1150811.jpg"
+  },
+  "yangpa": {
+    "width": 760,
+    "height": 759,
+    "author": "Jonathunder",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:OnionBulbRoots.jpg"
+  },
+  "maesaengi": {
+    "width": 760,
+    "height": 570,
+    "author": "lazy fri13th",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Maesaengi-guk.jpg"
+  },
+  "gungoguma": {
+    "width": 760,
+    "height": 663,
+    "author": "국립국어원",
+    "license": "CC BY-SA 2.0 kr",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/kr/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Gungoguma_(roasted_sweet_potatoes).jpg"
+  },
+  "hotteok": {
+    "width": 760,
+    "height": 507,
+    "author": "Korea.net / Korean Culture and Information Service",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hotteok.jpg"
+  },
+  "daegu": {
+    "width": 760,
+    "height": 358,
+    "author": "Totti",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gadus_macrocephalus_Kamo1.jpg"
+  },
+  "maesil": {
+    "width": 760,
+    "height": 570,
+    "author": "Pieria(Uploader and Photographer)",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Japanese_apricot-Fruit.jpg"
+  },
+  "omija": {
+    "width": 760,
+    "height": 570,
+    "author": "三上 勝生",
+    "license": "CC BY-SA 2.1 jp",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Schisandra_chinensis,_fruit_01.jpg"
+  },
+  "chamdureup": {
+    "width": 608,
+    "height": 760,
+    "author": "Melsj",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Korean_angelica-tree_shoots.jpg"
+  },
+  "ogokbap": {
+    "width": 760,
+    "height": 505,
+    "author": "jyleen21",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Ogokbap(five-grain_rice)_boreum_namul.jpg"
+  },
+  "buse": {
+    "width": 760,
+    "height": 760,
+    "author": "Superbass",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Apfel-Fuji.jpg"
+  },
+  "singo": {
+    "width": 760,
+    "height": 570,
+    "author": "Choe YongWoo",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Korean_pear_2.jpg"
+  },
+  "patkalguksu": {
+    "width": 760,
+    "height": 428,
+    "author": "Mar del Este",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pat-kal-guksu_Korean_red_bean_noodles01.jpg"
+  },
+  "jang-damgi": {
+    "width": 760,
+    "height": 428,
+    "author": "Mar del Este",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Korean_pottery-jangdoks_in_Gangjin_Jeollanamdo(2).jpg"
+  },
+  "gimjang-bossam": {
+    "width": 760,
+    "height": 570,
+    "author": "by Nicole Cho (nchoz) at Flickr",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Korean_cuisine-Bossam-01.jpg"
+  },
+  "daeha": {
+    "width": 760,
+    "height": 570,
+    "author": "PDD Ping Done OK",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1%E5%8D%80_Nanshan_%E8%90%AC%E7%A7%91%E9%87%8C%E6%9D%B1%E9%87%8C_China_Vanke_Lane_In_Street_East_Mall_shop_%E6%98%8C%E4%BA%95%E9%9F%93%E5%9C%8B%E7%83%A4%E8%82%89%E8%87%AA%E5%8A%A9%E9%A4%90%E5%BB%B3_ChangJing_Korean_Barbecue_Meat_Buffet_Restaurant_seafood_prawn_shrimp_July_2025_R12S_14.jpg"
+  },
+  "mulmegi": {
+    "width": 760,
+    "height": 496,
+    "author": "P. Roetter",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Liparis_mucosus.jpg"
+  },
+  "eunhaeng": {
+    "width": 760,
+    "height": 760,
+    "author": "Fumikas Sagisavas",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Raw_ginkgo_nuts.jpg"
+  },
+  "haepssal": {
+    "width": 760,
+    "height": 606,
+    "author": "SRA Jeffrey Allen",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:South_Koreans_harvest_rice_in_the_Demilitarized_Zone_of_Korea,_1988.JPEG"
+  },
+  "boknal-chikin": {
+    "width": 760,
+    "height": 457,
+    "author": "happy o'ne",
+    "license": "CC BY 2.0 kr",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/kr/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Korean_fried_chicken_3_banban.jpg"
+  }
+}

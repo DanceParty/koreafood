@@ -279,7 +279,7 @@ export function Wheel() {
         onPointerLeave={(event) => { if (event.pointerType === "mouse") setHit(null); }}
         onKeyDown={onKey}
       >
-        <svg ref={disc} class="disc" viewBox={`0 0 ${WHEEL.size} ${WHEEL.size}`} aria-hidden="true">
+        <svg ref={disc} class="disc" viewBox={`0 0 ${WHEEL.size} ${WHEEL.size}`} aria-hidden="true" style={{ transform: `rotate(${-yearFraction(day.peek()) * 360}deg)` }}>
           <circle class="rim-line" cx={WHEEL.center} cy={WHEEL.center} r={WHEEL.rimInner} />
           <circle class="rim-line" cx={WHEEL.center} cy={WHEEL.center} r={WHEEL.rimOuter} />
           {months.map((month) => {

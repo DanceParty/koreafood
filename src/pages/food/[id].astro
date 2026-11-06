@@ -3,11 +3,13 @@ import Base from "../../layouts/Base.astro";
 import { FoodStatus } from "../../components/FoodStatus.tsx";
 import { YearStrip } from "../../components/YearStrip.tsx";
 import { LANE_LABELS } from "../../lib/client-data.ts";
-import { looseDate, toParts, todayInSeoul, yearFraction } from "../../lib/dates.ts";
+import type { FoodWindow } from "../../data/schema.ts";
+import { looseDate, shortDate, toParts, todayInSeoul, yearFraction } from "../../lib/dates.ts";
 import { ALL_FOODS, foodById, printedForFood, sourceLabel } from "../../lib/foods.ts";
 import { itIs } from "../../lib/korean.ts";
 import { MONTH_COPY } from "../../lib/months.ts";
 import { printFor } from "../../lib/prints.ts";
+import { spansInYear } from "../../lib/season.ts";
 
 export function getStaticPaths() {
   return ALL_FOODS.map((food) => ({ params: { id: food.id }, props: { food } }));
@@ -15,15 +17,21 @@ export function getStaticPaths() {
 
 const { food } = Astro.props;
 const builtOn = todayInSeoul();
-const year = toParts(builtOn).year;
+const thisYear = toParts(builtOn).year;
+const anchored = food.windows.filter((window) => "anchor" in window);
+const passed = anchored.length > 0 && spansInYear(anchored, thisYear).every((span) => span.end < builtOn);
+const year = passed ? thisYear + 1 : thisYear;
 const printed = printedForFood(food);
 const related = food.related.flatMap((id) => {
   const other = foodById.get(id);
   return other ? [other] : [];
 });
 const tierLabel = { national: "National obsession", known: "Widely known", local: "Regional or insider" }[food.tier];
-const windowsText = food.windows.flatMap((window) =>
-  "from" in window ? [`${looseDate(window.from)} to ${looseDate(window.to)}`] : []);
+const yearFor = (window: FoodWindow) => {
+  if (!("anchor" in window)) return null;
+  const [span] = spansInYear([window], year);
+  return span ? `${shortDate(span.start)} to ${shortDate(span.end)}, ${year}` : null;
+};
 const seasonLine = food.noSeason
   ? "No real season."
   : food.undated
@@ -64,16 +72,17 @@ const description = food.blurb.slice(0, 155);
           {food.closures.length > 0 ? <li><i class="k-closed" />Closed by law</li> : null}
         </ul>
       ) : null}
-      {food.windows.some((window) => window.label) ? (
+      {food.windows.some((window) => window.label || "anchor" in window) ? (
         <ul class="window-notes">
-          {food.windows.filter((window) => window.label).map((window) => (
+          {food.windows.filter((window) => window.label || "anchor" in window).map((window) => (
             <li>
-              {"from" in window ? <span class="wn-date">{looseDate(window.from)} to {looseDate(window.to)}</span> : <span class="wn-date">Moves with the calendar</span>}
+              <span class="wn-date">{"from" in window ? `${looseDate(window.from)} to ${looseDate(window.to)}` : yearFor(window)}</span>
               {window.label}
             </li>
           ))}
         </ul>
       ) : null}
+      {anchored.length > 0 ? <p class="certainty">Follows the lunar or solar calendar, so the dates move each year.</p> : null}
       {certainty ? <p class="certainty">{certainty}</p> : null}
     </section>
 

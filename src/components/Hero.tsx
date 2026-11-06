@@ -38,6 +38,7 @@ export function Hero() {
       .sort((a, b) => pickOrder(a, holiday) - pickOrder(b, holiday) || b.score - a.score)
       .slice(0, PICKS);
   });
+  const count = useComputed(() => inSeason(FOODS, settledDay.value).length);
   const turn = useSignal(0);
   const list = picks.value;
   const pick = list.length > 0 ? list[turn.value % list.length] : undefined;
@@ -107,6 +108,9 @@ export function Hero() {
           Back to today, {shortDate(today.value)}
         </button>
       ) : null}
+      <p class="line-what">
+        Korea's food year on a wheel. Spin it to any day, or see the <a href="#wall">{count.value} foods in season {isToday ? "today" : `on ${shortDate(day.value)}`}</a>.
+      </p>
     </section>
   );
 }

@@ -29,9 +29,8 @@ async function halftone(input: string, output: string): Promise<{ width: number;
     .rotate()
     .resize({ width: SIZE, height: SIZE, fit: "inside", withoutEnlargement: false })
     .grayscale()
-    .normalize({ lower: 2, upper: 98 })
-    .gamma(1.3)
-    .blur(1.1)
+    .normalize({ lower: 1, upper: 96 })
+    .blur(0.9)
     .raw()
     .toBuffer({ resolveWithObject: true });
 
@@ -48,8 +47,9 @@ async function halftone(input: string, output: string): Promise<{ width: number;
       const dv = v - Math.floor(v) - 0.5;
       const distance = Math.hypot(du, dv);
       const luminance = (data[y * width + x] ?? 255) / 255;
-      const darkness = 1 - luminance;
-      const radius = Math.sqrt(darkness) * 0.74;
+      const lifted = luminance ** 0.62;
+      const darkness = Math.max(0, 1 - lifted - 0.04);
+      const radius = Math.sqrt(darkness) * 0.8;
       const edge = (radius - distance) * CELL + 0.5;
       alpha[y * width + x] = Math.round(Math.max(0, Math.min(1, edge)) * 255);
     }
@@ -63,13 +63,25 @@ async function halftone(input: string, output: string): Promise<{ width: number;
   return { width, height };
 }
 
+function credit(author: string): string {
+  const clean = author
+    .replaceAll("&amp;", "&")
+    .replace(/, https?:\S+/g, "")
+    .replace(/^This (image|photo) (was created|has been taken) by (user )?/i, "")
+    .replace(/\s+(at Mushroom Observer|and released under).*$/i, "")
+    .replace(/^미상/, "")
+    .trim();
+  if (!clean || /^unknown/i.test(clean)) return "a Wikimedia Commons contributor";
+  return clean.length > 70 ? `${clean.slice(0, 67).trimEnd()}...` : clean;
+}
+
 mkdirSync(OUT, { recursive: true });
 const credits: Record<string, unknown> = {};
 for (const id of Object.keys(approved)) {
   const entry = found[id];
   if (!entry) throw new Error(`no photo for ${id}`);
   const size = await halftone(join(rawDir, `${id}.jpg`), join(OUT, `${id}.webp`));
-  credits[id] = { ...size, author: entry.author.slice(0, 120), license: entry.license, licenseUrl: entry.licenseUrl, page: entry.page };
+  credits[id] = { ...size, author: credit(entry.author), license: entry.license, licenseUrl: entry.licenseUrl, page: entry.page };
 }
 writeFileSync("src/data/prints.json", `${JSON.stringify(credits, null, 2)}\n`);
 console.log(`${Object.keys(credits).length} prints`);

@@ -7,9 +7,15 @@ const foods: Food[] = readdirSync(dir)
   .filter((name) => name.endsWith(".json"))
   .flatMap((name) => JSON.parse(readFileSync(join(dir, name), "utf8")));
 
-const client = foods.map(({ id, ko, rr, en, phrase, lane, tier, windows }) => ({
-  id, ko, rr, en, ...(phrase ? { phrase } : {}), lane, tier, windows,
-}));
+const prints: Record<string, { width: number; height: number } | undefined> = JSON.parse(readFileSync("src/data/prints.json", "utf8"));
+
+const client = foods.map(({ id, ko, rr, en, phrase, lane, tier, windows }) => {
+  const print = prints[id];
+  return {
+    id, ko, rr, en, ...(phrase ? { phrase } : {}), lane, tier, windows,
+    ...(print ? { print: Math.round((print.width / print.height) * 100) / 100 } : {}),
+  };
+});
 
 const events: CalendarEvent[] = JSON.parse(readFileSync("src/data/events.json", "utf8"));
 
