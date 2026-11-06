@@ -118,13 +118,7 @@
     ],
     "eat": [],
     "where": [],
-    "closures": [
-      {
-        "from": "03-01",
-        "to": "06-30",
-        "note": "One defined sea area only. Researchers' reading of the statute"
-      }
-    ],
+    "closures": [],
     "festivals": [],
     "related": [],
     "sources": [
@@ -167,13 +161,7 @@
       "Namdang Harbor (남당항)",
       "Cheonsuman (천수만)"
     ],
-    "closures": [
-      {
-        "from": "06-16",
-        "to": "09-30",
-        "note": "Southern regions, Jeju 6/1-9/30. Researchers' reading"
-      }
-    ],
+    "closures": [],
     "festivals": [
       "Hongseong Namdang Harbor Egg Cockle Festival (23rd), Jan 17-Feb 22, 2026"
     ],
@@ -199,7 +187,7 @@
     "windows": [
       {
         "from": "12-01",
-        "to": "02-28",
+        "to": "03-31",
         "kind": "peak",
         "mark": "est",
         "label": "Harvest from Dec"
@@ -280,7 +268,7 @@
         "to": "02-28",
         "kind": "season",
         "mark": "sourced",
-        "label": "Namu starts in Feb"
+        "label": "One wiki starts in Feb"
       }
     ],
     "eat": [],
@@ -485,7 +473,7 @@
         "to": "10-31",
         "kind": "peak",
         "mark": "weak",
-        "label": "Namu season"
+        "label": "One wiki's season"
       }
     ],
     "eat": [],
@@ -663,33 +651,12 @@
         "to": "06-30",
         "kind": "peak",
         "mark": "weak",
-        "label": "Namu season"
+        "label": "One wiki's season"
       }
     ],
     "eat": [],
     "where": [],
-    "closures": [
-      {
-        "from": "06-01",
-        "to": "08-31",
-        "note": "Jeju. Researchers' reading of the statute"
-      },
-      {
-        "from": "07-01",
-        "to": "08-31",
-        "note": "Chuja Island. Researchers' reading"
-      },
-      {
-        "from": "06-01",
-        "to": "07-31",
-        "note": "Ulleung and Dokdo. Researchers' reading"
-      },
-      {
-        "from": "06-01",
-        "to": "06-30",
-        "note": "Yeosu Samsan-myeon. Researchers' reading"
-      }
-    ],
+    "closures": [],
     "festivals": [],
     "related": [],
     "sources": [
@@ -709,8 +676,8 @@
     "en": "Turban shell",
     "phrase": "turban shells",
     "tier": "known",
-    "blurb": "Turban shell snails. One wiki says Mar-Jun, while a Geoje fishing list names winter, spring and autumn. Closed seasons fall in summer and vary by region.",
-    "caveat": "The window rests on that one wiki. The closed-season dates come from a garbled copy of the fishing statute and were matched up by hand, so treat them as approximate."
+    "blurb": "Turban shell snails. One wiki says Mar-Jun, while a Geoje fishing list names winter, spring and autumn.",
+    "caveat": "The window rests on that one wiki."
   },
   {
     "aka": [
@@ -759,7 +726,7 @@
         "to": "06-30",
         "kind": "peak",
         "mark": "weak",
-        "label": "Namu season"
+        "label": "One wiki's season"
       }
     ],
     "eat": [],
@@ -998,17 +965,7 @@
       {
         "from": "06-21",
         "to": "08-20",
-        "note": "Practical dates in Incheon waters"
-      },
-      {
-        "from": "07-01",
-        "to": "08-31",
-        "note": "Yeonpyeong"
-      },
-      {
-        "from": "07-16",
-        "to": "09-15",
-        "note": "Baengnyeong and Daecheong"
+        "note": "Practical dates. Local variants at Yeonpyeong and Baengnyeong"
       }
     ],
     "festivals": [],
@@ -1067,12 +1024,7 @@
       {
         "from": "06-01",
         "to": "10-31",
-        "note": "East of 131°30'E"
-      },
-      {
-        "from": "06-01",
-        "to": "11-30",
-        "note": "Elsewhere. Females banned all year"
+        "note": "East of 131°30'E. Elsewhere it runs to Nov 30, and females are banned all year"
       }
     ],
     "festivals": [
@@ -1521,13 +1473,6 @@
         "kind": "peak",
         "mark": "sourced",
         "label": "Roe-filled females"
-      },
-      {
-        "from": "09-01",
-        "to": "09-30",
-        "kind": "season",
-        "mark": "sourced",
-        "label": "Autumn fishing reopens"
       }
     ],
     "eat": [],
@@ -1629,13 +1574,7 @@
     "windows": [],
     "eat": [],
     "where": [],
-    "closures": [
-      {
-        "from": "05-16",
-        "to": "06-30",
-        "note": "참문어 only. Provinces can reset it"
-      }
-    ],
+    "closures": [],
     "festivals": [],
     "related": [],
     "sources": [
@@ -1968,7 +1907,7 @@
         "to": "11-30",
         "kind": "peak",
         "mark": "weak",
-        "label": "Namu season"
+        "label": "One wiki's season"
       }
     ],
     "eat": [],
@@ -2244,7 +2183,7 @@
         "to": "03-31",
         "kind": "peak",
         "mark": "weak",
-        "label": "Namu season"
+        "label": "One wiki's season"
       }
     ],
     "eat": [],

@@ -31,6 +31,13 @@ describe("food data", () => {
   });
 });
 
+describe("window labels", () => {
+  it("are plain English", () => {
+    const labels = ALL_FOODS.flatMap((food) => food.windows.flatMap((window) => (window.label ? [`${food.id}: ${window.label}`] : [])));
+    expect(labels.filter((label) => /[가-힣]|\bNamu\b|\bRDA\b/.test(label))).toEqual([]);
+  });
+});
+
 describe("wheel layout", () => {
   it("puts every national or known food with a window on a track", () => {
     const { tracks } = layoutTracks(ALL_FOODS, 2027);

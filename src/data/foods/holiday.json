@@ -189,8 +189,8 @@
         "before": 3,
         "after": 3,
         "kind": "peak",
-        "mark": "sourced",
-        "label": "Around 경칩"
+        "mark": "est",
+        "label": "Around Gyeongchip"
       }
     ],
     "blurb": "Maple sap drunk around Gyeongchip (경칩), the insects-wake solar term in early March. Fading or niche now. A Jinan festival runs in mid-March, and Korean-medicine health claims get repeated without a cited study.",
@@ -303,7 +303,7 @@
         "after": 0,
         "kind": "peak",
         "mark": "sourced",
-        "label": "청명 and 한식"
+        "label": "Cheongmyeong and Hansik"
       },
       {
         "anchor": "dano",
@@ -311,7 +311,7 @@
         "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "단오"
+        "label": "Dano"
       }
     ],
     "blurb": "Rice cake with mugwort (ssuk, 쑥), tied to Cheongmyeong (청명) and Hansik (한식) in April and to Dano (단오) in June. The mugwort itself is seasonal. The Hansik cold-food custom is effectively gone, and the Dano version is fading.",
@@ -354,7 +354,7 @@
         "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "입하"
+        "label": "Ipha"
       }
     ],
     "blurb": "Mugwort cake made at Ipha (입하), the start of summer in early May. The Encyclopedia of Korean Culture records it as a seasonal food of Songpa only, and no source shows wider practice.",
@@ -389,7 +389,7 @@
         "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "초파일"
+        "label": "Buddha's Birthday"
       }
     ],
     "blurb": "Rice cake (jeungpyeon, 증편) for Chopail (초파일), Buddha's Birthday on the 8th of the fourth lunar month. A temple-centred custom, so a fading one.",
@@ -425,7 +425,7 @@
         "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "초파일"
+        "label": "Buddha's Birthday"
       }
     ],
     "blurb": "Mugwort cake (ssukbeomuri, 쑥버무리) for Chopail (초파일), Buddha's Birthday. A temple-centred custom, so a fading one.",
@@ -462,7 +462,7 @@
         "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "망종"
+        "label": "Mangjong"
       }
     ],
     "blurb": "Green barley at Mangjong (망종), the grain-in-ear solar term around June 6. The Encyclopedia of Korean Culture records South Jeolla burning green barley (bori geueureum, 보리 그을음). No source says how widely it's still done or pins down a region for barley porridge.",
@@ -495,7 +495,7 @@
         "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "단오"
+        "label": "Dano"
       }
     ],
     "blurb": "Rice cake made with mountain aster (surichwi, 수리취) for Dano (단오), the fifth day of the fifth lunar month. Mostly seen at museums and festivals now.",
@@ -532,7 +532,7 @@
         "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "단오"
+        "label": "Dano"
       }
     ],
     "blurb": "Cherry punch (aengdu hwachae, 앵두화채) for Dano (단오) in June. Mostly seen at museums and festivals now.",
@@ -576,7 +576,7 @@
         "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "초복"
+        "label": "Chobok"
       },
       {
         "anchor": "jungbok",
@@ -584,7 +584,7 @@
         "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "중복"
+        "label": "Jungbok"
       },
       {
         "anchor": "malbok",
@@ -592,7 +592,7 @@
         "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "말복"
+        "label": "Malbok"
       }
     ],
     "blurb": "Whole-chicken soup eaten on the three Boknal (복날), the hottest days of summer. Still hugely popular: on Chobok (초복), the first Boknal, in 2026, table orders for baeksuk (백숙) and samgyetang ran 3.4x those of the same weekday a week earlier, per TOrder (티오더) data.",
@@ -639,7 +639,7 @@
         "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "초복"
+        "label": "Chobok"
       },
       {
         "anchor": "jungbok",
@@ -647,7 +647,7 @@
         "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "중복"
+        "label": "Jungbok"
       },
       {
         "anchor": "malbok",
@@ -655,7 +655,7 @@
         "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "말복"
+        "label": "Malbok"
       }
     ],
     "blurb": "Fried chicken ordered on Boknal (복날), the three hottest days of summer. Chicken has displaced dog-meat soup (boshintang, 보신탕) there. On Chobok (초복) in 2026, chicken orders rose 1.6x over the same weekday a week earlier, against 3.4x for samgyetang (TOrder data).",
@@ -694,7 +694,7 @@
         "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "초복"
+        "label": "Chobok"
       },
       {
         "anchor": "jungbok",
@@ -702,7 +702,7 @@
         "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "중복"
+        "label": "Jungbok"
       },
       {
         "anchor": "malbok",
@@ -710,7 +710,7 @@
         "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "말복"
+        "label": "Malbok"
       }
     ],
     "blurb": "Croaker soup, listed among Boknal (복날) foods by the Encyclopedia of Korean Culture. The Boknal custom as a whole is still widely kept, but the croaker side is fading.",
@@ -827,7 +827,7 @@
         "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "유두"
+        "label": "Yudu"
       }
     ],
     "blurb": "Wheat noodles for Yudu (유두), the 15th of the sixth lunar month. Effectively gone: you'll read about it more than you'll eat it. The noodles were beaded, dyed, strung in threes and worn against misfortune.",
@@ -866,7 +866,7 @@
         "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "칠석"
+        "label": "Chilseok"
       }
     ],
     "blurb": "Wheat crepe for Chilseok (칠석), the 7th of the seventh lunar month. Effectively gone now. Baekjung (백중) on the 15th has no fixed dish in the sources.",
@@ -902,11 +902,11 @@
     "windows": [
       {
         "anchor": "chuseok",
-        "before": 10,
-        "after": 2,
+        "before": 2,
+        "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "추석"
+        "label": "Chuseok"
       }
     ],
     "blurb": "Half-moon rice cake for Chuseok (추석), the autumn harvest holiday on the 15th of the eighth lunar month. Still made and eaten everywhere.",
@@ -943,11 +943,11 @@
     "windows": [
       {
         "anchor": "chuseok",
-        "before": 10,
-        "after": 2,
+        "before": 2,
+        "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "추석"
+        "label": "Chuseok"
       }
     ],
     "blurb": "Taro soup (toranguk, 토란국) served at Chuseok (추석). Fading or niche now. Taro itself is listed as a September crop.",
@@ -984,7 +984,7 @@
         "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "추석"
+        "label": "Chuseok"
       }
     ],
     "blurb": "Wine from the new rice, tied to Chuseok (추석). Effectively gone as a custom, so you'll read about it more than you'll drink it. It appears in Nongga Wolryeongga (농가월령가), an 1816 month-by-month farm poem, in the 8th-month section.",
@@ -1021,7 +1021,7 @@
         "after": 2,
         "kind": "peak",
         "mark": "sourced",
-        "label": "한로"
+        "label": "Hallo"
       }
     ],
     "blurb": "Chrysanthemum pancake made around Hallo (한로), a solar term in early October, and on Jungyangjeol (중양절), the 9th of the ninth lunar month. The Encyclopedia of Korean Culture confirms the Hallo pancake, while the Jungyangjeol custom is effectively gone.",
@@ -1056,7 +1056,7 @@
         "after": 2,
         "kind": "peak",
         "mark": "sourced",
-        "label": "한로"
+        "label": "Hallo"
       }
     ],
     "blurb": "Chrysanthemum wine brewed around Hallo (한로), a solar term in early October, and Jungyangjeol (중양절). The Encyclopedia of Korean Culture says people fry chrysanthemum pancakes and brew chrysanthemum liquor (gukhwasul, 국화술) around Hallo. The Jungyangjeol custom is effectively gone.",
@@ -1092,15 +1092,15 @@
         "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "입동"
+        "label": "Ipdong"
       },
       {
-        "anchor": "malnal-winter",
+        "anchor": "sangdal",
         "before": 0,
-        "after": 29,
+        "after": 28,
         "kind": "peak",
         "mark": "est",
-        "label": "Lunar 10th month, 말날"
+        "label": "Sangdal, the lunar 10th month"
       }
     ],
     "blurb": "Red-bean steamed rice cake for Ipdong (입동), a solar term in early November, and for gosa (고사) rites on Malnal (말날) in the lunar 10th month. The Ipdong custom is still kept, with timing moved later, while the Malnal one is fading.",
@@ -1222,7 +1222,7 @@
         "after": 2,
         "kind": "peak",
         "mark": "sourced",
-        "label": "수능"
+        "label": "College exam"
       }
     ],
     "blurb": "Sticky rice cake given to students around the Suneung (수능), the college entrance exam. Still widely given. In 2026 Tous les Jours (뚜레쥬르) sold 6-piece and 9-piece sets in stores for exam week.",
@@ -1260,7 +1260,7 @@
         "after": 2,
         "kind": "peak",
         "mark": "sourced",
-        "label": "수능"
+        "label": "College exam"
       }
     ],
     "blurb": "Hard taffy given for luck around the Suneung (수능) college exam, along with sticky rice cake. Still widely given. In 2026 Tous les Jours (뚜레쥬르) sold a set of sticky rice cake, chocolate and taffy in stores for exam week.",
@@ -1296,7 +1296,7 @@
         "after": 1,
         "kind": "peak",
         "mark": "sourced",
-        "label": "동지"
+        "label": "Dongji"
       }
     ],
     "blurb": "Red-bean porridge for Dongji (동지), the winter solstice, and still widely eaten.",

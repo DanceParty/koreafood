@@ -224,6 +224,14 @@
         "to": "04-30",
         "kind": "peak",
         "mark": "weak"
+      },
+      {
+        "anchor": "soman",
+        "before": 3,
+        "after": 3,
+        "kind": "season",
+        "mark": "weak",
+        "label": "Tied to Soman in the encyclopedia"
       }
     ],
     "eat": [
@@ -1323,14 +1331,14 @@
         "to": "09-30",
         "kind": "peak",
         "mark": "weak",
-        "label": "Namu list"
+        "label": "One wiki"
       },
       {
         "from": "05-01",
         "to": "05-31",
         "kind": "peak",
         "mark": "list",
-        "label": "RDA list"
+        "label": "Farm agency list"
       }
     ],
     "eat": [],
@@ -1736,11 +1744,18 @@
     "aka": [],
     "windows": [
       {
-        "from": "09-01",
-        "to": "10-31",
+        "from": "10-11",
+        "to": "10-20",
         "kind": "peak",
         "mark": "sourced",
-        "label": "Sep-Oct, shipments peak mid Oct"
+        "label": "Shipments peak"
+      },
+      {
+        "from": "09-01",
+        "to": "10-31",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Season"
       }
     ],
     "eat": [
@@ -1992,7 +2007,7 @@
     "windows": [
       {
         "from": "08-21",
-        "to": "09-10",
+        "to": "09-30",
         "kind": "peak",
         "mark": "sourced",
         "label": "Early types"
@@ -2149,10 +2164,11 @@
     "windows": [
       {
         "anchor": "chuseok",
-        "before": 10,
+        "before": 7,
         "after": 2,
         "kind": "peak",
-        "mark": "sourced"
+        "mark": "est",
+        "label": "Around Chuseok"
       }
     ],
     "eat": [

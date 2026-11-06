@@ -604,7 +604,9 @@
     "en": "Horse day for soy sauce making",
     "kind": "holiday",
     "anchor": "malnal-spring",
-    "foods": [],
+    "foods": [
+      "jang-damgi"
+    ],
     "note": "Traditional day for making soy sauce. Avoid monkey days."
   },
   {

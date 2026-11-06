@@ -8,5 +8,5 @@ export const ANCHORS = [
   "seollal", "daeboreum", "samjinnal", "hansik", "chopail", "dano", "yudu",
   "chilseok", "baekjung", "chuseok", "jungyang",
   "chobok", "jungbok", "malbok",
-  "malnal-winter", "malnal-spring", "napil", "suneung",
+  "sangdal", "malnal-winter", "malnal-spring", "napil", "suneung",
 ] as const;

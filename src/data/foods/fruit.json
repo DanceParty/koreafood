@@ -19,6 +19,13 @@
         "kind": "peak",
         "mark": "sourced",
         "label": "Open-field season"
+      },
+      {
+        "from": "12-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Best picked"
       }
     ],
     "blurb": "Jeju's winter mandarin, grown outdoors. Extra-early (geukjosaeng) fruit ships from mid Oct and early (josaeng) fruit from mid Nov, so the crop runs into February. December is when it is best picked.",
@@ -1881,7 +1888,7 @@
         "to": "09-30",
         "kind": "season",
         "mark": "sourced",
-        "label": "Early 서촌조생"
+        "label": "Early Seochon type"
       }
     ],
     "blurb": "A crisp persimmon eaten while firm. Buyu, the main cultivar, ripens late Oct to early Nov and keeps 4-5 months in cold storage. The early seochonjosaeng from late Sep is a weak type.",
@@ -2088,7 +2095,7 @@
         "to": "10-31",
         "kind": "season",
         "mark": "sourced",
-        "label": "청 made"
+        "label": "Syrup season"
       }
     ],
     "blurb": "A red berry picked in mid to late September. People make cheong syrup in Sep-Oct. Mungyeong is the best-known source.",
@@ -2264,7 +2271,7 @@
         "from": "08-21",
         "to": "10-15",
         "kind": "season",
-        "mark": "sourced",
+        "mark": "est",
         "label": "Harvest run"
       }
     ],

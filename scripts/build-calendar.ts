@@ -111,6 +111,7 @@ function anchorsFor(year: number): Record<string, string> {
 
   const isHorse = (ms: number) => branch(ms) === O_HORSE;
   const lunarTenthStart = lunarToSolar(year, 10, 1);
+  out.set("sangdal", lunarTenthStart);
   out.set("malnal-winter", nthDayAfter(lunarTenthStart - DAY_MS, 1, isHorse));
   out.set("malnal-spring", nthDayAfter(lunarToSolar(year, 1, 15), 1, isHorse));
 
@@ -137,7 +138,7 @@ months.sort((a, b) => String(a[0]).localeCompare(String(b[0])));
 
 const check: readonly (readonly [number, string, string])[] = [
   [2026, "ipdong", "2026-11-07"], [2026, "dongji", "2026-12-22"], [2026, "chuseok", "2026-09-25"],
-  [2026, "malnal-winter", "2026-11-16"],
+  [2026, "sangdal", "2026-11-09"], [2026, "malnal-winter", "2026-11-16"],
   [2027, "seollal", "2027-02-07"], [2027, "daeboreum", "2027-02-21"], [2027, "ipchun", "2027-02-04"],
   [2027, "gyeongchip", "2027-03-06"], [2027, "samjinnal", "2027-04-09"], [2027, "cheongmyeong", "2027-04-05"],
   [2027, "hansik", "2027-04-06"], [2027, "gogu", "2027-04-20"], [2027, "ipha", "2027-05-06"],

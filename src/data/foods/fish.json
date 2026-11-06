@@ -78,7 +78,7 @@
       {
         "from": "01-16",
         "to": "02-15",
-        "note": "Statute reading. Press says a January closure"
+        "note": "Press reports a January closure, so check current notices"
       }
     ],
     "festivals": [],
@@ -86,7 +86,7 @@
     "windows": [
       {
         "from": "12-21",
-        "to": "01-31",
+        "to": "01-15",
         "kind": "peak",
         "mark": "sourced",
         "label": "Roe and milt"
@@ -1534,7 +1534,7 @@
         "to": "04-30",
         "kind": "peak",
         "mark": "sourced",
-        "label": "Namu"
+        "label": "One wiki"
       },
       {
         "from": "12-01",
@@ -1632,8 +1632,8 @@
         "before": 7,
         "after": 7,
         "kind": "peak",
-        "mark": "sourced",
-        "label": "Around 곡우, about Apr 20"
+        "mark": "est",
+        "label": "Around Gogu, about Apr 20"
       }
     ],
     "id": "jogi",
@@ -2003,13 +2003,6 @@
         "to": "06-30",
         "kind": "peak",
         "mark": "sourced"
-      },
-      {
-        "from": "04-01",
-        "to": "04-30",
-        "kind": "season",
-        "mark": "sourced",
-        "label": "Catch rises"
       }
     ],
     "id": "baendaengi",
@@ -2246,7 +2239,7 @@
         "to": "08-10",
         "kind": "peak",
         "mark": "sourced",
-        "label": "Top of 삼복"
+        "label": "Top of Sambok"
       },
       {
         "from": "06-01",
@@ -2313,7 +2306,7 @@
         "to": "08-31",
         "kind": "season",
         "mark": "sourced",
-        "label": "복날 demand"
+        "label": "Boknal demand"
       }
     ],
     "id": "baemjangeo",
@@ -2464,7 +2457,7 @@
         "to": "06-20",
         "kind": "peak",
         "mark": "sourced",
-        "label": "Before 하지"
+        "label": "Before Haji"
       },
       {
         "from": "05-01",
@@ -3018,13 +3011,7 @@
       "Boseong (보성)",
       "Jinhae (진해)"
     ],
-    "closures": [
-      {
-        "from": "05-01",
-        "to": "07-15",
-        "note": "Excludes Gangwon and Gyeongbuk, by researchers' row reading"
-      }
-    ],
+    "closures": [],
     "festivals": [
       "Gwangyang Jeoneo Festival (광양전어축제, 25th), Sep 4-6, 2026",
       "Boseong Jeoneo Festival (보성전어축제), started Aug 22, 2025"
@@ -3162,7 +3149,7 @@
         "to": "10-31",
         "kind": "season",
         "mark": "sourced",
-        "label": "Namu Jul-Oct"
+        "label": "One wiki says Jul-Oct"
       }
     ],
     "id": "galchi",
