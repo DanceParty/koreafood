@@ -33,10 +33,15 @@ export function Home({ builtOn }: { builtOn: number }) {
 
   useSignalEffect(() => {
     const current = settledDay.value;
-    const url = new URL(location.href);
-    if (current === today.value) url.searchParams.delete("d");
-    else url.searchParams.set("d", toIso(current));
-    history.replaceState(null, "", url);
+    const isToday = current === today.value;
+    // Safari throws after 100 replaceState calls in 30 seconds, so wait for the dial to rest.
+    const timer = setTimeout(() => {
+      const url = new URL(location.href);
+      if (isToday) url.searchParams.delete("d");
+      else url.searchParams.set("d", toIso(current));
+      history.replaceState(null, "", url);
+    }, 400);
+    return () => clearTimeout(timer);
   });
 
   return (

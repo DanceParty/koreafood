@@ -121,8 +121,9 @@ const FLEETING_LANES: readonly Lane[] = ["fish", "sea", "fruit", "greens"];
 const FLEETING_DAYS = 32;
 
 export function isFleeting(food: SeasonFood, year: number): boolean {
-  const length = longestRun(food.windows, year);
-  const sourced = food.windows.every((window) => window.mark === "sourced");
+  const peaks = food.windows.filter((window) => window.kind === "peak");
+  const length = longestRun(peaks.length > 0 ? peaks : food.windows, year);
+  const sourced = food.windows.some((window) => window.mark === "sourced");
   return sourced && length > 0 && length <= FLEETING_DAYS && FLEETING_LANES.includes(food.lane);
 }
 
