@@ -1,12 +1,12 @@
 import { useComputed, useSignal } from "@preact/signals";
 import { useEffect } from "preact/hooks";
 import { lunarOf, termAt } from "../lib/calendar.ts";
-import { FOODS, upcoming } from "../lib/client-data.ts";
+import { MAIN_FOODS, upcoming } from "../lib/client-data.ts";
 import { monthName, shortDate, toIso, toParts, WEEKDAYS, WEEKDAYS_KO, type DayNum } from "../lib/dates.ts";
 import { headlineRank } from "../lib/headliners.ts";
 import { itIs } from "../lib/korean.ts";
 import { inSeason, type InSeason } from "../lib/season.ts";
-import { day, settledDay, today } from "../lib/store.ts";
+import { day, openWhatElse, settledDay, today } from "../lib/store.ts";
 
 const CYCLE_MS = 5200;
 const PICKS = 6;
@@ -33,12 +33,10 @@ export function Hero() {
   const holiday = useComputed(() => upcoming(day.value, 3).find((entry) => entry.on === day.value && entry.event.kind !== "law"));
   const picks = useComputed(() => {
     const holiday = holidayFoods(settledDay.value);
-    return inSeason(FOODS, settledDay.value)
-      .filter((entry) => entry.food.tier !== "local")
+    return inSeason(MAIN_FOODS, settledDay.value)
       .sort((a, b) => pickOrder(a, holiday) - pickOrder(b, holiday) || b.score - a.score)
       .slice(0, PICKS);
   });
-  const count = useComputed(() => inSeason(FOODS, settledDay.value).length);
   const turn = useSignal(0);
   const list = picks.value;
   const pick = list.length > 0 ? list[turn.value % list.length] : undefined;
@@ -97,20 +95,16 @@ export function Hero() {
           Around this time of year, it's {pick ? <a href={`/food/${pick.food.id}/`}>{pick.food.phrase ?? pick.food.en.toLowerCase()}</a> : "anyone's guess"}.
         </span>
       </h1>
-      {list.length > 1 ? (
-        <button type="button" class="line-next" onClick={() => { turn.value += 1; }}>
-          Or what else? <span lang="ko">또 뭐 있어?</span>
-        </button>
-      ) : null}
+      <button type="button" class="line-next" onClick={openWhatElse}>
+        Or what else? <span lang="ko">또 뭐 있어?</span>
+      </button>
       <button type="button" class="share" onClick={share}>{copied.value ? "Link copied" : "Share this day"}</button>
       {!isToday ? (
         <button type="button" class="back-today" onClick={() => window.dispatchEvent(new CustomEvent("wheel:goto", { detail: today.value }))}>
           Back to today, {shortDate(today.value)}
         </button>
       ) : null}
-      <p class="line-what">
-        Korea's food year on a wheel. Spin it to any day, or see the <a href="#wall">{count.value} foods in season {isToday ? "today" : `on ${shortDate(day.value)}`}</a>.
-      </p>
+      <p class="line-what">Korea's food year on a wheel. Spin it to any day.</p>
     </section>
   );
 }

@@ -18,7 +18,8 @@ export const ALL_FOODS: readonly Food[] = foodSchema.array().parse([
 export const foodById = new Map(ALL_FOODS.map((food) => [food.id, food]));
 
 const TIER_RANK: Record<Food["tier"], number> = { national: 0, known: 1, local: 2 };
-export const byImportance = (a: Food, b: Food) => TIER_RANK[a.tier] - TIER_RANK[b.tier] || a.id.localeCompare(b.id);
+export const byImportance = (a: Food, b: Food) =>
+  headlineRank(a.id) - headlineRank(b.id) || TIER_RANK[a.tier] - TIER_RANK[b.tier] || a.id.localeCompare(b.id);
 
 /** The next occurrence of a month, so month pages show upcoming dates. */
 export function yearForMonth(month: number): number {
@@ -51,8 +52,7 @@ export function monthFoods(month: number, year: number): MonthEntry[] {
       leaves: !statusAt(food.windows, end),
     });
   }
-  return out.sort((a, b) => byImportance(a.food, b.food) || 0).sort((a, b) =>
-    a.food.tier === "national" && b.food.tier === "national" ? headlineRank(a.food.id) - headlineRank(b.food.id) : 0);
+  return out.sort((a, b) => byImportance(a.food, b.food));
 }
 
 export function topOn(day: DayNum, limit: number): InSeason<Food>[] {

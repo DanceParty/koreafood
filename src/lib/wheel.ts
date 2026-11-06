@@ -22,10 +22,9 @@ export interface Track {
   food: SeasonFood;
   arcs: Arc[];
   radius: number;
-  headline: boolean;
 }
 
-export const HEADLINE_STEP = 14.5;
+const MAX_STEP = 17;
 const GAP_FRACTION = 0.012;
 
 function arcsOf(food: SeasonFood, year: number): Arc[] {
@@ -61,12 +60,16 @@ const collide = (a: readonly Interval[], b: readonly Interval[]) =>
   a.some(([aStart, aEnd]) =>
     b.some(([bStart, bEnd]) => aStart < bEnd + GAP_FRACTION && bStart < aEnd + GAP_FRACTION));
 
-type Placed = Pick<Track, "food" | "arcs">;
+const MIN_ROOM = 0.06;
 
+/** Peak arcs with room for a label, so short holiday windows don't collide with the name beside them. */
 const peaksOf = (arcs: readonly Arc[]) => {
   const peaks = arcs.filter((arc) => arc.kind === "peak");
-  return intervalsOf(peaks.length > 0 ? peaks : arcs);
+  const roomy = (peaks.length > 0 ? peaks : arcs).map((arc) => ({ ...arc, sweep: Math.max(arc.sweep, MIN_ROOM) }));
+  return intervalsOf(roomy);
 };
+
+type Placed = Pick<Track, "food" | "arcs">;
 
 function pack(items: readonly Placed[]): Placed[][] {
   const rows: Placed[][] = [];
@@ -80,28 +83,33 @@ function pack(items: readonly Placed[]): Placed[][] {
 }
 
 const coverage = (arcs: readonly Arc[]) => peaksOf(arcs).reduce((sum, [start, end]) => sum + end - start, 0);
+const TIER_RANK = { national: 0, known: 1, local: 2 } as const;
 
-/** Packs arcs into concentric tracks so foods that never overlap can share one. National foods get a labelled outer band. */
-export function layoutTracks(foods: readonly SeasonFood[], year: number): { tracks: Track[] } {
-  const dated = foods
+/** Packs arcs into concentric tracks so foods that never overlap can share one. National foods sit outermost. */
+export function layoutTracks(foods: readonly SeasonFood[], year: number): { tracks: Track[]; step: number } {
+  const placed = foods
     .filter((food) => food.windows.length > 0)
     .map((food) => ({ food, arcs: arcsOf(food, year) }))
-    .sort((a, b) => coverage(b.arcs) - coverage(a.arcs) || a.food.id.localeCompare(b.food.id));
+    .sort((a, b) =>
+      TIER_RANK[a.food.tier] - TIER_RANK[b.food.tier]
+      || coverage(b.arcs) - coverage(a.arcs)
+      || a.food.id.localeCompare(b.food.id));
 
-  const tracks: Track[] = [];
-  let radius = WHEEL.trackOuter - HEADLINE_STEP / 2;
-  for (const row of pack(dated.filter((item) => item.food.tier === "national"))) {
-    for (const item of row) tracks.push({ ...item, radius, headline: true });
-    radius -= HEADLINE_STEP;
+  const rows = pack(placed);
+  const step = Math.min(MAX_STEP, (WHEEL.trackOuter - WHEEL.trackInner) / Math.max(rows.length, 1));
+  const tracks = rows.flatMap((row, index) =>
+    row.map((item) => ({ ...item, radius: WHEEL.trackOuter - step * (index + 0.5) })));
+  return { tracks, step };
+}
+
+/** The peak arcs worth naming: the longest first, skipping any that overlap one already named. */
+export function labelledArcs(arcs: readonly Arc[]): Arc[] {
+  const peaks = arcs.filter((arc) => arc.kind === "peak");
+  const named: Arc[] = [];
+  for (const arc of [...(peaks.length > 0 ? peaks : arcs)].sort((a, b) => b.sweep - a.sweep)) {
+    if (!named.some((other) => collide(intervalsOf([other]), intervalsOf([arc])))) named.push(arc);
   }
-
-  const lines = pack(dated.filter((item) => item.food.tier === "known"));
-  const top = radius - 3;
-  const step = lines.length > 0 ? (top - WHEEL.trackInner) / lines.length : 0;
-  lines.forEach((row, index) => {
-    for (const item of row) tracks.push({ ...item, radius: top - index * step, headline: false });
-  });
-  return { tracks };
+  return named;
 }
 
 const round = (value: number) => Math.round(value * 10) / 10;
@@ -117,10 +125,4 @@ export function arcPath(radius: number, start: number, sweep: number): string {
   const from = polar(radius, start);
   const to = polar(radius, start + safe);
   return `M${from.x} ${from.y}A${radius.toFixed(1)} ${radius.toFixed(1)} 0 ${safe > 0.5 ? 1 : 0} 1 ${to.x} ${to.y}`;
-}
-
-export function trackStep(tracks: readonly Track[]): number {
-  const radii = [...new Set(tracks.filter((track) => !track.headline).map((track) => track.radius))].sort((a, b) => b - a);
-  const [first, second] = radii;
-  return first !== undefined && second !== undefined ? first - second : 3;
 }

@@ -8,6 +8,12 @@ export const day = signal<DayNum>(todayInSeoul());
 export const settledDay = signal<DayNum>(day.peek());
 export const today = signal<DayNum>(todayInSeoul());
 export const laneFilter = signal<Lane | "all" | "fleeting">("all");
+export const whatElseOpen = signal(false);
+
+export function openWhatElse(): void {
+  whatElseOpen.value = true;
+  requestAnimationFrame(() => document.getElementById("what-else")?.scrollIntoView());
+}
 
 let timer: ReturnType<typeof setTimeout> | undefined;
 

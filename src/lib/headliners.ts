@@ -1,10 +1,7 @@
-/** Foods people actually say "이맘때면 ___지" about come first. Ingredients and second names come last. */
-const HEADLINERS: readonly string[] = [
-  "bangeo", "gul", "ttalgi", "gyul", "bungeoppang", "daege", "gimjang", "jeoneo", "kkotge", "daeha",
-  "songi", "boksunga", "samgyetang", "mineo", "jukkumi", "dodari-ssukguk", "dangam", "gotgam", "tteokguk", "songpyeon",
-];
+import { MAIN_LIST } from "../data/main-list.ts";
 
+/** Earlier foods in the main list win the "이맘때면 ___지" sentence. */
 export const headlineRank = (id: string): number => {
-  const index = HEADLINERS.indexOf(id);
-  return index === -1 ? HEADLINERS.length : index;
+  const index = MAIN_LIST.indexOf(id);
+  return index === -1 ? MAIN_LIST.length : index;
 };

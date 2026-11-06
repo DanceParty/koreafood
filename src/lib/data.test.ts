@@ -1,7 +1,8 @@
 import { describe, expect, it } from "vitest";
 import { anchorDay } from "./calendar.ts";
+import { isMain, MAIN_LIST } from "../data/main-list.ts";
 import { ALL_FOODS } from "./foods.ts";
-import { dayOf } from "./dates.ts";
+import { addDays, dayOf } from "./dates.ts";
 import { inSeason } from "./season.ts";
 import { layoutTracks } from "./wheel.ts";
 
@@ -38,16 +39,33 @@ describe("window labels", () => {
   });
 });
 
+describe("main list", () => {
+  const main = ALL_FOODS.filter((food) => isMain(food.id));
+
+  it("only names foods that exist and have dates", () => {
+    expect(MAIN_LIST.filter((id) => !main.some((food) => food.id === id && food.windows.length > 0))).toEqual([]);
+  });
+
+  it("stays short enough to read on every day of the year", () => {
+    for (let index = 0; index < 365; index += 1) {
+      const count = inSeason(main, addDays(dayOf(2027, 1, 1), index)).length;
+      expect(count).toBeGreaterThanOrEqual(5);
+      expect(count).toBeLessThanOrEqual(25);
+    }
+  });
+});
+
 describe("wheel layout", () => {
-  it("puts every national or known food with a window on a track", () => {
-    const { tracks } = layoutTracks(ALL_FOODS, 2027);
-    const placed = new Set(tracks.map((track) => track.food.id));
-    const expected = ALL_FOODS.filter((food) => food.windows.length > 0 && food.tier !== "local");
-    expect(expected.filter((food) => !placed.has(food.id)).map((food) => food.id)).toEqual([]);
+  const main = ALL_FOODS.filter((food) => isMain(food.id));
+
+  it("puts every main list food on a track and nothing else", () => {
+    const { tracks } = layoutTracks(main, 2027);
+    expect(new Set(tracks.map((track) => track.food.id))).toEqual(new Set(MAIN_LIST));
   });
 
   it("keeps tracks inside the hub and rim", () => {
-    const { tracks } = layoutTracks(ALL_FOODS, 2027);
+    const { tracks, step } = layoutTracks(main, 2027);
+    expect(step).toBeGreaterThanOrEqual(11);
     for (const track of tracks) {
       expect(track.radius).toBeGreaterThan(150);
       expect(track.radius).toBeLessThan(432);

@@ -1,5 +1,6 @@
 ---
 import Base from "../../layouts/Base.astro";
+import { isMain } from "../../data/main-list.ts";
 import { toParts, todayInSeoul } from "../../lib/dates.ts";
 import { midMonth, monthFoods, yearForMonth } from "../../lib/foods.ts";
 import { MONTH_COPY } from "../../lib/months.ts";
@@ -12,7 +13,7 @@ const months = MONTH_COPY.map((copy, index) => {
   const year = yearForMonth(month);
   const printed = printedOn(midMonth(month, year));
   const foods = monthFoods(month, year);
-  return { ...copy, month, printed, top: foods.filter((entry) => entry.food.tier === "national").slice(0, 5), count: foods.length };
+  return { ...copy, month, printed, top: foods.filter((entry) => isMain(entry.food.id)).slice(0, 5), count: foods.filter((entry) => isMain(entry.food.id)).length };
 });
 ---
 <Base title="Korea's food year, month by month" description="Twelve months of Korean seasonal food, from yellowtail in January to red-bean porridge in December." ink={printedOn(today).vars}>
@@ -26,7 +27,7 @@ const months = MONTH_COPY.map((copy, index) => {
             <span class="tile-name">{entry.name}{entry.month === current ? ", now" : ""}</span>
             <span class="tile-title">{entry.title}</span>
             <span class="tile-foods" lang="ko">{entry.top.map((food) => food.food.ko).join(" ")}</span>
-            <span class="tile-count">{entry.count} foods</span>
+            <span class="tile-count">{entry.count} in season</span>
           </a>
         </li>
       ))}

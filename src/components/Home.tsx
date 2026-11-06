@@ -2,7 +2,7 @@ import { useEffect } from "preact/hooks";
 import { useSignalEffect } from "@preact/signals";
 import { parseIso, toIso, todayInSeoul, type DayNum } from "../lib/dates.ts";
 import { applyInk, printedOn } from "../lib/palette.ts";
-import { day, setDayNow, settledDay, today } from "../lib/store.ts";
+import { day, openWhatElse, setDayNow, settledDay, today } from "../lib/store.ts";
 import { Hero } from "./Hero.tsx";
 import { Upcoming } from "./Upcoming.tsx";
 import { Wall } from "./Wall.tsx";
@@ -25,6 +25,7 @@ export function Home({ builtOn }: { builtOn: number }) {
     const now = todayInSeoul();
     today.value = now;
     setDayNow(dayFromUrl() ?? now);
+    if (location.hash === "#what-else") openWhatElse();
   }, []);
 
   useSignalEffect(() => {

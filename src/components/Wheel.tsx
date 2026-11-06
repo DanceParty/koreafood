@@ -1,12 +1,12 @@
 import { useComputed, useSignal, useSignalEffect } from "@preact/signals";
 import { useEffect, useMemo, useRef, useState } from "preact/hooks";
 import { FIRST_DAY, LAST_DAY, termAt, termsOfYear } from "../lib/calendar.ts";
-import { FOODS } from "../lib/client-data.ts";
+import { MAIN_FOODS } from "../lib/client-data.ts";
 import { dayOf, MONTHS_SHORT, shortDate, toParts, yearFraction, yearLength, type DayNum } from "../lib/dates.ts";
 import { printedOn } from "../lib/palette.ts";
 import { statusAt } from "../lib/season.ts";
 import { day, setDay, setDayNow, settledDay, today } from "../lib/store.ts";
-import { arcPath, layoutTracks, polar, trackStep, WHEEL, type Arc, type Track } from "../lib/wheel.ts";
+import { arcPath, labelledArcs, layoutTracks, polar, WHEEL, type Arc, type Track } from "../lib/wheel.ts";
 
 const DAYS_PER_TURN = 365.2425;
 const FRICTION = 0.955;
@@ -21,10 +21,13 @@ function normalize(angle: number): number {
 }
 
 function arcClass(track: Track, arc: Arc): string {
-  const tier = track.headline ? " n" : track.food.tier === "known" ? " k" : "";
+  const national = track.food.tier === "national" ? " n" : "";
   const certainty = arc.mark === "est" ? " d" : arc.mark === "sourced" ? "" : " w";
-  return `a${arc.kind === "peak" ? " p" : " s"}${tier}${certainty}`;
+  return `a${arc.kind === "peak" ? " p" : " s"}${national}${certainty}`;
 }
+
+const SHORT_ARC = 0.035;
+const OUTSIDE_LABEL = 0.055;
 
 interface Hit {
   track: Track;
@@ -38,7 +41,7 @@ export function Wheel() {
   const disc = useRef<SVGSVGElement>(null);
   const year = useComputed(() => toParts(day.value).year);
   const viewYear = year.value;
-  const layout = useMemo(() => layoutTracks(FOODS, viewYear), [viewYear]);
+  const layout = useMemo(() => layoutTracks(MAIN_FOODS, viewYear), [viewYear]);
   const months = useMemo(() => {
     const first = dayOf(viewYear, 1, 1);
     const length = yearLength(viewYear);
@@ -162,7 +165,7 @@ export function Wheel() {
     if (radius < WHEEL.trackInner - 4 || radius > WHEEL.trackOuter + 4) return null;
     const angle = (Math.atan2(dy, dx) + Math.PI / 2) / (Math.PI * 2);
     const fraction = (((angle + yearFraction(floatDay.current)) % 1) + 1) % 1;
-    const tolerance = Math.max(trackStep(layout.tracks) * 0.75, 3);
+    const tolerance = layout.step * 0.55;
     let best: Track | null = null;
     let bestScore = Number.POSITIVE_INFINITY;
     for (const track of layout.tracks) {
@@ -173,10 +176,9 @@ export function Wheel() {
         return offset <= arc.sweep;
       });
       if (!within) continue;
-      const score = gap - (track.food.tier === "national" ? 2 : 0);
-      if (score < bestScore) {
+      if (gap < bestScore) {
         best = track;
-        bestScore = score;
+        bestScore = gap;
       }
     }
     const box = wrap.current?.getBoundingClientRect();
@@ -258,7 +260,7 @@ export function Wheel() {
 
   const spot = useComputed(() => termAt(day.value));
   const ink = useComputed(() => printedOn(day.value).ink);
-  const fontStep = trackStep(layout.tracks);
+  const labelSize = Math.min(12.5, layout.step * 0.8);
 
   return (
     <div class="wheel-frame">
@@ -314,18 +316,24 @@ export function Wheel() {
                   class={arcClass(track, arc)}
                   data-id={track.food.id}
                   d={arcPath(track.radius, arc.start, arc.sweep)}
-                  stroke-width={arc.kind === "peak" ? (track.headline ? 13.6 : Math.max(1.1, fontStep * 0.74)) : track.headline ? 1.6 : 0.8}
+                  stroke-width={arc.kind === "peak" ? layout.step - 2.4 : 1.2}
                 />
               )))}
           </g>
-          <g class="arc-labels">
-            {layout.tracks.filter((track) => track.headline).flatMap((track) =>
-              track.arcs.filter((arc) => arc.kind === "peak" && arc.sweep > 0.018).slice(0, 1).map((arc) => {
-                const pathId = `lbl-${track.food.id}`;
+          <g class="arc-labels" style={{ fontSize: labelSize }}>
+            {layout.tracks.flatMap((track) =>
+              labelledArcs(track.arcs).map((arc, index) => {
+                const pathId = `lbl-${track.food.id}-${index}`;
+                const short = arc.sweep < SHORT_ARC;
+                const baseline = track.radius - labelSize * 0.36;
                 return (
-                  <g key={pathId} data-id={track.food.id}>
-                    <path id={pathId} d={arcPath(track.radius - 4.2, arc.start, arc.sweep)} fill="none" />
-                    <text class="arc-label"><textPath href={`#${pathId}`} startOffset="9">{track.food.ko}</textPath></text>
+                  <g key={pathId} data-id={track.food.id} class={short ? "outside" : undefined}>
+                    <path
+                      id={pathId}
+                      d={short ? arcPath(baseline, arc.start + arc.sweep + 0.002, OUTSIDE_LABEL) : arcPath(baseline, arc.start, arc.sweep)}
+                      fill="none"
+                    />
+                    <text class="arc-label"><textPath href={`#${pathId}`} startOffset={short ? "0" : "7"}>{track.food.ko}</textPath></text>
                   </g>
                 );
               }))}

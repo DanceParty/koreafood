@@ -1,3 +1,4 @@
+import { isMain } from "../data/main-list.ts";
 import type { CalendarEvent, Lane } from "../data/schema.ts";
 import rawEvents from "../data/generated/events.client.json";
 import rawFoods from "../data/generated/foods.client.json";
@@ -8,6 +9,7 @@ import type { SeasonFood } from "./season.ts";
 // scripts/validate-data.ts checks both files against the schema before every build.
 export const FOODS = rawFoods as readonly SeasonFood[];
 export const EVENTS = rawEvents as readonly CalendarEvent[];
+export const MAIN_FOODS = FOODS.filter((food) => isMain(food.id));
 
 export const LANE_LABELS: Record<Lane, { ko: string; en: string }> = {
   fish: { ko: "생선", en: "Fish" },

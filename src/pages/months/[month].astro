@@ -1,9 +1,10 @@
 ---
 import Base from "../../layouts/Base.astro";
 import { termsOfYear } from "../../lib/calendar.ts";
+import { isMain } from "../../data/main-list.ts";
 import { LANE_LABELS, upcoming } from "../../lib/client-data.ts";
 import { dayOf, shortDate, toParts, type DayNum } from "../../lib/dates.ts";
-import { LANE_ORDER, midMonth, monthFoods, yearForMonth, type MonthEntry } from "../../lib/foods.ts";
+import { LANE_ORDER, midMonth, monthFoods, yearForMonth } from "../../lib/foods.ts";
 import { MONTH_COPY } from "../../lib/months.ts";
 import { printedOn } from "../../lib/palette.ts";
 
@@ -17,16 +18,16 @@ const start = dayOf(year, month, 1);
 const end = dayOf(month === 12 ? year + 1 : year, month === 12 ? 1 : month + 1, 1);
 const printed = printedOn(midMonth(month, year));
 const entries = monthFoods(month, year);
-const headline = entries.filter((entry) => entry.food.tier === "national");
-const arrivals = entries.filter((entry) => entry.arrives && entry.food.tier !== "local").slice(0, 16);
-const leaving = entries.filter((entry) => entry.leaves && entry.food.tier !== "local").slice(0, 16);
+const main = entries.filter((entry) => isMain(entry.food.id));
+const arrivals = main.filter((entry) => entry.arrives);
+const leaving = main.filter((entry) => entry.leaves);
+const rest = entries.filter((entry) => !isMain(entry.food.id));
 const dates = upcoming(start, 400).filter((entry) => entry.on < end && entry.event.kind !== "law");
 const legal = upcoming(start, 400).filter((entry) => entry.on < end && entry.event.kind === "law");
 const terms = termsOfYear(year).filter(({ start: on }) => toParts(on).month === month);
 const prev = MONTH_COPY[(month + 10) % 12];
 const next = MONTH_COPY[month % 12];
-const byLane = LANE_ORDER.map((lane) => ({ lane, foods: entries.filter((entry) => entry.food.lane === lane) })).filter((group) => group.foods.length > 0);
-const tokenTier = (entry: MonthEntry) => entry.food.tier;
+const byLane = LANE_ORDER.map((lane) => ({ lane, foods: rest.filter((entry) => entry.food.lane === lane) })).filter((group) => group.foods.length > 0);
 const toDay = (value: number) => value as DayNum;
 ---
 <Base title={`What to eat in Korea in ${copy.name}`} description={`${copy.title}. ${copy.intro.slice(0, 120)}`} ink={printed.vars} og={copy.slug}>
@@ -41,19 +42,17 @@ const toDay = (value: number) => value as DayNum;
       </div>
     </header>
 
-    {headline.length > 0 ? (
-      <section class="month-section">
-        <h2>Everyone's talking about</h2>
-        <div class="tokens">
-          {headline.map((entry) => (
-            <a class="token t-national" href={`/food/${entry.food.id}/`}>
-              <span class="token-ko" lang="ko">{entry.food.ko}</span>
-              <span class="token-en">{entry.food.en}</span>
-            </a>
-          ))}
-        </div>
-      </section>
-    ) : null}
+    <section class="month-section">
+      <h2><span lang="ko">제철</span> In season</h2>
+      <div class="tokens">
+        {main.map((entry) => (
+          <a class={`token t-${entry.food.tier === "national" ? "national" : "known"}`} href={`/food/${entry.food.id}/`}>
+            <span class="token-ko" lang="ko">{entry.food.ko}</span>
+            <span class="token-en">{entry.food.en}</span>
+          </a>
+        ))}
+      </div>
+    </section>
 
     <section class="month-duo">
       {arrivals.length > 0 ? (
@@ -85,22 +84,24 @@ const toDay = (value: number) => value as DayNum;
       </section>
     ) : null}
 
-    <section class="month-section">
-      <h2>The full table</h2>
-      {byLane.map((group) => (
-        <div class="lane-block">
-          <h3>{LANE_LABELS[group.lane].en} <span class="count">{group.foods.length}</span></h3>
-          <div class="tokens">
-            {group.foods.map((entry) => (
-              <a class={`token t-${tokenTier(entry) === "national" ? "known" : tokenTier(entry)}`} href={`/food/${entry.food.id}/`}>
-                <span class="token-ko" lang="ko">{entry.food.ko}</span>
-                <span class="token-en">{entry.food.en}</span>
-              </a>
-            ))}
+    {rest.length > 0 ? (
+      <details class="month-else">
+        <summary><span lang="ko">또 뭐 있어?</span> What else <span class="count">{rest.length} more this month</span></summary>
+        {byLane.map((group) => (
+          <div class="lane-block">
+            <h3>{LANE_LABELS[group.lane].en} <span class="count">{group.foods.length}</span></h3>
+            <div class="tokens">
+              {group.foods.map((entry) => (
+                <a class="token t-local" href={`/food/${entry.food.id}/`}>
+                  <span class="token-ko" lang="ko">{entry.food.ko}</span>
+                  <span class="token-en">{entry.food.en}</span>
+                </a>
+              ))}
+            </div>
           </div>
-        </div>
-      ))}
-    </section>
+        ))}
+      </details>
+    ) : null}
 
     <nav class="month-nav" aria-label="Other months">
       {prev ? <a href={`/months/${prev.slug}/`}>{prev.name}</a> : null}

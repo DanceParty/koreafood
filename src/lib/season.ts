@@ -144,7 +144,7 @@ export function inSeason<F extends SeasonFood>(foods: readonly F[], day: DayNum)
     const status = statusAt(food.windows, day);
     if (!status) continue;
     const mark = food.windows[0]?.mark ?? "sourced";
-    const fame = food.tier === "national" ? 30 - headlineRank(food.id) : 0;
+    const fame = Math.max(0, 30 - headlineRank(food.id));
     const score = TIER_SCORE[food.tier] + PHASE_SCORE[status.phase] + MARK_SCORE[mark] + fame - status.runLength / 40;
     out.push({ food, status, score });
   }
