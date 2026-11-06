@@ -1,0 +1,902 @@
+[
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [
+      "Goesan Gimjang Festival, Nov 5-8, 2026",
+      "Gimcheon Gimjang Seasoning Festival, Nov 28-29, 2026"
+    ],
+    "related": [
+      "baechu",
+      "mu",
+      "gim",
+      "dongchimi",
+      "gimjang-bossam",
+      "chu-jeot"
+    ],
+    "lane": "ferment",
+    "id": "gimjang",
+    "ko": "김장",
+    "rr": "gimjang",
+    "en": "Kimchi-making",
+    "phrase": "kimchi-making season",
+    "tier": "national",
+    "windows": [
+      {
+        "from": "10-21",
+        "to": "11-20",
+        "kind": "peak",
+        "mark": "weak",
+        "label": "중부 (central) window"
+      },
+      {
+        "from": "11-11",
+        "to": "12-10",
+        "kind": "peak",
+        "mark": "weak",
+        "label": "남부 (southern) window"
+      }
+    ],
+    "blurb": "The yearly household batch of kimchi, made in late autumn. The old rule was five days either side of Ipdong (입동), a solar term in early November. Warming has pushed the work later, and central and southern regions start at different times.",
+    "caveat": "Both windows rest on one wiki and one press piece, so treat them as leads.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/김장"
+      },
+      {
+        "label": "전북일보",
+        "url": "https://jjan.kr/article/20151105564494"
+      }
+    ]
+  },
+  {
+    "aka": [
+      "김장 굴"
+    ],
+    "eat": [
+      "보쌈, boiled pork with kimchi filling",
+      "굴, oysters with the kimchi filling"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "gimjang",
+      "gul",
+      "baechu"
+    ],
+    "lane": "ferment",
+    "id": "gimjang-bossam",
+    "ko": "김장 보쌈",
+    "rr": "gimjang bossam",
+    "en": "Boiled pork and oysters on kimchi-making day",
+    "phrase": "boiled pork on kimchi-making day",
+    "tier": "known",
+    "windows": [],
+    "undated": [],
+    "blurb": "Boiled pork wrapped in fresh kimchi filling, with oysters in some homes, eaten on gimjang (김장) day. No source gives a month beyond gimjang itself.",
+    "caveat": "Only one wiki ties them to gimjang. UNESCO and the national encyclopedia name no shared meal for it.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/보쌈"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/김장"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "gimjang",
+      "mu",
+      "dongchimi-guksu"
+    ],
+    "lane": "ferment",
+    "id": "dongchimi",
+    "ko": "동치미",
+    "rr": "dongchimi",
+    "en": "Radish water kimchi",
+    "phrase": "radish water kimchi",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "list",
+        "label": "RDA list month"
+      }
+    ],
+    "blurb": "Radish water kimchi, made at gimjang (김장) and eaten through winter. The only month is December, from the Rural Development Administration's monthly list, which is a menu-planning placement, not a harvest date.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/동치미"
+      },
+      {
+        "label": "RDA list",
+        "url": "https://www.nics.go.kr/food/kfi/foodMonth/list"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [
+      "Seosan (서산)",
+      "Taean (태안)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "gimjang"
+    ],
+    "lane": "ferment",
+    "id": "gegukji",
+    "ko": "게국지",
+    "rr": "gegukji",
+    "en": "Crab kimchi",
+    "phrase": "crab kimchi",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "blurb": "Crab kimchi from Seosan and Taean, made in gimjang season (김장철). No source dates it, so Nov into winter is an estimate. The restaurant version follows tourists.",
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/게국지"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/게국지"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "gimjang"
+    ],
+    "lane": "ferment",
+    "id": "pa-gimchi",
+    "ko": "파김치",
+    "rr": "pa gimchi",
+    "en": "Scallion kimchi",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "10-01",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "list",
+        "label": "RDA list month"
+      }
+    ],
+    "blurb": "Kimchi made from scallions. The only month is October, from the Rural Development Administration's monthly list, which is a menu-planning placement, not a harvest date.",
+    "sources": [
+      {
+        "label": "RDA list",
+        "url": "https://www.nics.go.kr/food/kfi/foodMonth/list"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [
+      "Haenam (해남)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Haenam Saebom Saegimchi making, Mar 7, 2026"
+    ],
+    "related": [],
+    "lane": "ferment",
+    "id": "saebom-gimchi",
+    "ko": "새봄김치",
+    "rr": "saebom gimchi",
+    "en": "New spring kimchi",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "Kimchi made in early spring, in March. Haenam holds a new-spring kimchi making event (saebom saegimchi, 새봄 새김치) on Mar 7 in 2026.",
+    "sources": [
+      {
+        "label": "리컴에리어",
+        "url": "https://recomarea.com/festival/FestivalMain?month=3"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "jang-damgi"
+    ],
+    "lane": "ferment",
+    "id": "meju",
+    "ko": "메주",
+    "rr": "meju",
+    "en": "Fermented soybean block",
+    "phrase": "fermented soybean blocks",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "10-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Around 입동"
+      }
+    ],
+    "blurb": "Soybean blocks, dried and fermented to make soy sauce and paste. Households make them from October to December, especially around Ipdong (입동) in early November. The sauce and paste (jang, 장) go in months later, in late winter.",
+    "caveat": "Sources differ. One gives the lunar 11th month for making meju, another the lunar 10th. Palace and gochujang (고추장) versions run on other months.",
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/메주"
+      },
+      {
+        "label": "Lady Khan",
+        "url": "https://lady.khan.co.kr/cooking/article/201104041436401"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "meju"
+    ],
+    "lane": "ferment",
+    "id": "jang-damgi",
+    "ko": "장 담그기",
+    "rr": "jang damgi",
+    "en": "Soy sauce and paste making",
+    "phrase": "soy sauce and paste making",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "02-01",
+        "to": "04-10",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "blurb": "Making soy sauce and soybean paste from meju (메주) in late winter and early spring. UNESCO listed the tradition in 2024. A YTN expert says the lunar 1st month, while Nongga Wolryeongga (농가월령가), an 1816 farm poem, puts it in the 2nd.",
+    "caveat": "Experts split between the lunar 1st and 2nd month, so the window is an estimate.",
+    "sources": [
+      {
+        "label": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0106_202411052302376745"
+      },
+      {
+        "label": "농가월령가",
+        "url": "https://ko.wikisource.org/wiki/농가월령가"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/한국의%20장%20담그기%20문화"
+      }
+    ]
+  },
+  {
+    "aka": [
+      "풋젓",
+      "동백하젓",
+      "새우알젓",
+      "오젓",
+      "육젓",
+      "차젓"
+    ],
+    "eat": [],
+    "where": [
+      "Okgu, Jeonbuk (옥구)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "chu-jeot",
+      "gimjang"
+    ],
+    "lane": "ferment",
+    "id": "saeu-jeot",
+    "ko": "새우젓",
+    "rr": "saeujeot",
+    "en": "Salted shrimp",
+    "phrase": "salted shrimp",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "01-01",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "weak",
+        "label": "풋젓, 동백하젓 (Jan, Feb)"
+      },
+      {
+        "from": "04-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "새우알젓 (shrimp roe)"
+      },
+      {
+        "from": "05-01",
+        "to": "05-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "오젓 (May shrimp)"
+      },
+      {
+        "from": "06-01",
+        "to": "06-30",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "육젓 (June, top grade)"
+      },
+      {
+        "from": "07-01",
+        "to": "07-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "차젓 (July shrimp)"
+      }
+    ],
+    "blurb": "Salted shrimp graded by the month of the catch. Ojeot (오젓) is May, yukjeot (육젓) is June and chajeot (차젓) is July, and yukjeot is the top grade. Saeu-aljeot (새우알젓) comes in April from Okgu in North Jeolla.",
+    "caveat": "The Jan-Feb grades rest on one wiki. Jahajeot (자하젓) and chujeot (추젓) have no sourced month, see autumn salted shrimp.",
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/새우젓"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/새우젓"
+      }
+    ]
+  },
+  {
+    "aka": [
+      "자하젓"
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "saeu-jeot",
+      "gimjang"
+    ],
+    "lane": "ferment",
+    "id": "chu-jeot",
+    "ko": "추젓",
+    "rr": "chujeot",
+    "en": "Autumn salted shrimp",
+    "tier": "local",
+    "windows": [],
+    "undated": [
+      "autumn"
+    ],
+    "blurb": "Chujeot (추젓) is salted shrimp from the autumn catch, with jahajeot (자하젓) as the early-autumn grade. It's the main salted seafood used for gimjang (김장). No source gives a month for either grade, so it stays off the calendar.",
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/새우젓"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [
+      "Seosan (서산)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Seosan Eori Guljeot Festival, Nov 14-15, 2026"
+    ],
+    "related": [
+      "gul"
+    ],
+    "lane": "ferment",
+    "id": "eori-guljeot",
+    "ko": "어리굴젓",
+    "rr": "eori guljeot",
+    "en": "Spicy salted oyster",
+    "phrase": "spicy salted oysters",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "blurb": "Spicy salted oysters, tied to Seosan. Sources only say winter.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/어리굴젓"
+      },
+      {
+        "label": "리컴에리어",
+        "url": "https://recomarea.com/festival/FestivalMain?month=11"
+      }
+    ],
+    "caveat": "No source gives months, so Dec-Feb is a guess from the word winter."
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [
+      "Sangju Gotgam Festival, Jan 22-24, 2027",
+      "Nonsan Yangchon Gotgam Festival, Dec 11-13, 2026"
+    ],
+    "related": [
+      "dangam"
+    ],
+    "lane": "ferment",
+    "id": "gotgam",
+    "ko": "곶감",
+    "rr": "gotgam",
+    "en": "Dried persimmon",
+    "phrase": "dried persimmons",
+    "tier": "national",
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Drying"
+      },
+      {
+        "from": "01-01",
+        "to": "01-31",
+        "kind": "peak",
+        "mark": "list",
+        "label": "RDA list month"
+      }
+    ],
+    "blurb": "Persimmons dried in cold, dry wind for 35-50 days. Drying runs Nov-Dec, while the Rural Development Administration's monthly list puts it in January.",
+    "sources": [
+      {
+        "label": "매일신문",
+        "url": "https://www.imaeil.com/page/view/2011112307022836483"
+      },
+      {
+        "label": "RDA",
+        "url": "https://www.nics.go.kr/food/kfi/foodMonth/view?fd_se=286&fd_snn=1&menu_tab=0"
+      },
+      {
+        "label": "경북매일",
+        "url": "https://kbmaeil.com/article/20260930500225"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "lane": "ferment",
+    "id": "hwangtae",
+    "ko": "황태",
+    "rr": "hwangtae",
+    "en": "Freeze-dried pollock",
+    "phrase": "freeze-dried pollock",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Drying"
+      }
+    ],
+    "blurb": "Freeze-dried pollock. The drying season runs Dec-Apr, but the fish is eaten all year. Most of the raw fish is Russian.",
+    "sources": [
+      {
+        "label": "경인",
+        "url": "https://www.kyeongin.com/article/1536623"
+      },
+      {
+        "label": "Khan",
+        "url": "https://www.khan.co.kr/article/202306180830021"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [
+      "Chujado (추자도)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "lane": "ferment",
+    "id": "gulbi",
+    "ko": "굴비",
+    "rr": "gulbi",
+    "en": "Salted dried croaker",
+    "phrase": "salted dried croaker",
+    "tier": "known",
+    "windows": [],
+    "noSeason": true,
+    "blurb": "Croaker salted and dried. Tradition links it to Gogu (곡우), a solar term in late April, but it's sold all year. Cold storage now salts and dries it in days, and most of the fish comes from Chujado.",
+    "sources": [
+      {
+        "label": "Seoul Shinmun",
+        "url": "https://m.seoul.co.kr/news/1997/05/28/19970528030001"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/굴비"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [
+      "Haeanmyeon, Yanggu (양구 해안면)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "mu"
+    ],
+    "lane": "ferment",
+    "id": "siraegi",
+    "ko": "시래기",
+    "rr": "siraegi",
+    "en": "Dried radish greens",
+    "phrase": "dried radish greens",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "10-21",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Cut"
+      },
+      {
+        "from": "02-01",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "list",
+        "label": "RDA list month"
+      }
+    ],
+    "blurb": "Radish greens cut and dried for winter cooking. They're cut in late October, while the Rural Development Administration's monthly list puts them in February. Haean in Yanggu is the place named for them.",
+    "sources": [
+      {
+        "label": "RDA",
+        "url": "https://www.nics.go.kr/food/kfi/foodMonth/view?fd_se=286&fd_snn=22&menu_tab=0"
+      },
+      {
+        "label": "농사로 2월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=2"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [
+      "묵은나물, dried greens",
+      "오곡밥, five-grain rice"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "siraegi"
+    ],
+    "lane": "ferment",
+    "id": "mukeun-namul",
+    "ko": "묵은나물",
+    "rr": "mukeun namul",
+    "en": "Stored dried greens",
+    "phrase": "stored dried greens",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "list",
+        "label": "RDA list month"
+      },
+      {
+        "anchor": "daeboreum",
+        "before": 1,
+        "after": 0,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "대보름"
+      }
+    ],
+    "blurb": "Stored dried greens, eaten on Daeboreum (대보름), the first full moon of the lunar year, alongside five-grain rice. The Rural Development Administration's monthly list places them in March.",
+    "sources": [
+      {
+        "label": "농사로 3월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=3"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "maesil"
+    ],
+    "lane": "ferment",
+    "id": "maesil-cheong",
+    "ko": "매실청",
+    "rr": "maesil cheong",
+    "en": "Green plum syrup",
+    "phrase": "green plum syrup",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "06-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "Syrup made by steeping green plums in sugar. Make it in June: vent the jar for one month, keep it in the shade for 3-4 months, and age it 6 months or more.",
+    "sources": [
+      {
+        "label": "Food Today",
+        "url": "https://www.foodtoday.or.kr/news/article.html?no=205059"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "omija"
+    ],
+    "lane": "ferment",
+    "id": "omija-cheong",
+    "ko": "오미자청",
+    "rr": "omija cheong",
+    "en": "Schisandra syrup",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "Syrup made from schisandra berries (omija, 오미자). Sources place it in Sep-Oct, and omija appears in the September fruit list. Older fruit punch (hwachae, 화채) used dried omija steeped in winter.",
+    "sources": [
+      {
+        "label": "경북매일",
+        "url": "https://kbmaeil.com/article/202409110405204"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "putgyul",
+      "gyul"
+    ],
+    "lane": "ferment",
+    "id": "putgyul-cheong",
+    "ko": "풋귤청",
+    "rr": "putgyul cheong",
+    "en": "Unripe mandarin syrup",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "08-01",
+        "to": "09-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "Syrup made from unripe green mandarins. It follows the legal sale window, since green mandarins are sold from Aug 1. Sources place it in Aug-Sep.",
+    "sources": [
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1154680"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "yuja",
+      "yuja-cha"
+    ],
+    "lane": "ferment",
+    "id": "yuja-cheong",
+    "ko": "유자청",
+    "rr": "yuja cheong",
+    "en": "Yuzu syrup",
+    "phrase": "yuzu syrup",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "blurb": "Yuzu preserved in sugar. Nov-Dec follows the yuzu harvest, and the only evidence is anecdotal box-buying in a community post.",
+    "caveat": "No source states a month for the syrup. The window follows the fruit.",
+    "sources": [
+      {
+        "label": "Community post",
+        "url": "https://damoang.net/free/5253056"
+      }
+    ]
+  },
+  {
+    "aka": [
+      "우전",
+      "세작"
+    ],
+    "eat": [],
+    "where": [
+      "Yeongam (영암)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "lane": "ferment",
+    "id": "ujeon-sejak",
+    "ko": "우전, 세작",
+    "rr": "ujeon sejak",
+    "en": "First and second flush green tea",
+    "phrase": "first-flush green tea",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "04-19",
+        "kind": "peak",
+        "mark": "est",
+        "label": "우전, before Apr 20"
+      },
+      {
+        "from": "04-20",
+        "to": "05-05",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "세작, Apr 20-May 5"
+      }
+    ],
+    "blurb": "Green tea graded by picking date. Ujeon (우전) is picked before Gogu (곡우), around Apr 20, and sejak (세작) from Apr 20 to May 5. That scheme comes from one Yeongam grower in 2006, and other regions may cut it differently.",
+    "caveat": "No source gives a start date for ujeon, so its April 1 start is an estimate.",
+    "sources": [
+      {
+        "label": "Seoul Shinmun",
+        "url": "https://www.seoul.co.kr/news/2006/04/20/20060420314001"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "lane": "ferment",
+    "id": "haepssal-makgeolli",
+    "ko": "햅쌀막걸리",
+    "rr": "haepssal makgeolli",
+    "en": "New-rice makgeolli",
+    "phrase": "new-rice makgeolli",
+    "tier": "local",
+    "windows": [],
+    "undated": [],
+    "blurb": "Makgeolli brewed with new-harvest rice and treated as a premium bottle. The product exists, but no source gives a release month, so it stays off the calendar.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/막걸리"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "lane": "ferment",
+    "id": "balhyo-saengham",
+    "ko": "발효생햄",
+    "rr": "balhyo saengham",
+    "en": "Dry-cured ham",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "12-21",
+        "to": "01-10",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Curing starts"
+      },
+      {
+        "from": "04-01",
+        "to": "04-30",
+        "kind": "season",
+        "mark": "list",
+        "label": "RDA list month"
+      }
+    ],
+    "blurb": "Dry-cured ham, a niche product. Curing usually starts in late December to early January, according to Korea's farm agency, while its monthly list places it in April.",
+    "sources": [
+      {
+        "label": "RDA",
+        "url": "https://www.nics.go.kr/food/kfi/foodMonth/view?fd_se=286&fd_snn=45&menu_tab=0"
+      }
+    ]
+  }
+]

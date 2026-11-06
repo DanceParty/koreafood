@@ -1,0 +1,111 @@
+---
+import Base from "../../layouts/Base.astro";
+import { termsOfYear } from "../../lib/calendar.ts";
+import { LANE_LABELS, upcoming } from "../../lib/client-data.ts";
+import { dayOf, shortDate, toParts, type DayNum } from "../../lib/dates.ts";
+import { LANE_ORDER, midMonth, monthFoods, yearForMonth, type MonthEntry } from "../../lib/foods.ts";
+import { MONTH_COPY } from "../../lib/months.ts";
+import { printedOn } from "../../lib/palette.ts";
+
+export function getStaticPaths() {
+  return MONTH_COPY.map((copy, index) => ({ params: { month: copy.slug }, props: { copy, month: index + 1 } }));
+}
+
+const { copy, month } = Astro.props;
+const year = yearForMonth(month);
+const start = dayOf(year, month, 1);
+const end = dayOf(month === 12 ? year + 1 : year, month === 12 ? 1 : month + 1, 1);
+const printed = printedOn(midMonth(month, year));
+const entries = monthFoods(month, year);
+const headline = entries.filter((entry) => entry.food.tier === "national");
+const arrivals = entries.filter((entry) => entry.arrives && entry.food.tier !== "local").slice(0, 16);
+const leaving = entries.filter((entry) => entry.leaves && entry.food.tier !== "local").slice(0, 16);
+const dates = upcoming(start, 400).filter((entry) => entry.on < end && entry.event.kind !== "law");
+const legal = upcoming(start, 400).filter((entry) => entry.on < end && entry.event.kind === "law");
+const terms = termsOfYear(year).filter(({ start: on }) => toParts(on).month === month);
+const prev = MONTH_COPY[(month + 10) % 12];
+const next = MONTH_COPY[month % 12];
+const byLane = LANE_ORDER.map((lane) => ({ lane, foods: entries.filter((entry) => entry.food.lane === lane) })).filter((group) => group.foods.length > 0);
+const tokenTier = (entry: MonthEntry) => entry.food.tier;
+const toDay = (value: number) => value as DayNum;
+---
+<Base title={`What to eat in Korea in ${copy.name}`} description={`${copy.title}. ${copy.intro.slice(0, 120)}`} ink={printed.vars} og={copy.slug}>
+  <main class="month">
+    <header class="month-head">
+      <p class="month-num">{month}</p>
+      <div>
+        <p class="month-name"><span lang="ko">{month}월</span> {copy.name} {year}</p>
+        <h1>{copy.title}</h1>
+        <p class="month-intro">{copy.intro}</p>
+        <p class="month-terms">{terms.map(({ term, start: on }) => <span><span lang="ko">{term.ko}</span> {term.en}, {shortDate(on)}</span>)}</p>
+      </div>
+    </header>
+
+    {headline.length > 0 ? (
+      <section class="month-section">
+        <h2>Everyone's talking about</h2>
+        <div class="tokens">
+          {headline.map((entry) => (
+            <a class="token t-national" href={`/food/${entry.food.id}/`}>
+              <span class="token-ko" lang="ko">{entry.food.ko}</span>
+              <span class="token-en">{entry.food.en}</span>
+            </a>
+          ))}
+        </div>
+      </section>
+    ) : null}
+
+    <section class="month-duo">
+      {arrivals.length > 0 ? (
+        <div>
+          <h2><span lang="ko">첫물</span> Arriving</h2>
+          <div class="tokens">{arrivals.map((entry) => <a class="token t-local" href={`/food/${entry.food.id}/`}><span class="token-ko" lang="ko">{entry.food.ko}</span><span class="token-en">{entry.food.en}</span></a>)}</div>
+        </div>
+      ) : null}
+      {leaving.length > 0 ? (
+        <div>
+          <h2><span lang="ko">끝물</span> Leaving</h2>
+          <div class="tokens">{leaving.map((entry) => <a class="token t-local" href={`/food/${entry.food.id}/`}><span class="token-ko" lang="ko">{entry.food.ko}</span><span class="token-en">{entry.food.en}</span></a>)}</div>
+        </div>
+      ) : null}
+    </section>
+
+    {dates.length + legal.length > 0 ? (
+      <section class="month-section">
+        <h2>Dates</h2>
+        <ul class="date-list">
+          {[...dates, ...legal].sort((a, b) => a.on - b.on).map(({ event, on }) => (
+            <li>
+              <span class="date-on">{shortDate(toDay(on))}</span>
+              <span class="date-ko" lang="ko">{event.ko}</span>
+              <span class="date-en">{event.en}{event.note ? `. ${event.note}` : ""}</span>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ) : null}
+
+    <section class="month-section">
+      <h2>The full table</h2>
+      {byLane.map((group) => (
+        <div class="lane-block">
+          <h3>{LANE_LABELS[group.lane].en} <span class="count">{group.foods.length}</span></h3>
+          <div class="tokens">
+            {group.foods.map((entry) => (
+              <a class={`token t-${tokenTier(entry) === "national" ? "known" : tokenTier(entry)}`} href={`/food/${entry.food.id}/`}>
+                <span class="token-ko" lang="ko">{entry.food.ko}</span>
+                <span class="token-en">{entry.food.en}</span>
+              </a>
+            ))}
+          </div>
+        </div>
+      ))}
+    </section>
+
+    <nav class="month-nav" aria-label="Other months">
+      {prev ? <a href={`/months/${prev.slug}/`}>{prev.name}</a> : null}
+      <a href={`/?d=${year}-${String(month).padStart(2, "0")}-15`}>Open {copy.name} on the wheel</a>
+      {next ? <a href={`/months/${next.slug}/`}>{next.name}</a> : null}
+    </nav>
+  </main>
+</Base>

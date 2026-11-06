@@ -1,0 +1,43 @@
+---
+import Base from "../layouts/Base.astro";
+import { todayInSeoul } from "../lib/dates.ts";
+import { ALL_FOODS } from "../lib/foods.ts";
+import { printedOn } from "../lib/palette.ts";
+
+const count = ALL_FOODS.length;
+---
+<Base title="About 이맘때 imamttae" description="What the word means, how to read the wheel, and where the dates come from." ink={printedOn(todayInSeoul()).vars}>
+  <main class="prose">
+    <h1><span lang="ko">이맘때</span> means "around this time of year"</h1>
+    <p class="lede">Korean friends will tell you, with total seriousness, that you must eat yellowtail this week. <span lang="ko">이맘때면 방어지.</span> Around this time of year, it's yellowtail. This site is that sentence for every day of the year.</p>
+
+    <h2>How to read the wheel</h2>
+    <p>The ring is one year, and the pointer at the top is the day you're looking at. Drag it, flick it, or use the arrow keys. Click the rim to jump to a date. Clicking a line opens that food.</p>
+    <p>Thick labelled bands are the handful of foods that reach national obsession. Thin lines are other foods most Koreans could name. The hundreds of regional and fishmonger foods don't fit on the ring, so they appear only in the list below it and in the <a href="/almanac/">almanac</a>.</p>
+    <p>The paper changes colour with each of the 24 solar terms, the fortnights of the old farming calendar. Each one is named after something you'd eat or see then.</p>
+
+    <h2>Three words worth learning</h2>
+    <dl class="words">
+      <div><dt lang="ko">제철</dt><dd><strong>jecheol.</strong> In season, at the right time. This is the word on every market sign.</dd></div>
+      <div><dt lang="ko">첫물</dt><dd><strong>cheonmul.</strong> The first of the crop or catch.</dd></div>
+      <div><dt lang="ko">끝물</dt><dd><strong>kkeunmul.</strong> The last of it. Often cheap, sometimes tired.</dd></div>
+    </dl>
+
+    <h2>Where the dates come from</h2>
+    <p>{count} foods, each traced to sources you can click on its page: government and fisheries lists, Korean press, encyclopedias, and market experts. The research ran in November 2026. No official all-item Korean calendar exists, so this list is wide but not complete.</p>
+    <p>Some dates are firmer than others, and the site shows that. A solid line has a cited source. A faded line rests on one list, wiki or low-authority guide. A hatched line is an estimate from a season word. Foods with no sourced month stay off the wheel entirely, in the <a href="/almanac/">almanac's</a> "season word only" section.</p>
+    <p>Closed seasons come from a 2024 version of Korea's fisheries statute, and the text extraction scrambled some rows. Check current notices from the Ministry of Oceans and Fisheries before relying on one. Festival dates change every year, and warming, wildfire and heat have moved the windows for pine mushrooms, gizzard shad, strawberries and blue crab within the last three years.</p>
+
+    <h2>The dates you can trust most are legal</h2>
+    <p>Blue crab on August 21, webfoot octopus on September 1, snow crab on November 1 and December 1, and green mandarins on August 1 are hard market moments. Festivals often lag or lead the food by weeks.</p>
+    <p>"In season" also turns out to be younger and looser than it sounds. Naengmyeon was recorded as a winter dish in 1849. Minari's famous season grows under cover. Yellowtail's status is about 10 to 15 years old. And farmed flounder tastes the same all year, while raw silchi at Janggohang or river pufferfish on the Imjin give you a few weeks and nothing substitutes for them out of season. If you want the real thing, press "Gone in a month" on the home page and go chase those.</p>
+
+    <p>The calendar feed at <a href="/calendar.ics">/calendar.ics</a> has the holidays, solar terms and legal dates for the next year. Subscribe to it in any calendar app.</p>
+
+    <h2>Why people care</h2>
+    <p>The timing comes from farming. <em>Nonggawollyeongga</em>, a month-by-month instruction poem from 1816, set the format modern seasonal calendars still use. The moral weight comes from the old idea that holiday food, seasonal food and health food were the same thing. The "this week" part is new. Naver's index for seasonal food among 19 to 39-year-olds went from 39 in 2020 to 89 in 2024.</p>
+
+    <h2>Colophon</h2>
+    <p>Dates use Seoul time. Solar terms are computed astronomically and lunar dates follow the Korean standard, checked against published dates through 2027. Set in Black Han Sans, Do Hyeon, Gowun Batang, Anton and Bricolage Grotesque. Made by <a href="https://www.keevandance.com">Keevan Dance</a>.</p>
+  </main>
+</Base>

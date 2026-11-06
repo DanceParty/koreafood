@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://koreafood.keevandance.com/sitemap-index.xml

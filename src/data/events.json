@@ -1,0 +1,756 @@
+[
+  {
+    "id": "kkotge-closure-starts",
+    "ko": "꽃게 금어기 시작",
+    "en": "Blue crab closure starts",
+    "kind": "law",
+    "date": "06-21",
+    "foods": [
+      "kkotge"
+    ],
+    "note": "Closed 6/21-8/20 in practice. Local variants at Yeonpyeong and Baengnyeong."
+  },
+  {
+    "id": "kkotge-closure-ends",
+    "ko": "꽃게 금어기 해제",
+    "en": "Blue crab closure lifts",
+    "kind": "law",
+    "date": "08-21",
+    "foods": [
+      "kkotge"
+    ],
+    "note": "Retail price wars start the same day."
+  },
+  {
+    "id": "jukkumi-closure-starts",
+    "ko": "주꾸미 금어기 시작",
+    "en": "Webfoot octopus closure starts",
+    "kind": "law",
+    "date": "05-11",
+    "foods": [
+      "jukkumi"
+    ],
+    "note": "Closed 5/11-8/31."
+  },
+  {
+    "id": "jukkumi-reopens",
+    "ko": "주꾸미 조업 재개",
+    "en": "Webfoot octopus fishing reopens",
+    "kind": "law",
+    "date": "09-01",
+    "foods": [
+      "jukkumi"
+    ]
+  },
+  {
+    "id": "daege-opens-east",
+    "ko": "대게 조업 시작 (동경 131도30분 동쪽)",
+    "en": "Snow crab opens east of 131 30 E",
+    "kind": "law",
+    "date": "11-01",
+    "foods": [
+      "daege"
+    ],
+    "note": "Opens 11/1 east of 131 30 E."
+  },
+  {
+    "id": "daege-opens-elsewhere",
+    "ko": "대게 조업 시작 (그 외 해역)",
+    "en": "Snow crab opens elsewhere",
+    "kind": "law",
+    "date": "12-01",
+    "foods": [
+      "daege"
+    ],
+    "note": "Opens 12/1 in all other waters."
+  },
+  {
+    "id": "putgyul-season-opens",
+    "ko": "풋귤 시즌 시작",
+    "en": "Unripe mandarin legal season opens",
+    "kind": "law",
+    "date": "08-01",
+    "foods": [
+      "putgyul"
+    ],
+    "note": "The only fruit with a legal season."
+  },
+  {
+    "id": "putgyul-season-ends",
+    "ko": "풋귤 시즌 종료",
+    "en": "Unripe mandarin legal season ends",
+    "kind": "law",
+    "date": "09-15",
+    "foods": [
+      "putgyul"
+    ],
+    "note": "Legal window is Aug 1-Sep 15."
+  },
+  {
+    "id": "daegu-closure-starts",
+    "ko": "대구 금어기 시작",
+    "en": "Pacific cod closure starts",
+    "kind": "law",
+    "date": "01-16",
+    "foods": [
+      "daegu"
+    ],
+    "note": "Closed 1/16-2/15."
+  },
+  {
+    "id": "daegu-reopens",
+    "ko": "대구 조업 재개",
+    "en": "Pacific cod fishing reopens",
+    "kind": "law",
+    "date": "02-16",
+    "foods": [
+      "daegu"
+    ]
+  },
+  {
+    "id": "daeha-closure-starts",
+    "ko": "대하 금어기 시작",
+    "en": "Fleshy prawn closure starts",
+    "kind": "law",
+    "date": "05-01",
+    "foods": [
+      "daeha"
+    ],
+    "note": "Closed May-Jun."
+  },
+  {
+    "id": "daeha-closure-ends",
+    "ko": "대하 금어기 종료",
+    "en": "Fleshy prawn closure ends",
+    "kind": "law",
+    "date": "06-30",
+    "foods": [
+      "daeha"
+    ],
+    "note": "Last day of the May-Jun closure."
+  },
+  {
+    "id": "hongeo-closure-starts",
+    "ko": "홍어 금어기 시작",
+    "en": "Skate closure starts",
+    "kind": "law",
+    "date": "06-01",
+    "foods": [],
+    "note": "Appears to run 6/1-7/15."
+  },
+  {
+    "id": "hongeo-closure-ends",
+    "ko": "홍어 금어기 종료",
+    "en": "Skate closure ends",
+    "kind": "law",
+    "date": "07-15",
+    "foods": [],
+    "note": "Closure appears to be 6/1-7/15."
+  },
+  {
+    "id": "okdom-closure-starts",
+    "ko": "옥돔 금어기 시작",
+    "en": "Tilefish closure starts",
+    "kind": "law",
+    "date": "07-21",
+    "foods": [],
+    "note": "Closed 7/21-8/20."
+  },
+  {
+    "id": "okdom-closure-ends",
+    "ko": "옥돔 금어기 종료",
+    "en": "Tilefish closure ends",
+    "kind": "law",
+    "date": "08-20",
+    "foods": [],
+    "note": "Last closed day, 8/20."
+  },
+  {
+    "id": "honggae-closure-starts",
+    "ko": "홍게 금어기 시작",
+    "en": "Red snow crab closure starts",
+    "kind": "law",
+    "date": "07-10",
+    "foods": [],
+    "note": "Closed 7/10-8/25."
+  },
+  {
+    "id": "honggae-closure-ends",
+    "ko": "홍게 금어기 종료",
+    "en": "Red snow crab closure ends",
+    "kind": "law",
+    "date": "08-25",
+    "foods": [],
+    "note": "Last closed day, 8/25."
+  },
+  {
+    "id": "jogi-driftnet-closure-starts",
+    "ko": "조기 유자망 금어기 시작",
+    "en": "Croaker drift-gillnet closure starts",
+    "kind": "law",
+    "date": "04-22",
+    "foods": [
+      "jogi"
+    ],
+    "note": "Closed 4/22-8/10 for drift gillnets."
+  },
+  {
+    "id": "jogi-driftnet-closure-ends",
+    "ko": "조기 유자망 금어기 종료",
+    "en": "Croaker drift-gillnet closure ends",
+    "kind": "law",
+    "date": "08-10",
+    "foods": [
+      "jogi"
+    ],
+    "note": "Last closed day, 8/10."
+  },
+  {
+    "id": "jogi-july-closure-starts",
+    "ko": "조기 7월 금어기 시작",
+    "en": "Croaker July closure starts",
+    "kind": "law",
+    "date": "07-01",
+    "foods": [
+      "jogi"
+    ],
+    "note": "Listed as a 7/1-7/31 closure."
+  },
+  {
+    "id": "nakji-closure-starts",
+    "ko": "낙지 금어기 시작",
+    "en": "Long-arm octopus closure starts",
+    "kind": "law",
+    "date": "06-01",
+    "foods": [],
+    "note": "Default closure 6/1-6/30. Incheon runs 6/21-7/20."
+  },
+  {
+    "id": "jeonbok-closure-starts",
+    "ko": "전복 금어기 시작",
+    "en": "Wild abalone closure starts",
+    "kind": "law",
+    "date": "09-01",
+    "foods": [],
+    "note": "Wild closed 9/1-10/31. Jeju closed 10/1-12/31."
+  },
+  {
+    "id": "salojingeo-closure-starts",
+    "ko": "살오징어 금어기 시작",
+    "en": "Common squid closure starts",
+    "kind": "law",
+    "date": "04-01",
+    "foods": [],
+    "note": "Closed Apr-May."
+  },
+  {
+    "id": "haesam-closure-starts",
+    "ko": "해삼 금어기 시작",
+    "en": "Sea cucumber closure starts",
+    "kind": "law",
+    "date": "07-01",
+    "foods": [],
+    "note": "Closed Jul."
+  },
+  {
+    "id": "kijogae-closure-starts",
+    "ko": "키조개 금어기 시작",
+    "en": "Pen shell closure starts",
+    "kind": "law",
+    "date": "07-01",
+    "foods": [],
+    "note": "Closed Jul-Aug."
+  },
+  {
+    "id": "tot-closure-starts",
+    "ko": "톳 금어기 시작",
+    "en": "Hijiki closure starts",
+    "kind": "law",
+    "date": "10-01",
+    "foods": [],
+    "note": "Closed Oct-Jan."
+  },
+  {
+    "id": "dog-meat-ban-enforced",
+    "ko": "개 식용 종식법 시행",
+    "en": "Dog-meat ban enforcement starts",
+    "kind": "law",
+    "date": "02-07",
+    "year": 2027,
+    "foods": [
+      "samgyetang",
+      "heugyeomso",
+      "ori"
+    ],
+    "note": "Same day as 2027 설날. 2027 is the first 복날 season with 보신탕 illegal."
+  },
+  {
+    "id": "seollal",
+    "ko": "설날",
+    "en": "Lunar New Year",
+    "kind": "holiday",
+    "anchor": "seollal",
+    "foods": [
+      "tteokguk"
+    ],
+    "note": "Alive. 2027-02-07."
+  },
+  {
+    "id": "daeboreum",
+    "ko": "정월대보름",
+    "en": "First full moon",
+    "kind": "holiday",
+    "anchor": "daeboreum",
+    "foods": [
+      "ogokbap",
+      "bureom"
+    ],
+    "note": "Alive, thinner evidence. 2027-02-21."
+  },
+  {
+    "id": "ipchun",
+    "ko": "입춘",
+    "en": "Start of spring",
+    "kind": "term",
+    "anchor": "ipchun",
+    "foods": [
+      "ipchun-osinchae"
+    ],
+    "note": "Event: mostly a museum and festival custom. 2027-02-04."
+  },
+  {
+    "id": "gyeongchip",
+    "ko": "경칩",
+    "en": "Insects wake",
+    "kind": "term",
+    "anchor": "gyeongchip",
+    "foods": [
+      "gorosoe"
+    ],
+    "note": "Partial. Maple sap, around 2027-03-06."
+  },
+  {
+    "id": "samjinnal",
+    "ko": "삼짇날",
+    "en": "Third day of third lunar month",
+    "kind": "holiday",
+    "anchor": "samjinnal",
+    "foods": [
+      "hwajeon"
+    ],
+    "note": "Event: azalea pancake. 2027-04-09."
+  },
+  {
+    "id": "cheongmyeong",
+    "ko": "청명",
+    "en": "Clear and bright",
+    "kind": "term",
+    "anchor": "cheongmyeong",
+    "foods": [
+      "ssuktteok",
+      "ssuk"
+    ],
+    "note": "Mugwort season. 2027-04-05."
+  },
+  {
+    "id": "hansik",
+    "ko": "한식",
+    "en": "Cold Food Day",
+    "kind": "holiday",
+    "anchor": "hansik",
+    "foods": [
+      "ssuktteok"
+    ],
+    "note": "Cold-food custom is textbook. 2027-04-06."
+  },
+  {
+    "id": "gogu",
+    "ko": "곡우",
+    "en": "Grain rain",
+    "kind": "term",
+    "anchor": "gogu",
+    "foods": [
+      "jogi"
+    ],
+    "note": "First-flush tea and croaker. About 2027-04-20."
+  },
+  {
+    "id": "ipha",
+    "ko": "입하",
+    "en": "Start of summer",
+    "kind": "term",
+    "anchor": "ipha",
+    "foods": [
+      "ssukmuri"
+    ],
+    "note": "Local to Songpa. 2027-05-06."
+  },
+  {
+    "id": "chopail",
+    "ko": "초파일",
+    "en": "Buddha's Birthday",
+    "kind": "holiday",
+    "anchor": "chopail",
+    "foods": [
+      "jeungpyeon",
+      "ssukbeomuri"
+    ],
+    "note": "Event, temple-centred. 2027-05-13."
+  },
+  {
+    "id": "soman",
+    "ko": "소만",
+    "en": "Grain buds",
+    "kind": "term",
+    "anchor": "soman",
+    "foods": [],
+    "note": "Seasonal eating of 씀바귀 and 냉잇국, no fixed dish. 2027-05-21."
+  },
+  {
+    "id": "mangjong",
+    "ko": "망종",
+    "en": "Grain in ear",
+    "kind": "term",
+    "anchor": "mangjong",
+    "foods": [
+      "putboori"
+    ],
+    "note": "Green barley customs. 2027-06-06."
+  },
+  {
+    "id": "dano",
+    "ko": "단오",
+    "en": "Dano",
+    "kind": "holiday",
+    "anchor": "dano",
+    "foods": [
+      "surichitteok",
+      "aengdu-hwachae",
+      "ssuktteok"
+    ],
+    "note": "쑥떡 partial, others event. 2027-06-09."
+  },
+  {
+    "id": "haji",
+    "ko": "하지",
+    "en": "Summer solstice",
+    "kind": "term",
+    "anchor": "haji",
+    "foods": [
+      "haji-gamja"
+    ],
+    "note": "New potatoes, a 강원 custom. 2027-06-21."
+  },
+  {
+    "id": "soseo",
+    "ko": "소서",
+    "en": "Minor heat",
+    "kind": "term",
+    "anchor": "soseo",
+    "foods": [],
+    "note": "Croaker, squash, wheat dishes: what is good, not a must-eat. 2027-07-07."
+  },
+  {
+    "id": "chobok",
+    "ko": "초복",
+    "en": "First dog day",
+    "kind": "holiday",
+    "anchor": "chobok",
+    "foods": [
+      "samgyetang",
+      "boknal-chikin",
+      "mineotang"
+    ],
+    "note": "Alive. 2027-07-20."
+  },
+  {
+    "id": "jungbok",
+    "ko": "중복",
+    "en": "Middle dog day",
+    "kind": "holiday",
+    "anchor": "jungbok",
+    "foods": [
+      "samgyetang",
+      "boknal-chikin",
+      "mineotang"
+    ],
+    "note": "Alive. 2027-07-30."
+  },
+  {
+    "id": "malbok",
+    "ko": "말복",
+    "en": "Last dog day",
+    "kind": "holiday",
+    "anchor": "malbok",
+    "foods": [
+      "samgyetang",
+      "boknal-chikin",
+      "mineotang"
+    ],
+    "note": "Alive. 2027-08-09."
+  },
+  {
+    "id": "daeseo",
+    "ko": "대서",
+    "en": "Major heat",
+    "kind": "term",
+    "anchor": "daeseo",
+    "foods": [],
+    "note": "Melons, a produce note only. 2027-07-23."
+  },
+  {
+    "id": "yudu",
+    "ko": "유두",
+    "en": "Yudu",
+    "kind": "holiday",
+    "anchor": "yudu",
+    "foods": [
+      "yudumyeon"
+    ],
+    "note": "Textbook. 2027-07-18."
+  },
+  {
+    "id": "chilseok",
+    "ko": "칠석",
+    "en": "Seventh evening",
+    "kind": "holiday",
+    "anchor": "chilseok",
+    "foods": [
+      "miljeonbyeong"
+    ],
+    "note": "Textbook. 2027-08-08."
+  },
+  {
+    "id": "baekjung",
+    "ko": "백중",
+    "en": "Baekjung",
+    "kind": "holiday",
+    "anchor": "baekjung",
+    "foods": [],
+    "note": "Textbook. Offerings for the dead, no fixed dish. 2027-08-16."
+  },
+  {
+    "id": "chuseok",
+    "ko": "추석",
+    "en": "Chuseok",
+    "kind": "holiday",
+    "anchor": "chuseok",
+    "foods": [
+      "songpyeon",
+      "toranguk",
+      "sindoju"
+    ],
+    "note": "송편 alive, 토란국 partial. 2027-09-15."
+  },
+  {
+    "id": "hallo",
+    "ko": "한로",
+    "en": "Cold dew",
+    "kind": "term",
+    "anchor": "hallo",
+    "foods": [
+      "gukhwajeon",
+      "gukhwaju"
+    ],
+    "note": "EK confirms 국화전. 2027-10-08."
+  },
+  {
+    "id": "jungyang",
+    "ko": "중양절",
+    "en": "Double Ninth",
+    "kind": "holiday",
+    "anchor": "jungyang",
+    "foods": [
+      "gukhwajeon",
+      "gukhwaju"
+    ],
+    "note": "Textbook per the notes. 2027-10-08."
+  },
+  {
+    "id": "sanggang",
+    "ko": "상강",
+    "en": "Frost descends",
+    "kind": "term",
+    "anchor": "sanggang",
+    "foods": [],
+    "note": "Blog-only food claims. EK lists no food. 2027-10-24."
+  },
+  {
+    "id": "ipdong",
+    "ko": "입동",
+    "en": "Start of winter",
+    "kind": "term",
+    "anchor": "ipdong",
+    "foods": [
+      "gimjang",
+      "patsirutteok"
+    ],
+    "note": "Alive. 2026-11-07."
+  },
+  {
+    "id": "malnal-winter",
+    "ko": "말날 (상달)",
+    "en": "Horse day, lunar 10th month",
+    "kind": "holiday",
+    "anchor": "malnal-winter",
+    "foods": [
+      "patsirutteok"
+    ],
+    "note": "Partial. 고사 rice cake from 2026-11-09."
+  },
+  {
+    "id": "malnal-spring",
+    "ko": "말날 (장 담그기)",
+    "en": "Horse day for soy sauce making",
+    "kind": "holiday",
+    "anchor": "malnal-spring",
+    "foods": [],
+    "note": "Avoid 申 days. 2027-03-04."
+  },
+  {
+    "id": "suneung",
+    "ko": "수능",
+    "en": "College entrance exam",
+    "kind": "holiday",
+    "anchor": "suneung",
+    "foods": [
+      "chapssaltteok",
+      "yeot"
+    ],
+    "note": "Alive. 2026-11-19."
+  },
+  {
+    "id": "dongji",
+    "ko": "동지",
+    "en": "Winter solstice",
+    "kind": "term",
+    "anchor": "dongji",
+    "foods": [
+      "patjuk"
+    ],
+    "note": "Alive. 2026-12-22, a 중동지."
+  },
+  {
+    "id": "napil",
+    "ko": "납일",
+    "en": "Year-end game offering",
+    "kind": "holiday",
+    "anchor": "napil",
+    "foods": [
+      "kkwonggogi"
+    ],
+    "note": "Textbook. 2027-01-16."
+  },
+  {
+    "id": "samgyeopsal-day",
+    "ko": "삼겹살데이",
+    "en": "Pork Belly Day",
+    "kind": "market",
+    "date": "03-03",
+    "foods": [
+      "samgyeopsal-day",
+      "dwaejigogi"
+    ],
+    "note": "Alive. Producer-funded discounts."
+  },
+  {
+    "id": "ppaeppero-day",
+    "ko": "빼빼로데이",
+    "en": "Pepero Day",
+    "kind": "market",
+    "date": "11-11",
+    "foods": [
+      "ppaeppero-day"
+    ],
+    "note": "Alive by reputation."
+  },
+  {
+    "id": "garaetteok-day",
+    "ko": "가래떡데이",
+    "en": "Rice Cake Day",
+    "kind": "market",
+    "date": "11-11",
+    "foods": [
+      "garaetteok-day"
+    ],
+    "note": "Partial. Also 농업인의 날."
+  },
+  {
+    "id": "gimjang-price-package-2026",
+    "ko": "김장 물가 지원 시작",
+    "en": "Kimjang price package starts",
+    "kind": "market",
+    "date": "11-09",
+    "year": 2026,
+    "foods": [
+      "gimjang"
+    ],
+    "note": "Ministries run a price package for 김장 from Nov 9, 2026."
+  },
+  {
+    "id": "namdang-daeha-festival-2026",
+    "ko": "남당항 대하 축제",
+    "en": "Namdang-hang prawn festival",
+    "kind": "festival",
+    "date": "09-04",
+    "year": 2026,
+    "foods": [
+      "daeha"
+    ],
+    "note": "Runs 9/4-11/8, 2026."
+  },
+  {
+    "id": "kijang-myeolchi-festival-2026",
+    "ko": "기장 대변항 멸치 축제",
+    "en": "Gijang Daebyeonhang anchovy festival",
+    "kind": "festival",
+    "date": "04-24",
+    "year": 2026,
+    "foods": [],
+    "note": "Apr 24-26, 2026."
+  },
+  {
+    "id": "cheongdo-bansi-festival-2026",
+    "ko": "청도 반시 축제",
+    "en": "Cheongdo seedless persimmon festival",
+    "kind": "festival",
+    "date": "10-16",
+    "year": 2026,
+    "foods": [],
+    "note": "Oct 16-18, 2026."
+  },
+  {
+    "id": "goheung-yuja-festival-2026",
+    "ko": "고흥 유자 축제",
+    "en": "Goheung yuzu festival",
+    "kind": "festival",
+    "date": "11-12",
+    "year": 2026,
+    "foods": [],
+    "note": "Nov 12-15, 2026."
+  },
+  {
+    "id": "moseulpo-bangeo-festival-2026",
+    "ko": "모슬포 방어 축제",
+    "en": "Moseulpo yellowtail festival",
+    "kind": "festival",
+    "date": "11-19",
+    "year": 2026,
+    "foods": [
+      "bangeo"
+    ],
+    "note": "Nov 19-22, 2026."
+  },
+  {
+    "id": "sangju-gotgam-festival-2027",
+    "ko": "상주 곶감 축제",
+    "en": "Sangju dried persimmon festival",
+    "kind": "festival",
+    "date": "01-22",
+    "year": 2027,
+    "foods": [
+      "gotgam"
+    ],
+    "note": "Jan 22-24, 2027."
+  }
+]

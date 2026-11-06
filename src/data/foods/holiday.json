@@ -1,0 +1,1466 @@
+[
+  {
+    "aka": [
+      "만두",
+      "설날 만두"
+    ],
+    "eat": [
+      "떡국, rice-cake soup",
+      "만두, dumplings"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "id": "tteokguk",
+    "ko": "떡국",
+    "rr": "tteokguk",
+    "en": "Rice-cake soup",
+    "phrase": "rice-cake soup",
+    "tier": "known",
+    "windows": [
+      {
+        "anchor": "seollal",
+        "before": 2,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Lunar New Year"
+      }
+    ],
+    "blurb": "Rice-cake soup for Seollal (설날), Lunar New Year, still a mass custom. Dumplings (mandu, 만두) go with it or in it.",
+    "sources": [
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0029819"
+      },
+      {
+        "label": "Newsis",
+        "url": "https://www.newsis.com/view/NISX20260707_0003699536"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "묵은나물"
+    ],
+    "eat": [
+      "오곡밥, five-grain rice",
+      "묵은나물, dried stored greens"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "bureom"
+    ],
+    "id": "ogokbap",
+    "ko": "오곡밥",
+    "rr": "ogokbap",
+    "en": "Five-grain rice",
+    "phrase": "five-grain rice",
+    "tier": "known",
+    "windows": [
+      {
+        "anchor": "daeboreum",
+        "before": 1,
+        "after": 0,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Full moon, 1st lunar month"
+      }
+    ],
+    "blurb": "Five-grain rice for Daeboreum (대보름), the first full moon of the lunar year, served with stored dried greens (mukeun namul, 묵은나물). Still made, though the evidence is thinner than for Seollal. Cooking starts on the evening of the 14th.",
+    "sources": [
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0029819"
+      },
+      {
+        "label": "Dailian",
+        "url": "https://m.dailian.co.kr/news/view/1616093"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "부럼, nuts cracked on the full moon"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "ogokbap"
+    ],
+    "id": "bureom",
+    "ko": "부럼",
+    "rr": "bureom",
+    "en": "Full-moon nuts",
+    "phrase": "the full-moon nuts",
+    "tier": "known",
+    "windows": [
+      {
+        "anchor": "daeboreum",
+        "before": 1,
+        "after": 0,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Full moon, 1st lunar month"
+      }
+    ],
+    "blurb": "Nuts cracked with the teeth on Daeboreum (대보름), the first full moon of the lunar year. It goes with five-grain rice and is still practiced, though the evidence is thinner.",
+    "sources": [
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0029819"
+      },
+      {
+        "label": "Dailian",
+        "url": "https://m.dailian.co.kr/news/view/1616093"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "오신채",
+      "오신반",
+      "세생채"
+    ],
+    "eat": [
+      "오신채, five pungent greens"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "id": "ipchun-osinchae",
+    "ko": "입춘 오신채",
+    "rr": "ipchun osinchae",
+    "en": "Five pungent greens",
+    "tier": "local",
+    "windows": [
+      {
+        "anchor": "ipchun",
+        "before": 0,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "First day of spring"
+      }
+    ],
+    "blurb": "Five pungent raw greens (osinchae, 오신채) eaten at Ipchun (입춘), the start of spring. Mostly seen at museums, temples and festivals now, so it's a fading custom.",
+    "caveat": "Sources disagree on which five, with no overlap. One lists minari, danggwi sprouts, darae, naengi and megat. An online cafe post says scallion, garlic, dallae, buchu and mureut.",
+    "sources": [
+      {
+        "label": "경기일보",
+        "url": "https://www.kyeonggi.com/article/201502040629297"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "고로쇠 수액"
+    ],
+    "eat": [
+      "고로쇠 수액, maple sap"
+    ],
+    "where": [
+      "Jinan (진안)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Jinan (진안) festival, mid March (year not given)"
+    ],
+    "related": [],
+    "id": "gorosoe",
+    "ko": "고로쇠",
+    "rr": "gorosoe",
+    "en": "Maple sap",
+    "phrase": "maple sap",
+    "tier": "known",
+    "windows": [
+      {
+        "anchor": "gyeongchip",
+        "before": 3,
+        "after": 3,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Around 경칩"
+      }
+    ],
+    "blurb": "Maple sap drunk around Gyeongchip (경칩), the insects-wake solar term in early March. Fading or niche now. A Jinan festival runs in mid-March, and Korean-medicine health claims get repeated without a cited study.",
+    "caveat": "Sources tie the sap to Gyeongchip but give no harvest start dates.",
+    "sources": [
+      {
+        "label": "코메디닷컴",
+        "url": "https://kormedi.com/200040/"
+      },
+      {
+        "label": "리컴에리어",
+        "url": "https://recomarea.com/festival/FestivalMain?month=3"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "삼겹살, grilled pork belly"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "dwaejigogi"
+    ],
+    "id": "samgyeopsal-day",
+    "ko": "삼겹살데이",
+    "rr": "samgyeopsal dei",
+    "en": "Pork Belly Day",
+    "phrase": "Pork Belly Day",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "03-03",
+        "to": "03-03",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "March 3"
+      }
+    ],
+    "blurb": "A March 3 pork-belly promotion started by the livestock cooperative (chukhyeop, 축협) to raise pig-farm income. Still widely observed, and producer-funded: in 2026 marts offered up to 50% off, and Nonghyup (농협) sold at 1,290 won per 100g on 3/3.",
+    "sources": [
+      {
+        "label": "경북매일",
+        "url": "https://www.kbmaeil.com/article/20260302500469"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "진달래 화전"
+    ],
+    "eat": [
+      "진달래 화전, azalea pancake"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "id": "hwajeon",
+    "ko": "화전",
+    "rr": "hwajeon",
+    "en": "Azalea pancake",
+    "tier": "local",
+    "windows": [
+      {
+        "anchor": "samjinnal",
+        "before": 1,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "3rd day of 3rd lunar month"
+      }
+    ],
+    "blurb": "Azalea (jindallae, 진달래) pancake for Samjinnal (삼짇날), the third day of the third lunar month. Mostly seen at museums and festivals now. The Encyclopedia of Korean Culture says the hwajeon outing (hwajeon-nori, 화전놀이) turned into spring picnics.",
+    "sources": [
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0029819"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "쑥개떡"
+    ],
+    "eat": [
+      "쑥떡, mugwort rice cake"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "ssuk"
+    ],
+    "id": "ssuktteok",
+    "ko": "쑥떡",
+    "rr": "ssuktteok",
+    "en": "Mugwort rice cake",
+    "phrase": "mugwort rice cake",
+    "tier": "known",
+    "windows": [
+      {
+        "anchor": "hansik",
+        "before": 1,
+        "after": 0,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "청명 and 한식"
+      },
+      {
+        "anchor": "dano",
+        "before": 1,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "단오"
+      }
+    ],
+    "blurb": "Rice cake with mugwort (ssuk, 쑥), tied to Cheongmyeong (청명) and Hansik (한식) in April and to Dano (단오) in June. The mugwort itself is seasonal. The Hansik cold-food custom is effectively gone, and the Dano version is fading.",
+    "sources": [
+      {
+        "label": "Pressian",
+        "url": "https://pressian.com/pages/articles/125245"
+      },
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0029819"
+      },
+      {
+        "label": "Segye",
+        "url": "https://www.segye.com/newsView/20260612508626"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "쑥무리, mugwort cake"
+    ],
+    "where": [
+      "Songpa (송파)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "id": "ssukmuri",
+    "ko": "쑥무리",
+    "rr": "ssukmuri",
+    "en": "Mugwort cake",
+    "tier": "local",
+    "windows": [
+      {
+        "anchor": "ipha",
+        "before": 1,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "입하"
+      }
+    ],
+    "blurb": "Mugwort cake made at Ipha (입하), the start of summer in early May. The Encyclopedia of Korean Culture records it as a seasonal food of Songpa only, and no source shows wider practice.",
+    "sources": [
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0047827"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "증편, rice cake"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "ssukbeomuri"
+    ],
+    "id": "jeungpyeon",
+    "ko": "증편",
+    "rr": "jeungpyeon",
+    "en": "Buddha's Birthday rice cake",
+    "tier": "local",
+    "windows": [
+      {
+        "anchor": "chopail",
+        "before": 1,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "초파일"
+      }
+    ],
+    "blurb": "Rice cake (jeungpyeon, 증편) for Chopail (초파일), Buddha's Birthday on the 8th of the fourth lunar month. A temple-centred custom, so a fading one.",
+    "sources": [
+      {
+        "label": "고창 향토문화",
+        "url": "https://www.grandculture.net/gochang/dir/GC02801447?category=%ED%91%9C%EC%A0%9C%EC%96%B4&depth=3&name=%EB%A7%88&type=titleKor&search=%EB%A7%88"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "쑥버무리, mugwort cake"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "jeungpyeon",
+      "ssuk"
+    ],
+    "id": "ssukbeomuri",
+    "ko": "쑥버무리",
+    "rr": "ssukbeomuri",
+    "en": "Mugwort cake",
+    "tier": "local",
+    "windows": [
+      {
+        "anchor": "chopail",
+        "before": 1,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "초파일"
+      }
+    ],
+    "blurb": "Mugwort cake (ssukbeomuri, 쑥버무리) for Chopail (초파일), Buddha's Birthday. A temple-centred custom, so a fading one.",
+    "sources": [
+      {
+        "label": "고창 향토문화",
+        "url": "https://www.grandculture.net/gochang/dir/GC02801447?category=%ED%91%9C%EC%A0%9C%EC%96%B4&depth=3&name=%EB%A7%88&type=titleKor&search=%EB%A7%88"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "보리 그을음"
+    ],
+    "eat": [
+      "풋보리 죽, green barley porridge"
+    ],
+    "where": [
+      "Jeonnam (전남)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "id": "putboori",
+    "ko": "풋보리",
+    "rr": "putbori",
+    "en": "Green barley",
+    "tier": "local",
+    "windows": [
+      {
+        "anchor": "mangjong",
+        "before": 1,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "망종"
+      }
+    ],
+    "blurb": "Green barley at Mangjong (망종), the grain-in-ear solar term around June 6. The Encyclopedia of Korean Culture records South Jeolla burning green barley (bori geueureum, 보리 그을음). No source says how widely it's still done or pins down a region for barley porridge.",
+    "sources": [
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0017898"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "수리취떡, mountain-aster rice cake"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "id": "surichitteok",
+    "ko": "수리취떡",
+    "rr": "surichitteok",
+    "en": "Mountain-aster rice cake",
+    "tier": "local",
+    "windows": [
+      {
+        "anchor": "dano",
+        "before": 1,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "단오"
+      }
+    ],
+    "blurb": "Rice cake made with mountain aster (surichwi, 수리취) for Dano (단오), the fifth day of the fifth lunar month. Mostly seen at museums and festivals now.",
+    "sources": [
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0029819"
+      },
+      {
+        "label": "Segye",
+        "url": "https://www.segye.com/newsView/20260612508626"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "앵두화채, cherry punch"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "id": "aengdu-hwachae",
+    "ko": "앵두화채",
+    "rr": "aengdu hwachae",
+    "en": "Cherry punch",
+    "tier": "local",
+    "windows": [
+      {
+        "anchor": "dano",
+        "before": 1,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "단오"
+      }
+    ],
+    "blurb": "Cherry punch (aengdu hwachae, 앵두화채) for Dano (단오) in June. Mostly seen at museums and festivals now.",
+    "sources": [
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0029819"
+      },
+      {
+        "label": "Segye",
+        "url": "https://www.segye.com/newsView/20260612508626"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "백숙"
+    ],
+    "eat": [
+      "삼계탕, chicken soup",
+      "백숙, boiled chicken"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "boknal-chikin",
+      "mineotang"
+    ],
+    "id": "samgyetang",
+    "ko": "삼계탕",
+    "rr": "samgyetang",
+    "en": "Ginseng chicken soup",
+    "phrase": "chicken soup",
+    "tier": "national",
+    "windows": [
+      {
+        "anchor": "chobok",
+        "before": 1,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "초복"
+      },
+      {
+        "anchor": "jungbok",
+        "before": 1,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "중복"
+      },
+      {
+        "anchor": "malbok",
+        "before": 1,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "말복"
+      }
+    ],
+    "blurb": "Whole-chicken soup eaten on the three Boknal (복날), the hottest days of summer. Still hugely popular: on Chobok (초복), the first Boknal, in 2026, table orders for baeksuk (백숙) and samgyetang ran 3.4x those of the same weekday a week earlier, per TOrder (티오더) data.",
+    "caveat": "Seoul's average samgyetang price was 18,154 won in May 2026, per a Newsis report.",
+    "sources": [
+      {
+        "label": "Venture Square",
+        "url": "https://www.venturesquare.net/1102298/"
+      },
+      {
+        "label": "Segye",
+        "url": "https://www.segye.com/newsView/20260721507834"
+      },
+      {
+        "label": "청년일보",
+        "url": "https://www.youthdaily.co.kr/news/article.html?no=220605"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "치킨"
+    ],
+    "eat": [
+      "치킨, fried chicken"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "samgyetang"
+    ],
+    "id": "boknal-chikin",
+    "ko": "복날 치킨",
+    "rr": "boknal chikin",
+    "en": "Dog-day fried chicken",
+    "phrase": "fried chicken",
+    "tier": "known",
+    "windows": [
+      {
+        "anchor": "chobok",
+        "before": 1,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "초복"
+      },
+      {
+        "anchor": "jungbok",
+        "before": 1,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "중복"
+      },
+      {
+        "anchor": "malbok",
+        "before": 1,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "말복"
+      }
+    ],
+    "blurb": "Fried chicken ordered on Boknal (복날), the three hottest days of summer. Chicken has displaced dog-meat soup (boshintang, 보신탕) there. On Chobok (초복) in 2026, chicken orders rose 1.6x over the same weekday a week earlier, against 3.4x for samgyetang (TOrder data).",
+    "sources": [
+      {
+        "label": "Venture Square",
+        "url": "https://www.venturesquare.net/1102298/"
+      },
+      {
+        "label": "Segye",
+        "url": "https://www.segye.com/newsView/20260721507834"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "민어탕, croaker soup"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "samgyetang"
+    ],
+    "id": "mineotang",
+    "ko": "민어탕",
+    "rr": "mineotang",
+    "en": "Croaker soup",
+    "tier": "local",
+    "windows": [
+      {
+        "anchor": "chobok",
+        "before": 1,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "초복"
+      },
+      {
+        "anchor": "jungbok",
+        "before": 1,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "중복"
+      },
+      {
+        "anchor": "malbok",
+        "before": 1,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "말복"
+      }
+    ],
+    "blurb": "Croaker soup, listed among Boknal (복날) foods by the Encyclopedia of Korean Culture. The Boknal custom as a whole is still widely kept, but the croaker side is fading.",
+    "sources": [
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0029819"
+      },
+      {
+        "label": "청년일보",
+        "url": "https://www.youthdaily.co.kr/news/article.html?no=220605"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "흑염소, black goat"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "ori"
+    ],
+    "id": "heugyeomso",
+    "ko": "흑염소",
+    "rr": "heugyeomso",
+    "en": "Black goat",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Summer demand"
+      }
+    ],
+    "blurb": "Black goat meat eaten for stamina in summer. This is demand timing, not a season, so Jun-Aug is an estimate. It and duck fill the gap as dog-meat soup becomes illegal. Seoul ran a labelling inspection of restaurants selling both from 6/15 to 7/3 in 2026.",
+    "sources": [
+      {
+        "label": "청년일보",
+        "url": "https://www.youthdaily.co.kr/news/article.html?no=220605"
+      },
+      {
+        "label": "Venture Square",
+        "url": "https://www.venturesquare.net/1102298/"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "오리고기"
+    ],
+    "eat": [
+      "오리, duck"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "heugyeomso"
+    ],
+    "id": "ori",
+    "ko": "오리",
+    "rr": "ori",
+    "en": "Duck",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Summer demand"
+      }
+    ],
+    "blurb": "Duck meat eaten for stamina in summer. This is demand timing, not a season, so Jun-Aug is an estimate. It and black goat fill the gap as dog-meat soup becomes illegal. Seoul ran a labelling inspection of restaurants selling both from 6/15 to 7/3 in 2026.",
+    "sources": [
+      {
+        "label": "청년일보",
+        "url": "https://www.youthdaily.co.kr/news/article.html?no=220605"
+      },
+      {
+        "label": "Venture Square",
+        "url": "https://www.venturesquare.net/1102298/"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "유두 국수"
+    ],
+    "eat": [
+      "유두면, 유두 noodles"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "id": "yudumyeon",
+    "ko": "유두면",
+    "rr": "yudumyeon",
+    "en": "Yudu day noodles",
+    "tier": "local",
+    "windows": [
+      {
+        "anchor": "yudu",
+        "before": 1,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "유두"
+      }
+    ],
+    "blurb": "Wheat noodles for Yudu (유두), the 15th of the sixth lunar month. Effectively gone: you'll read about it more than you'll eat it. The noodles were beaded, dyed, strung in threes and worn against misfortune.",
+    "sources": [
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0041368"
+      },
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0029819"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "칠석 밀전병"
+    ],
+    "eat": [
+      "밀전병, wheat crepe"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "id": "miljeonbyeong",
+    "ko": "밀전병",
+    "rr": "miljeonbyeong",
+    "en": "Chilseok wheat crepe",
+    "tier": "local",
+    "windows": [
+      {
+        "anchor": "chilseok",
+        "before": 1,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "칠석"
+      }
+    ],
+    "blurb": "Wheat crepe for Chilseok (칠석), the 7th of the seventh lunar month. Effectively gone now. Baekjung (백중) on the 15th has no fixed dish in the sources.",
+    "sources": [
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0041368"
+      },
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0029819"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "송편, half-moon rice cake"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "toranguk"
+    ],
+    "id": "songpyeon",
+    "ko": "송편",
+    "rr": "songpyeon",
+    "en": "Half-moon rice cake",
+    "phrase": "half-moon rice cake",
+    "tier": "known",
+    "windows": [
+      {
+        "anchor": "chuseok",
+        "before": 10,
+        "after": 2,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "추석"
+      }
+    ],
+    "blurb": "Half-moon rice cake for Chuseok (추석), the autumn harvest holiday on the 15th of the eighth lunar month. Still made and eaten everywhere.",
+    "sources": [
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0029819"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/토란"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "토란탕"
+    ],
+    "eat": [
+      "토란국, taro soup"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "songpyeon"
+    ],
+    "id": "toranguk",
+    "ko": "토란국",
+    "rr": "toranguk",
+    "en": "Taro soup",
+    "tier": "local",
+    "windows": [
+      {
+        "anchor": "chuseok",
+        "before": 10,
+        "after": 2,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "추석"
+      }
+    ],
+    "blurb": "Taro soup (toranguk, 토란국) served at Chuseok (추석). Fading or niche now. Taro itself is listed as a September crop.",
+    "sources": [
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0029819"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/토란"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "신도주, new-rice wine"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "id": "sindoju",
+    "ko": "신도주",
+    "rr": "sindoju",
+    "en": "New-rice wine",
+    "tier": "local",
+    "windows": [
+      {
+        "anchor": "chuseok",
+        "before": 3,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "추석"
+      }
+    ],
+    "blurb": "Wine from the new rice, tied to Chuseok (추석). Effectively gone as a custom, so you'll read about it more than you'll drink it. It appears in Nongga Wolryeongga (농가월령가), an 1816 month-by-month farm poem, in the 8th-month section.",
+    "sources": [
+      {
+        "label": "농가월령가",
+        "url": "https://ko.wikisource.org/wiki/농가월령가"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "국화 부침"
+    ],
+    "eat": [
+      "국화전, chrysanthemum pancake"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "gukhwaju"
+    ],
+    "id": "gukhwajeon",
+    "ko": "국화전",
+    "rr": "gukhwajeon",
+    "en": "Chrysanthemum pancake",
+    "tier": "local",
+    "windows": [
+      {
+        "anchor": "hallo",
+        "before": 2,
+        "after": 2,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "한로"
+      }
+    ],
+    "blurb": "Chrysanthemum pancake made around Hallo (한로), a solar term in early October, and on Jungyangjeol (중양절), the 9th of the ninth lunar month. The Encyclopedia of Korean Culture confirms the Hallo pancake, while the Jungyangjeol custom is effectively gone.",
+    "sources": [
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0061573"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "국화주, chrysanthemum wine"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "gukhwajeon"
+    ],
+    "id": "gukhwaju",
+    "ko": "국화주",
+    "rr": "gukhwaju",
+    "en": "Chrysanthemum wine",
+    "tier": "local",
+    "windows": [
+      {
+        "anchor": "hallo",
+        "before": 2,
+        "after": 2,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "한로"
+      }
+    ],
+    "blurb": "Chrysanthemum wine brewed around Hallo (한로), a solar term in early October, and Jungyangjeol (중양절). The Encyclopedia of Korean Culture says people fry chrysanthemum pancakes and brew chrysanthemum liquor (gukhwasul, 국화술) around Hallo. The Jungyangjeol custom is effectively gone.",
+    "sources": [
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0061573"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "고사떡"
+    ],
+    "eat": [
+      "팥시루떡, red-bean steamed cake"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "id": "patsirutteok",
+    "ko": "팥시루떡",
+    "rr": "patsirutteok",
+    "en": "Red-bean steamed cake",
+    "phrase": "red-bean steamed cake",
+    "tier": "known",
+    "windows": [
+      {
+        "anchor": "ipdong",
+        "before": 1,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "입동"
+      },
+      {
+        "anchor": "malnal-winter",
+        "before": 0,
+        "after": 29,
+        "kind": "peak",
+        "mark": "est",
+        "label": "Lunar 10th month, 말날"
+      }
+    ],
+    "blurb": "Red-bean steamed rice cake for Ipdong (입동), a solar term in early November, and for gosa (고사) rites on Malnal (말날) in the lunar 10th month. The Ipdong custom is still kept, with timing moved later, while the Malnal one is fading.",
+    "caveat": "The Malnal window covers the whole lunar 10th month, which is an estimate worked out from the calendar, not a sourced span.",
+    "sources": [
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0047786"
+      },
+      {
+        "label": "고창 향토문화",
+        "url": "https://www.grandculture.net/gochang/dir/GC02801447?category=%ED%91%9C%EC%A0%9C%EC%96%B4&depth=3&name=%EB%A7%88&type=titleKor&search=%EB%A7%88"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "빼빼로"
+    ],
+    "eat": [
+      "빼빼로, chocolate-dipped biscuit sticks"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "garaetteok-day"
+    ],
+    "id": "ppaeppero-day",
+    "ko": "빼빼로데이",
+    "rr": "ppaeppero dei",
+    "en": "Pepero Day",
+    "phrase": "Pepero Day",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "11-11",
+        "to": "11-11",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "November 11"
+      }
+    ],
+    "blurb": "A November 11 marketing day for Pepero sticks, a packaged snack. By the usual account it began with schoolgirls in Gyeongnam in the mid-1990s, though sources differ. Its reach rests on reputation, with no 2026 sales figures.",
+    "caveat": "Origin accounts differ, including 1997 and 'origin unclear'.",
+    "sources": [
+      {
+        "label": "전북일보",
+        "url": "https://jjan.kr/article/20161110596125"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "농업인의 날"
+    ],
+    "eat": [
+      "가래떡, long rice cake"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "ppaeppero-day"
+    ],
+    "id": "garaetteok-day",
+    "ko": "가래떡데이",
+    "rr": "garaetteok dei",
+    "en": "Rice Cake Day",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "11-11",
+        "to": "11-11",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "November 11"
+      }
+    ],
+    "blurb": "A November 11 day for long cylinder rice cakes (garaetteok, 가래떡), which is also Farmers' Day (농업인의 날). Fading or niche, with rest-stop and local giveaways. It dates from 2006, to promote rice use.",
+    "caveat": "Sources conflict on credit: one names the farm ministry, another a Danyang rest-stop manager.",
+    "sources": [
+      {
+        "label": "전북일보",
+        "url": "https://jjan.kr/article/20161110596125"
+      },
+      {
+        "label": "Kukinews",
+        "url": "https://www.kukinews.com/article/view/kuk201611110153"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "찹쌀떡"
+    ],
+    "eat": [
+      "찹쌀떡, sticky rice cake"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "yeot"
+    ],
+    "id": "chapssaltteok",
+    "ko": "수능 찹쌀떡",
+    "rr": "suneung chapssaltteok",
+    "en": "Exam-day sticky rice cake",
+    "phrase": "exam-day sticky rice cake",
+    "tier": "known",
+    "windows": [
+      {
+        "anchor": "suneung",
+        "before": 2,
+        "after": 2,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "수능"
+      }
+    ],
+    "blurb": "Sticky rice cake given to students around the Suneung (수능), the college entrance exam. Still widely given. In 2026 Tous les Jours (뚜레쥬르) sold 6-piece and 9-piece sets in stores for exam week.",
+    "sources": [
+      {
+        "label": "CJ News",
+        "url": "https://cjnews.cj.net/?p=81373"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "수능 엿"
+    ],
+    "eat": [
+      "엿, taffy"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "chapssaltteok"
+    ],
+    "id": "yeot",
+    "ko": "엿",
+    "rr": "yeot",
+    "en": "Taffy",
+    "phrase": "taffy",
+    "tier": "known",
+    "windows": [
+      {
+        "anchor": "suneung",
+        "before": 2,
+        "after": 2,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "수능"
+      }
+    ],
+    "blurb": "Hard taffy given for luck around the Suneung (수능) college exam, along with sticky rice cake. Still widely given. In 2026 Tous les Jours (뚜레쥬르) sold a set of sticky rice cake, chocolate and taffy in stores for exam week.",
+    "sources": [
+      {
+        "label": "CJ News",
+        "url": "https://cjnews.cj.net/?p=81373"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "동지 팥죽"
+    ],
+    "eat": [
+      "팥죽, red-bean porridge"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "id": "patjuk",
+    "ko": "팥죽",
+    "rr": "patjuk",
+    "en": "Red-bean porridge",
+    "phrase": "red-bean porridge",
+    "tier": "known",
+    "windows": [
+      {
+        "anchor": "dongji",
+        "before": 2,
+        "after": 1,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "동지"
+      }
+    ],
+    "blurb": "Red-bean porridge for Dongji (동지), the winter solstice, and still widely eaten.",
+    "caveat": "The Encyclopedia of Korean Culture calls solstice red-bean porridge mostly a temple food. That looks like an undersell, but no recent figure settles it.",
+    "sources": [
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0016784"
+      },
+      {
+        "label": "Segye",
+        "url": "https://www.segye.com/newsView/20251222501799"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "꿩만두"
+    ],
+    "eat": [
+      "꿩만두, pheasant dumplings"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "id": "kkwonggogi",
+    "ko": "꿩고기",
+    "rr": "kkwonggogi",
+    "en": "Pheasant",
+    "tier": "local",
+    "windows": [],
+    "undated": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "blurb": "Wild pheasant meat, in season from autumn to early spring. It's the only real meat season, but heritage more than current habit. The Napil (납일) tradition of game offerings is effectively gone.",
+    "caveat": "Timing rests on one wiki page, so treat it as weak.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/꿩고기"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "한우, Korean beef"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "id": "hanu",
+    "ko": "한우",
+    "rr": "hanu",
+    "en": "Korean beef",
+    "phrase": "Korean beef",
+    "tier": "known",
+    "windows": [],
+    "noSeason": true,
+    "blurb": "Korean beef has no season, only placements on the Rural Development Administration's monthly list. Beef festivals cluster in Sep-Oct, and no source says why.",
+    "sources": [
+      {
+        "label": "RDA list",
+        "url": "https://www.nics.go.kr/food/kfi/foodMonth/list"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/한우"
+      },
+      {
+        "label": "리컴에리어",
+        "url": "https://recomarea.com/festival/FestivalMain?month=9"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "한돈"
+    ],
+    "eat": [
+      "삼겹살, pork belly"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "samgyeopsal-day"
+    ],
+    "id": "dwaejigogi",
+    "ko": "돼지고기",
+    "rr": "dwaejigogi",
+    "en": "Pork",
+    "phrase": "pork",
+    "tier": "known",
+    "windows": [],
+    "noSeason": true,
+    "blurb": "Pork has no season, only placements on the Rural Development Administration's monthly list. Its one calendar hook is Samgyeopsal Day (삼겹살데이), a March 3 promotion.",
+    "sources": [
+      {
+        "label": "RDA list",
+        "url": "https://www.nics.go.kr/food/kfi/foodMonth/list"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [
+      "계란"
+    ],
+    "eat": [
+      "달걀, eggs"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "id": "dalgyal",
+    "ko": "달걀",
+    "rr": "dalgyal",
+    "en": "Eggs",
+    "phrase": "eggs",
+    "tier": "known",
+    "windows": [],
+    "noSeason": true,
+    "blurb": "Eggs have no season, only placements on the Rural Development Administration's monthly list, so they stay off the calendar.",
+    "sources": [
+      {
+        "label": "RDA list",
+        "url": "https://www.nics.go.kr/food/kfi/foodMonth/list"
+      }
+    ],
+    "lane": "holiday"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "우유, milk"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "id": "uyu",
+    "ko": "우유",
+    "rr": "uyu",
+    "en": "Milk",
+    "phrase": "milk",
+    "tier": "known",
+    "windows": [],
+    "noSeason": true,
+    "blurb": "Milk has no season, only placements on the Rural Development Administration's monthly list, so it stays off the calendar.",
+    "sources": [
+      {
+        "label": "RDA list",
+        "url": "https://www.nics.go.kr/food/kfi/foodMonth/list"
+      }
+    ],
+    "lane": "holiday"
+  }
+]

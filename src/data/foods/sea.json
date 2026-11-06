@@ -1,0 +1,2410 @@
+[
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Peak"
+      },
+      {
+        "from": "10-21",
+        "to": "10-31",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "First oysters"
+      },
+      {
+        "from": "03-01",
+        "to": "04-30",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Ministry season runs to Apr"
+      }
+    ],
+    "eat": [
+      "어리굴젓, oysters salted with chili"
+    ],
+    "where": [
+      "Tongyeong (통영)",
+      "Geoje (거제)",
+      "Yeosu (여수)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "gul-gukbap",
+      "eori-guljeot"
+    ],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/굴%28어패류%29"
+      }
+    ],
+    "lane": "sea",
+    "id": "gul",
+    "ko": "굴",
+    "rr": "gul",
+    "en": "Oyster",
+    "phrase": "oysters",
+    "tier": "national",
+    "blurb": "Cold-water oysters, mostly farmed. Tongyeong opens the harvest in mid to late October, the peak runs Nov-Feb, and one wiki says the fisheries ministry counts Nov-Apr as season. About 80% of output comes from the waters between Geoje and Tongyeong, and they spawn May-Sep."
+  },
+  {
+    "aka": [
+      "참꼬막",
+      "새꼬막"
+    ],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Peak"
+      }
+    ],
+    "eat": [
+      "꼬막 정식, cockle set meal in Beolgyo"
+    ],
+    "where": [
+      "Beolgyo (벌교)",
+      "Goheung (고흥)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Beolgyo Kkomak Festival, Nov 21-23, 2025"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/꼬막"
+      },
+      {
+        "label": "Seoul Shinmun",
+        "url": "https://m.go.seoul.co.kr/news/2025/11/14/20251114500187"
+      }
+    ],
+    "lane": "sea",
+    "id": "kkomak",
+    "ko": "꼬막",
+    "rr": "kkomak",
+    "en": "Cockle",
+    "phrase": "cockles",
+    "tier": "known",
+    "blurb": "A small ribbed clam, sold as chamkkomak and saekkomak. It runs Nov-Mar and spawns Jul-Sep. Goheung grows about 60% of the output, which irritates Beolgyo, the town whose name sells it.",
+    "caveat": "One wiki puts the cockle festival in late Oct to early Nov. It ran Nov 1-3 in 2024 and Nov 21-23 in 2025. One community post says the season is Sep-Mar."
+  },
+  {
+    "aka": [
+      "홍가리비"
+    ],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Peak"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [
+      {
+        "from": "03-01",
+        "to": "06-30",
+        "note": "One defined sea area only. Researchers' reading of the statute"
+      }
+    ],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "데일리안",
+        "url": "https://www.dailian.co.kr/news/view/1708876/%EC%A0%9C%EC%B2%A0-%EB%A7%9E%EC%9D%80-%EC%82%BC%EC%B9%98%EA%B0%80%EB%A6%AC%EB%B9%84%ED%95%B4%EC%88%98%EB%B6%80-11%EC%9B%94-%EC%9D%B4-2026"
+      },
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      },
+      {
+        "label": "GQ",
+        "url": "https://www.gqkorea.co.kr/?p=363199"
+      }
+    ],
+    "lane": "sea",
+    "id": "garibi",
+    "ko": "가리비",
+    "rr": "garibi",
+    "en": "Scallop",
+    "phrase": "scallops",
+    "tier": "known",
+    "blurb": "Scallops, including the red kind called hong-garibi. A wiki and the fisheries ministry both point to Nov-Dec, and the ministry picked scallops in four Novembers, including 2024 and 2025.",
+    "caveat": "One magazine piece calls scallops a spring food, grilled or butter-steamed. The ministry's monthly picks track promotion, not harvest dates."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Peak"
+      }
+    ],
+    "eat": [],
+    "where": [
+      "Namdang Harbor (남당항)",
+      "Cheonsuman (천수만)"
+    ],
+    "closures": [
+      {
+        "from": "06-16",
+        "to": "09-30",
+        "note": "Southern regions, Jeju 6/1-9/30. Researchers' reading"
+      }
+    ],
+    "festivals": [
+      "Hongseong Namdang Harbor Egg Cockle Festival (23rd), Jan 17-Feb 22, 2026"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "Khan",
+        "url": "https://www.khan.co.kr/article/202601071410001/"
+      }
+    ],
+    "lane": "sea",
+    "id": "saejogae",
+    "ko": "새조개",
+    "rr": "saejogae",
+    "en": "Egg cockle",
+    "phrase": "egg cockles",
+    "tier": "known",
+    "blurb": "A bird-shaped cockle centred on Cheonsuman bay and Namdang Harbor. The window is Dec-Mar, and supply swings hard. The 2025 festival closed 21 days after opening, with about 10 t sold against 20+ t the year before.",
+    "caveat": "The Korea Tourism listing shows the 2026 festival running to Apr 30, while the press says Feb 22. A Geoje fishing list puts the shellfish in spring."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Harvest from Dec"
+      }
+    ],
+    "eat": [],
+    "where": [
+      "Jinhae Bay (진해만)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "GQ",
+        "url": "https://www.gqkorea.co.kr/?p=363199"
+      }
+    ],
+    "lane": "sea",
+    "id": "pijogae",
+    "ko": "피조개",
+    "rr": "pijogae",
+    "en": "Blood clam",
+    "tier": "local",
+    "blurb": "A red-fleshed clam eaten raw. Harvest in Jinhae Bay starts in December, and sources say it runs into spring.",
+    "caveat": "The end of the window is an estimate. One article says winter through spring and gives no month for the end."
+  },
+  {
+    "aka": [
+      "섭"
+    ],
+    "windows": [
+      {
+        "from": "10-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "weak",
+        "label": "Peak"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      },
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "honghap",
+    "ko": "홍합",
+    "rr": "honghap",
+    "en": "Mussel",
+    "phrase": "mussels",
+    "tier": "known",
+    "blurb": "Mussels, also called seop. One wiki gives Oct-Dec and a Geoje fishing list says winter. Both are single, low-authority sources.",
+    "caveat": "The window rests on that wiki and one community list, so treat it as a lead."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Peak"
+      },
+      {
+        "from": "02-01",
+        "to": "02-28",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Namu starts in Feb"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "GQ",
+        "url": "https://www.gqkorea.co.kr/?p=363199"
+      }
+    ],
+    "lane": "sea",
+    "id": "bajirak",
+    "ko": "바지락",
+    "rr": "bajirak",
+    "en": "Manila clam",
+    "phrase": "Manila clams",
+    "tier": "known",
+    "blurb": "Manila clams peak in Mar-Apr, and one wiki starts the season in February. The fishing statute lists no closed season for them."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "05-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Peak"
+      },
+      {
+        "from": "06-01",
+        "to": "06-30",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Ministry picks run to Jun"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [
+      {
+        "from": "07-01",
+        "to": "08-31"
+      }
+    ],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      },
+      {
+        "label": "Wikifoodie",
+        "url": "https://www.wikifoodie.co.kr/news/articleView.html?idxno=9297"
+      },
+      {
+        "label": "Statute",
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=140774771"
+      }
+    ],
+    "lane": "sea",
+    "id": "kijogae",
+    "ko": "키조개",
+    "rr": "kijogae",
+    "en": "Pen shell",
+    "phrase": "pen shells",
+    "tier": "known",
+    "blurb": "A large fan-shaped clam that peaks Apr-May. The fisheries ministry has picked it in months from Apr to Jun, and harvest is closed Jul-Aug.",
+    "caveat": "A Geoje fishing list places pen shell in winter, which no other source supports."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "05-01",
+        "to": "06-30",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Peak"
+      }
+    ],
+    "eat": [
+      "재첩국, clam soup with chives"
+    ],
+    "where": [
+      "Seomjin River (섬진강)",
+      "Hadong (하동)",
+      "Gwangyang (광양)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "GQ",
+        "url": "https://www.gqkorea.co.kr/?p=363199"
+      }
+    ],
+    "lane": "sea",
+    "id": "jaecheop",
+    "ko": "재첩",
+    "rr": "jaecheop",
+    "en": "Marsh clam",
+    "phrase": "marsh clams",
+    "tier": "known",
+    "blurb": "Tiny clams from the Seomjin River estuary around Hadong and Gwangyang. They peak May-Jun, and one magazine piece pairs them with a chive soup.",
+    "caveat": "The same one magazine article says March, and a 2012 column says October."
+  },
+  {
+    "aka": [
+      "생합"
+    ],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "05-31",
+        "kind": "peak",
+        "mark": "weak",
+        "label": "Spring"
+      }
+    ],
+    "eat": [
+      "맑은탕, clear clam soup"
+    ],
+    "where": [
+      "Buan (부안)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "GQ",
+        "url": "https://www.gqkorea.co.kr/?p=363199"
+      }
+    ],
+    "lane": "sea",
+    "id": "baekhap",
+    "ko": "백합",
+    "rr": "baekhap",
+    "en": "Hard clam",
+    "tier": "local",
+    "blurb": "A big hard clam best known in Buan, where it goes into a clear soup. Sources say spring, and one blog narrows that to Apr-May.",
+    "caveat": "The window rests on one magazine piece and one blog. One wiki warns that eating it raw in summer carries risk."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "05-31",
+        "kind": "peak",
+        "mark": "weak",
+        "label": "Spring spawning"
+      },
+      {
+        "from": "10-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "weak",
+        "label": "Autumn spawning"
+      },
+      {
+        "from": "03-01",
+        "to": "03-31",
+        "kind": "season",
+        "mark": "weak",
+        "label": "Some sources start in Mar"
+      }
+    ],
+    "eat": [
+      "칼국수, noodle soup with clams"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "GQ",
+        "url": "https://www.gqkorea.co.kr/?p=363199"
+      }
+    ],
+    "lane": "sea",
+    "id": "dongjuk",
+    "ko": "동죽",
+    "rr": "dongjuk",
+    "en": "Surf clam",
+    "tier": "local",
+    "blurb": "A surf clam that spawns twice a year, so it has two windows. Spring runs Apr-May and autumn runs Oct-Nov. One source starts spring in March.",
+    "caveat": "Both windows rest on weak sources."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "08-01",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "weak",
+        "label": "Namu season"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [
+      {
+        "from": "09-01",
+        "to": "10-31",
+        "note": "Wild abalone"
+      },
+      {
+        "from": "10-01",
+        "to": "12-31",
+        "note": "Jeju"
+      }
+    ],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      },
+      {
+        "label": "Statute",
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=140774771"
+      }
+    ],
+    "lane": "sea",
+    "id": "jeonbok",
+    "ko": "전복",
+    "rr": "jeonbok",
+    "en": "Abalone",
+    "phrase": "abalone",
+    "tier": "known",
+    "blurb": "Abalone is farmed, so supply runs nearly all year. One wiki says Aug-Oct, but the wild catch is closed Sep 1-Oct 31, and on Jeju Oct 1-Dec 31. The fisheries ministry has picked it in months from Feb to Jul.",
+    "caveat": "The window is contested. It overlaps the wild closure, and farmed supply makes the fresh season nearly year-round."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "matjogae",
+    "ko": "맛조개",
+    "rr": "matjogae",
+    "en": "Razor clam",
+    "tier": "local",
+    "undated": [
+      "spring",
+      "summer"
+    ],
+    "blurb": "A razor clam that fishers dig up by pouring salt into its hole. Only a Geoje fishing list gives a season, spring and summer, with no months, so it stays off the calendar."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [
+      "유곽, stuffed grilled clam in Tongyeong"
+    ],
+    "where": [
+      "Tongyeong (통영)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/개불"
+      }
+    ],
+    "lane": "sea",
+    "id": "gaejogae",
+    "ko": "개조개",
+    "rr": "gaejogae",
+    "en": "Butter clam",
+    "tier": "local",
+    "undated": [],
+    "blurb": "A large clam from the Yellow Sea and the South Sea. No source gives a season. The dish to know is Tongyeong's yugwak, a stuffed, grilled shell."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "mosijogae",
+    "ko": "모시조개",
+    "rr": "mosijogae",
+    "en": "Short-neck clam",
+    "tier": "local",
+    "undated": [
+      "autumn",
+      "winter"
+    ],
+    "blurb": "A short-neck clam. Only a Geoje fishing list gives a season, autumn and winter, with no months, so it stays off the calendar."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "daehap",
+    "ko": "대합",
+    "rr": "daehap",
+    "en": "Hard clam",
+    "tier": "local",
+    "undated": [
+      "winter"
+    ],
+    "blurb": "A large hard clam. Only a Geoje fishing list gives a season, winter, with no months, so it stays off the calendar."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "myeongjugae",
+    "ko": "명주조개",
+    "rr": "myeongjujogae",
+    "en": "Silk clam",
+    "tier": "local",
+    "undated": [
+      "winter"
+    ],
+    "blurb": "A clam that appears only on a Geoje fishing list, which says winter and gives no months. It stays off the calendar."
+  },
+  {
+    "aka": [
+      "뿔소라"
+    ],
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "06-30",
+        "kind": "peak",
+        "mark": "weak",
+        "label": "Namu season"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [
+      {
+        "from": "06-01",
+        "to": "08-31",
+        "note": "Jeju. Researchers' reading of the statute"
+      },
+      {
+        "from": "07-01",
+        "to": "08-31",
+        "note": "Chuja Island. Researchers' reading"
+      },
+      {
+        "from": "06-01",
+        "to": "07-31",
+        "note": "Ulleung and Dokdo. Researchers' reading"
+      },
+      {
+        "from": "06-01",
+        "to": "06-30",
+        "note": "Yeosu Samsan-myeon. Researchers' reading"
+      }
+    ],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      },
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "sora",
+    "ko": "소라",
+    "rr": "sora",
+    "en": "Turban shell",
+    "phrase": "turban shells",
+    "tier": "known",
+    "blurb": "Turban shell snails. One wiki says Mar-Jun, while a Geoje fishing list names winter, spring and autumn. Closed seasons fall in summer and vary by region.",
+    "caveat": "The window rests on that one wiki. The closed-season dates come from a garbled copy of the fishing statute and were matched up by hand, so treat them as approximate."
+  },
+  {
+    "aka": [
+      "떡조개"
+    ],
+    "windows": [],
+    "eat": [],
+    "where": [
+      "Jeju (제주)"
+    ],
+    "closures": [
+      {
+        "from": "07-01",
+        "to": "08-31",
+        "note": "Jeju only"
+      }
+    ],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      },
+      {
+        "label": "Statute",
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=140774771"
+      }
+    ],
+    "lane": "sea",
+    "id": "obunjagi",
+    "ko": "오분자기",
+    "rr": "obunjagi",
+    "en": "Small Jeju abalone",
+    "tier": "local",
+    "undated": [
+      "spring"
+    ],
+    "blurb": "A small abalone from Jeju. A Geoje fishing list says spring with no months, and the harvest is closed Jul-Aug on Jeju."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "05-01",
+        "to": "06-30",
+        "kind": "peak",
+        "mark": "weak",
+        "label": "Namu season"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      }
+    ],
+    "lane": "sea",
+    "id": "daseulgi",
+    "ko": "다슬기",
+    "rr": "daseulgi",
+    "en": "Freshwater snail",
+    "tier": "local",
+    "blurb": "A freshwater river snail. One wiki gives May-Jun, and the fisheries ministry picked it in Jul 2023.",
+    "caveat": "The window rests on that one wiki."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "baekgolbaengi",
+    "ko": "백골뱅이",
+    "rr": "baekgolbaengi",
+    "en": "Whelk",
+    "tier": "local",
+    "undated": [
+      "winter"
+    ],
+    "blurb": "A whelk, called mullegodung in Korean. Only a Geoje fishing list gives a season, winter, with no months, so it stays off the calendar."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "nongolbaengi",
+    "ko": "논골뱅이",
+    "rr": "nongolbaengi",
+    "en": "Deep-groove whelk",
+    "tier": "local",
+    "undated": [
+      "winter"
+    ],
+    "blurb": "A whelk, called gipeungol-mullegodung in Korean. Only a Geoje fishing list gives a season, winter, with no months, so it stays off the calendar."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "chamsora",
+    "ko": "참소라",
+    "rr": "chamsora",
+    "en": "Rapa whelk",
+    "tier": "local",
+    "undated": [
+      "spring"
+    ],
+    "blurb": "A large sea snail, called ppippul-godung in Korean. Only a Geoje fishing list gives a season, spring, with no months, so it stays off the calendar."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "ppittuli",
+    "ko": "삐뚤이",
+    "rr": "ppittuli",
+    "en": "Whelk",
+    "tier": "local",
+    "undated": [
+      "spring"
+    ],
+    "blurb": "A whelk, called galsaekttimaemul-godung in Korean. Only a Geoje fishing list gives a season, spring, with no months, so it stays off the calendar."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "seohae-golbaengi",
+    "ko": "서해 골뱅이",
+    "rr": "seohae golbaengi",
+    "en": "West Sea whelk",
+    "tier": "local",
+    "undated": [
+      "spring"
+    ],
+    "blurb": "A whelk from the West Sea, called keunguseul-ureong in Korean. Only a Geoje fishing list gives a season, spring, with no months, so it stays off the calendar."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "baemal",
+    "ko": "배말",
+    "rr": "baemal",
+    "en": "Limpet",
+    "tier": "local",
+    "undated": [
+      "spring"
+    ],
+    "blurb": "A limpet, called satgat-jogae in Korean. Only a Geoje fishing list gives a season, spring, with no months, so it stays off the calendar."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "bomal",
+    "ko": "보말",
+    "rr": "bomal",
+    "en": "Top shell",
+    "tier": "local",
+    "undated": [
+      "summer"
+    ],
+    "blurb": "A top shell snail, called bangseok-godung in Korean. Only a Geoje fishing list gives a season, summer, with no months, so it stays off the calendar."
+  },
+  {
+    "aka": [
+      "암꽃게",
+      "수꽃게"
+    ],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "06-20",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Females with roe"
+      },
+      {
+        "from": "09-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Meaty males"
+      },
+      {
+        "from": "08-21",
+        "to": "08-31",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Closure lifts"
+      }
+    ],
+    "eat": [
+      "간장게장, raw crab in soy sauce",
+      "꽃게탕, spicy stew",
+      "꽃게찜, steamed crab"
+    ],
+    "where": [
+      "Yeonpyeong (연평)",
+      "Noryangjin market (노량진)"
+    ],
+    "closures": [
+      {
+        "from": "06-21",
+        "to": "08-20",
+        "note": "Practical dates in Incheon waters"
+      },
+      {
+        "from": "07-01",
+        "to": "08-31",
+        "note": "Yeonpyeong"
+      },
+      {
+        "from": "07-16",
+        "to": "09-15",
+        "note": "Baengnyeong and Daecheong"
+      }
+    ],
+    "festivals": [],
+    "related": [
+      "daege",
+      "gegukji"
+    ],
+    "sources": [
+      {
+        "label": "더 에디트",
+        "url": "https://v.daum.net/v/4oEmKKpX93"
+      },
+      {
+        "label": "Incheon",
+        "url": "https://www.incheon.go.kr/ocean/OC020701"
+      },
+      {
+        "label": "Metro",
+        "url": "https://www.metroseoul.co.kr/article/20261027500329"
+      }
+    ],
+    "lane": "sea",
+    "id": "kkotge",
+    "ko": "꽃게",
+    "rr": "kkotge",
+    "en": "Blue crab",
+    "phrase": "blue crab",
+    "tier": "national",
+    "blurb": "West Sea crab with two seasons a year. Females carry roe in spring, and males fill out in autumn. Boats stay in port through the summer closure, and retail price wars start the day it lifts.",
+    "caveat": "Autumn 2026 was scarce, with males at 20,400 won/kg at Noryangjin. Autumn 2025 traded 5,716 t in its first month, a 10-year high."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Estimated peak"
+      },
+      {
+        "from": "11-01",
+        "to": "11-30",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Offshore grounds open"
+      }
+    ],
+    "eat": [],
+    "where": [
+      "Yeongdeok (영덕)",
+      "Uljin (울진)"
+    ],
+    "closures": [
+      {
+        "from": "06-01",
+        "to": "10-31",
+        "note": "East of 131°30'E"
+      },
+      {
+        "from": "06-01",
+        "to": "11-30",
+        "note": "Elsewhere. Females banned all year"
+      }
+    ],
+    "festivals": [
+      "Uljin Snow Crab and Red Snow Crab Festival, Feb 27-Mar 2, 2026",
+      "Yeongdeok Snow Crab Festival, March 2026"
+    ],
+    "related": [
+      "kkotge",
+      "hongge"
+    ],
+    "sources": [
+      {
+        "label": "Statute",
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=140774771"
+      },
+      {
+        "label": "경북매일",
+        "url": "https://kbmaeil.com/article/20251104500197"
+      }
+    ],
+    "lane": "sea",
+    "id": "daege",
+    "ko": "대게",
+    "rr": "daege",
+    "en": "Snow crab",
+    "phrase": "snow crab",
+    "tier": "national",
+    "blurb": "East Coast snow crab, with Yeongdeok and Uljin as the best-known ports. Law sets the edges of the season, and festivals run late Feb to late Mar. Yeongdeok's Gangu port held its first auction on Nov 3, 2025, with a top bid of 169,000 won for one crab.",
+    "caveat": "No source states peak months, so Dec-Mar is an estimate. Crab sold in early November likely comes from offshore grounds that open Nov 1."
+  },
+  {
+    "aka": [
+      "붉은대게"
+    ],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [
+      {
+        "from": "07-10",
+        "to": "08-25"
+      }
+    ],
+    "festivals": [],
+    "related": [
+      "daege"
+    ],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      },
+      {
+        "label": "Statute",
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=140774771"
+      }
+    ],
+    "lane": "sea",
+    "id": "hongge",
+    "ko": "홍게",
+    "rr": "hongge",
+    "en": "Red snow crab",
+    "phrase": "red snow crab",
+    "tier": "known",
+    "undated": [
+      "spring",
+      "autumn"
+    ],
+    "blurb": "A deeper-water cousin of the snow crab. A Geoje fishing list says spring and autumn, with no months. The harvest is closed Jul 10-Aug 25."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Autumn focus"
+      }
+    ],
+    "eat": [
+      "소금구이, salt-grilled prawns"
+    ],
+    "where": [
+      "Namdang Harbor (남당항)"
+    ],
+    "closures": [
+      {
+        "from": "05-01",
+        "to": "06-30"
+      }
+    ],
+    "festivals": [
+      "Hongseong Namdang Harbor Fleshy Prawn Festival (31st), Sep 4-Nov 8, 2026"
+    ],
+    "related": [
+      "huindarisaeu"
+    ],
+    "sources": [
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      },
+      {
+        "label": "문체부",
+        "url": "https://www.mcst.go.kr/site/s_culture/festival/festivalView.jsp?pSeq=12604"
+      },
+      {
+        "label": "Statute",
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=140774771"
+      }
+    ],
+    "lane": "sea",
+    "id": "daeha",
+    "ko": "대하",
+    "rr": "daeha",
+    "en": "Fleshy prawn",
+    "phrase": "fleshy prawns",
+    "tier": "national",
+    "blurb": "A wild West Sea prawn sold in autumn, often grilled in salt. It runs Sep-Dec, the fisheries ministry picked it in Sep and Oct, and the Namdang Harbor festival runs into early November. The harvest is closed May-Jun.",
+    "caveat": "Nobody has sourced how much of the festival shrimp is actually farmed whiteleg shrimp."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "weak",
+        "label": "Sold as autumn"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "daeha"
+    ],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/흰다리새우"
+      },
+      {
+        "label": "Pick Sep 2025",
+        "url": "https://www.incheon.go.kr/fish/FI020401/3032936"
+      }
+    ],
+    "lane": "sea",
+    "id": "huindarisaeu",
+    "ko": "흰다리새우",
+    "rr": "huindarisaeu",
+    "en": "Whiteleg shrimp, farmed",
+    "tier": "local",
+    "blurb": "Korea's top farmed shrimp. Farms switched to it after white spot virus wiped out many fleshy prawn (daeha) farms. A green tail tip means daeha and red means whiteleg. One wiki sees little taste difference and a much lower price.",
+    "caveat": "Pond harvest months are unsourced. A ministry text calls it an autumn item, alongside daeha."
+  },
+  {
+    "aka": [
+      "꽃새우",
+      "도화새우"
+    ],
+    "windows": [],
+    "eat": [],
+    "where": [
+      "Ulleungdo (울릉도)",
+      "Dokdo (독도)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "dakssaeu"
+    ],
+    "sources": [
+      {
+        "label": "여행톡톡",
+        "url": "https://www.tourtoctoc.com/news/articleView.html?idxno=2667"
+      },
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "dokdosaeu",
+    "ko": "독도새우",
+    "rr": "dokdosaeu",
+    "en": "Dokdo shrimp",
+    "tier": "local",
+    "undated": [
+      "winter"
+    ],
+    "blurb": "An umbrella name for three shrimp, kkotsaeu, dakssaeu and dohwasaeu, from around Ulleungdo and Dokdo. A Geoje fishing list puts kkotsaeu and dohwasaeu in winter, with no months."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "weak",
+        "label": "Sep-Dec"
+      }
+    ],
+    "eat": [],
+    "where": [
+      "Ulleungdo (울릉도)",
+      "Dokdo (독도)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "dokdosaeu"
+    ],
+    "sources": [
+      {
+        "label": "여행톡톡",
+        "url": "https://www.tourtoctoc.com/news/articleView.html?idxno=2667"
+      }
+    ],
+    "lane": "sea",
+    "id": "dakssaeu",
+    "ko": "닭새우",
+    "rr": "dakssaeu",
+    "en": "Dokdo shrimp (dakssaeu type)",
+    "tier": "local",
+    "blurb": "One of the shrimp sold as Dokdo shrimp around Ulleungdo and Dokdo. A tourism article gives Sep-Dec.",
+    "caveat": "The window rests on that one tourism article."
+  },
+  {
+    "aka": [
+      "오도리"
+    ],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "borisaeu",
+    "ko": "보리새우",
+    "rr": "borisaeu",
+    "en": "Tiger prawn",
+    "tier": "local",
+    "undated": [
+      "spring",
+      "summer"
+    ],
+    "blurb": "A prawn sold live as odori. Only a Geoje fishing list gives a season, spring and summer, with no months, so it stays off the calendar."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "dansaeu",
+    "ko": "단새우",
+    "rr": "dansaeu",
+    "en": "Sweet shrimp",
+    "tier": "local",
+    "undated": [
+      "winter"
+    ],
+    "blurb": "A small sweet shrimp eaten raw. Only a Geoje fishing list gives a season, winter, with no months, so it stays off the calendar."
+  },
+  {
+    "aka": [
+      "가시발새우"
+    ],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "ttaksaeu",
+    "ko": "딱새우",
+    "rr": "ttaksaeu",
+    "en": "Spiny lobsterette",
+    "tier": "local",
+    "undated": [
+      "winter"
+    ],
+    "blurb": "A small shrimp also called gasibalsaeu. Only a Geoje fishing list gives a season, winter, with no months, so it stays off the calendar."
+  },
+  {
+    "aka": [
+      "돌게",
+      "박하지"
+    ],
+    "windows": [],
+    "eat": [
+      "게장, marinated crab"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Incheon",
+        "url": "https://www.incheon.go.kr/ocean/OC020701"
+      }
+    ],
+    "lane": "sea",
+    "id": "minkkotge",
+    "ko": "민꽃게",
+    "rr": "minkkotge",
+    "en": "Swimming crab type",
+    "tier": "local",
+    "undated": [],
+    "blurb": "A crab used mainly for gejang, crab marinated in soy sauce or chili. It spawns Jun-Aug, and no eating season turned up. Incheon reports no closure beyond protecting females with eggs."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/털게"
+      }
+    ],
+    "lane": "sea",
+    "id": "telge",
+    "ko": "털게",
+    "rr": "telge",
+    "en": "Horsehair crab",
+    "tier": "local",
+    "noSeason": true,
+    "blurb": "A crab that lives north of Goseong on the East Coast. No season turned up, and the only month claim is a low-grade comment calling imported Russian horsehair crab a spring item."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/털게"
+      }
+    ],
+    "lane": "sea",
+    "id": "kingkeurab",
+    "ko": "킹크랩",
+    "rr": "kingkeurab",
+    "en": "King crab, imported",
+    "phrase": "king crab",
+    "tier": "known",
+    "noSeason": true,
+    "blurb": "Imported crab with no real season. Weak sources give Oct-Jan, Jun-Sep, or after Chuseok (the autumn harvest holiday) to mid-Nov. Availability follows the import price.",
+    "caveat": "The sources contradict each other."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "ttagaebi",
+    "ko": "따개비",
+    "rr": "ttagaebi",
+    "en": "Barnacle",
+    "tier": "local",
+    "undated": [
+      "winter"
+    ],
+    "blurb": "A barnacle. Only a Geoje fishing list gives a season, winter, with no months, so it stays off the calendar."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "geobukson",
+    "ko": "거북손",
+    "rr": "geobukson",
+    "en": "Goose barnacle",
+    "tier": "local",
+    "undated": [
+      "winter"
+    ],
+    "blurb": "A barnacle shaped like a turtle's hand. Only a Geoje fishing list gives a season, winter, with no months, so it stays off the calendar."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "05-10",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Roe-filled females"
+      },
+      {
+        "from": "09-01",
+        "to": "09-30",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Autumn fishing reopens"
+      }
+    ],
+    "eat": [],
+    "where": [
+      "Muchangpo (무창포)",
+      "Boryeong (보령)"
+    ],
+    "closures": [
+      {
+        "from": "05-11",
+        "to": "08-31"
+      }
+    ],
+    "festivals": [
+      "Muchangpo Webfoot Octopus and Flounder Festival, Mar 20-Apr 5, 2026"
+    ],
+    "related": [
+      "nakji"
+    ],
+    "sources": [
+      {
+        "label": "Statute",
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=140774771"
+      },
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      },
+      {
+        "label": "Ministry picks",
+        "url": "https://www.incheon.go.kr/fish/FI020401"
+      }
+    ],
+    "lane": "sea",
+    "id": "jukkumi",
+    "ko": "주꾸미",
+    "rr": "jukkumi",
+    "en": "Webfoot octopus",
+    "phrase": "webfoot octopus",
+    "tier": "national",
+    "blurb": "A small octopus caught in spring, when females carry eggs. The closure starts May 11, which caps the spring window by law, and fishing reopens Sep 1. The fisheries ministry never picked it in 61 months of monthly picks.",
+    "caveat": "One wiki says April. One column says autumn tastes better, and the saying goes \"bom jukkumi, gaeul nakji\" (spring webfoot octopus, autumn long-arm octopus)."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "10-01",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Autumn"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [
+      {
+        "from": "06-01",
+        "to": "06-30",
+        "note": "Default"
+      },
+      {
+        "from": "06-21",
+        "to": "07-20",
+        "note": "Incheon"
+      }
+    ],
+    "festivals": [],
+    "related": [
+      "jukkumi"
+    ],
+    "sources": [
+      {
+        "label": "Khan",
+        "url": "https://www.khan.co.kr/article/201103231823031/amp"
+      },
+      {
+        "label": "Statute",
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=140774771"
+      },
+      {
+        "label": "Incheon",
+        "url": "https://www.incheon.go.kr/ocean/OC020701"
+      }
+    ],
+    "lane": "sea",
+    "id": "nakji",
+    "ko": "낙지",
+    "rr": "nakji",
+    "en": "Long-arm octopus",
+    "phrase": "long-arm octopus",
+    "tier": "known",
+    "blurb": "A long-armed octopus tied to autumn by the saying \"bom jukkumi, gaeul nakji\" (spring webfoot octopus, autumn long-arm octopus). No source gives a month, so Oct is an estimate.",
+    "caveat": "No month appears in any source, and the closure date differs by province."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [
+      {
+        "from": "05-16",
+        "to": "06-30",
+        "note": "참문어 only. Provinces can reset it"
+      }
+    ],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "muneo",
+    "ko": "문어",
+    "rr": "muneo",
+    "en": "Octopus",
+    "phrase": "octopus",
+    "tier": "known",
+    "undated": [
+      "summer",
+      "winter"
+    ],
+    "blurb": "The big octopus. No source gives a month. The fisheries ministry picked it in Aug 2024 and Jul 2025, and a Geoje fishing list says summer and winter."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [
+      {
+        "from": "04-01",
+        "to": "05-31",
+        "note": "Some fisheries only to 4/30"
+      }
+    ],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      },
+      {
+        "label": "Statute",
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=140774771"
+      }
+    ],
+    "lane": "sea",
+    "id": "salojingeo",
+    "ko": "살오징어",
+    "rr": "salojingeo",
+    "en": "Common squid",
+    "phrase": "squid",
+    "tier": "known",
+    "undated": [
+      "summer"
+    ],
+    "blurb": "The common squid. A Geoje fishing list says summer, with no months. Gangwon province says the fish moved north as the sea warmed."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "07-01",
+        "to": "07-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Peak"
+      },
+      {
+        "from": "06-01",
+        "to": "10-31",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Fishing season"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "낚시춘추",
+        "url": "https://fishingseasons.co.kr/contents_view_detail.asp?b_no=11972"
+      }
+    ],
+    "lane": "sea",
+    "id": "hanchi",
+    "ko": "한치",
+    "rr": "hanchi",
+    "en": "Mitre and swordtip squid",
+    "phrase": "hanchi squid",
+    "tier": "known",
+    "blurb": "A small squid with a Jun-Oct fishing season and a July peak. The only source is a fishing-season site, which says nothing about food. Jeju's changojingeo and the East Sea's hwasalchogojingeo both go by the name.",
+    "caveat": "The window comes from a fishing-season source, not a food one."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "gabojingeo",
+    "ko": "갑오징어",
+    "rr": "gabojingeo",
+    "en": "Cuttlefish",
+    "tier": "local",
+    "undated": [
+      "spring",
+      "autumn"
+    ],
+    "blurb": "Cuttlefish. A Geoje fishing list says spring and autumn, with no months, and the fisheries ministry picked it in May 2025. It has no row in the closed-season table."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "kkolttugi",
+    "ko": "꼴뚜기",
+    "rr": "kkolttugi",
+    "en": "Small squid",
+    "tier": "local",
+    "undated": [
+      "winter",
+      "summer"
+    ],
+    "blurb": "A small squid. Only a Geoje fishing list gives seasons, winter and summer, with no months, so it stays off the calendar."
+  },
+  {
+    "aka": [
+      "반원니꼴뚜기"
+    ],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "horaegi",
+    "ko": "호래기",
+    "rr": "horaegi",
+    "en": "Small squid",
+    "tier": "local",
+    "undated": [
+      "winter"
+    ],
+    "blurb": "A small squid also sold as banwonni-kkolttugi. Only a Geoje fishing list gives a season, winter, with no months, so it stays off the calendar."
+  },
+  {
+    "aka": [
+      "흰오징어"
+    ],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "munuiojingeo",
+    "ko": "무늬오징어",
+    "rr": "munuiojingeo",
+    "en": "Bigfin reef squid",
+    "tier": "local",
+    "undated": [
+      "summer"
+    ],
+    "blurb": "A reef squid also called huin-ojingeo. Only a Geoje fishing list gives a season, summer, with no months, so it stays off the calendar."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "05-01",
+        "to": "06-30",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Farmed"
+      },
+      {
+        "anchor": "chuseok",
+        "before": 0,
+        "after": 60,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Wild, after Chuseok to Nov"
+      },
+      {
+        "from": "04-01",
+        "to": "04-30",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Farmed ships from Apr"
+      }
+    ],
+    "eat": [
+      "멍게 회, raw with 초장",
+      "멍게비빔밥, rice bowl",
+      "멍게젓, salted"
+    ],
+    "where": [
+      "Tongyeong (통영)",
+      "Geoje (거제)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "제철음식정보",
+        "url": "https://food.yourgo.kr/entry/%EB%B4%84%EC%97%AC%EB%A6%84%EB%A9%8D%EA%B2%8C-%EC%A0%9C%EC%B2%A0-%ED%9A%A8%EB%8A%A5-%EC%86%90%EC%A7%88%EB%B2%95-%EC%9A%94%EB%A6%AC-%EC%98%81%EC%96%91%EC%84%B1%EB%B6%84"
+      },
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      }
+    ],
+    "lane": "sea",
+    "id": "meongge",
+    "ko": "멍게",
+    "rr": "meongge",
+    "en": "Sea squirt",
+    "phrase": "sea squirts",
+    "tier": "known",
+    "blurb": "A sea squirt eaten raw. Farmed stock ships from April and peaks May-Jun, with about two thirds from Tongyeong and Geoje. Wild stock peaks from after Chuseok, the autumn harvest holiday, through November.",
+    "caveat": "One wiki says May, and the fisheries ministry picked Mar-Apr. One undated report says heat and low-oxygen water hurt 60-70% of Tongyeong farmers."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "03-21",
+        "to": "05-10",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Raw season"
+      }
+    ],
+    "eat": [],
+    "where": [
+      "Jindong Bay (진동만)",
+      "Changwon (창원)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Khan",
+        "url": "https://www.khan.co.kr/article/202106301033001"
+      },
+      {
+        "label": "농민신문",
+        "url": "https://www.nongmin.com/article/20210429337476"
+      }
+    ],
+    "lane": "sea",
+    "id": "mideodeok",
+    "ko": "미더덕",
+    "rr": "mideodeok",
+    "en": "Warty sea squirt",
+    "phrase": "warty sea squirts",
+    "tier": "known",
+    "blurb": "A warty sea squirt eaten raw for only about two months, from late March to early May. Jindong Bay in Changwon is the production centre.",
+    "caveat": "One restaurant owner gave those dates. One wiki says April."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "omandungi",
+    "ko": "오만둥이",
+    "rr": "omandungi",
+    "en": "Leathery sea squirt",
+    "tier": "local",
+    "undated": [
+      "winter"
+    ],
+    "blurb": "A small sea squirt. Only a Geoje fishing list gives a season, winter, with no months, so it stays off the calendar."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "10-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "weak",
+        "label": "Namu season"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [
+      {
+        "from": "07-01",
+        "to": "07-31"
+      }
+    ],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      },
+      {
+        "label": "Statute",
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=140774771"
+      }
+    ],
+    "lane": "sea",
+    "id": "haesam",
+    "ko": "해삼",
+    "rr": "haesam",
+    "en": "Sea cucumber",
+    "phrase": "sea cucumber",
+    "tier": "known",
+    "blurb": "Sea cucumber. One wiki says Oct-Nov and a Geoje fishing list says winter and autumn. The harvest is closed in July.",
+    "caveat": "The window rests on that wiki and one community list."
+  },
+  {
+    "aka": [
+      "보라성게",
+      "말똥성게"
+    ],
+    "windows": [],
+    "eat": [
+      "성게비빔밥, sea urchin rice bowl"
+    ],
+    "where": [
+      "Tongyeong (통영)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Geoje list",
+        "url": "https://m.cafe.daum.net/storygeoje/KO7O/78?listURI=%2Fstorygeoje%2FKO7O"
+      }
+    ],
+    "lane": "sea",
+    "id": "seongge",
+    "ko": "성게",
+    "rr": "seongge",
+    "en": "Sea urchin",
+    "phrase": "sea urchin",
+    "tier": "known",
+    "undated": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "blurb": "Sea urchin. A Geoje fishing list puts the purple urchin in spring and summer, and malttong-seongge in autumn and winter, with no months. Tongyeong restaurants serve it over rice, with gaps out of season."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Winter"
+      }
+    ],
+    "eat": [
+      "회, raw slices",
+      "구이, grilled"
+    ],
+    "where": [
+      "Jinhae (진해)",
+      "Samcheonpo (삼천포)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/개불"
+      }
+    ],
+    "lane": "sea",
+    "id": "gaebul",
+    "ko": "개불",
+    "rr": "gaebul",
+    "en": "Spoon worm",
+    "phrase": "spoon worm",
+    "tier": "known",
+    "blurb": "A spoon worm eaten raw or grilled. One wiki says winter, with the south coast best, though it is dug all year. The months are an estimate from that season word.",
+    "caveat": "One wiki page gives the season, and no other source was found."
+  },
+  {
+    "aka": [
+      "물김"
+    ],
+    "windows": [
+      {
+        "from": "11-11",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Auction season"
+      }
+    ],
+    "eat": [],
+    "where": [
+      "Sinan (신안)",
+      "Haenam (해남)",
+      "Goheung (고흥)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Tridge",
+        "url": "https://www.tridge.com/news/sinan-county-mayors-association-holds-first--hebose"
+      },
+      {
+        "label": "Asiae",
+        "url": "https://www.asiae.co.kr/en/article/2025041514205496059"
+      }
+    ],
+    "lane": "sea",
+    "id": "gim",
+    "ko": "김",
+    "rr": "gim",
+    "en": "Laver",
+    "phrase": "laver",
+    "tier": "known",
+    "blurb": "Fresh laver, called mulgim, is auctioned from mid November to late April. Sinan held its first sale on Nov 18 for the 2026 crop, and Haenam's auctions ran to about Apr 23 in 2025."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "11-21",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Peak"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "maesaengi-guk"
+    ],
+    "sources": [
+      {
+        "label": "Asiae",
+        "url": "https://www.asiae.co.kr/en/article/2021010310425737631"
+      },
+      {
+        "label": "푸드레시피",
+        "url": "https://foodrecipe.co.kr/news/maesaengi-winter-seaweed-season-cooking"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/매생이"
+      }
+    ],
+    "lane": "sea",
+    "id": "maesaengi",
+    "ko": "매생이",
+    "rr": "maesaengi",
+    "en": "Fine green seaweed",
+    "phrase": "fine green seaweed",
+    "tier": "known",
+    "blurb": "A hair-fine green seaweed, fresh from late November to February. Its texture and aroma fade after February, and it is sold frozen all year.",
+    "caveat": "One source says Dec-Apr. The fisheries ministry picked it in Jan 2026."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Winter to spring"
+      }
+    ],
+    "eat": [],
+    "where": [
+      "Jindo (진도)",
+      "Wando (완도)",
+      "Tongyeong (통영)",
+      "Geoje (거제)",
+      "Gijang (기장)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Gijang Sea Mustard and Kelp Festival, Apr 17-19, 2026"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/미역"
+      },
+      {
+        "label": "입질 Feb",
+        "url": "https://www.wikitree.co.kr/articles/1115472"
+      }
+    ],
+    "lane": "sea",
+    "id": "miyeok",
+    "ko": "미역",
+    "rr": "miyeok",
+    "en": "Sea mustard",
+    "phrase": "sea mustard",
+    "tier": "known",
+    "blurb": "Sea mustard, harvested mostly in winter and spring. Seafood expert Kim Ji-min says it is best from February into early spring. Jindo, Wando, Tongyeong and Geoje are the main areas.",
+    "caveat": "Sources give seasons, not months, so Dec-Apr is an estimate."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "weak",
+        "label": "Peak"
+      }
+    ],
+    "eat": [
+      "파래무침, seasoned green laver",
+      "파래전, green laver pancake"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/파래"
+      }
+    ],
+    "lane": "sea",
+    "id": "parae",
+    "ko": "파래",
+    "rr": "parae",
+    "en": "Green laver",
+    "tier": "local",
+    "blurb": "A green seaweed that grows near fresh-water inflow on the upper shore. One wiki gives Nov-Mar.",
+    "caveat": "The window rests on that one wiki page."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "weak",
+        "label": "Namu season"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/%EA%B0%80%EC%8B%9C%ED%8C%8C%EB%9E%98"
+      }
+    ],
+    "lane": "sea",
+    "id": "gamtae",
+    "ko": "감태",
+    "rr": "gamtae",
+    "en": "Gamtae",
+    "tier": "local",
+    "blurb": "A seaweed whose name is unsettled. One wiki says Dec-Mar, while a Wando seller starts in mid February because January plants are too soft.",
+    "caveat": "What markets sell as gamtae may be gasiparae, a different plant."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "01-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Winter to March"
+      }
+    ],
+    "eat": [
+      "쌈, blanched wrap with 초장"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/곰피"
+      },
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1124056"
+      }
+    ],
+    "lane": "sea",
+    "id": "gompi",
+    "ko": "곰피",
+    "rr": "gompi",
+    "en": "Sea-tangle type",
+    "tier": "local",
+    "blurb": "A brown seaweed of the east and south coasts, blanched and eaten as a wrap with chojang dipping sauce. Sources say winter, or March, so Jan-Mar is an estimate.",
+    "caveat": "One wiki says winter and a news site says March."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "05-31",
+        "kind": "peak",
+        "mark": "weak",
+        "label": "Harvest"
+      }
+    ],
+    "eat": [
+      "톳나물, seasoned hijiki",
+      "톳밥, hijiki rice"
+    ],
+    "where": [
+      "Wando (완도)"
+    ],
+    "closures": [
+      {
+        "from": "10-01",
+        "to": "01-31"
+      }
+    ],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/톳"
+      },
+      {
+        "label": "Statute",
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=140774771"
+      }
+    ],
+    "lane": "sea",
+    "id": "tot",
+    "ko": "톳",
+    "rr": "tot",
+    "en": "Hijiki",
+    "tier": "local",
+    "blurb": "Hijiki, harvested Mar-May. It is closed Oct-Jan, so the winter label in older press is wrong.",
+    "caveat": "The window rests on one wiki alone."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/%EA%BC%AC%EC%8B%9C%EB%9E%98%EA%B8%B0"
+      }
+    ],
+    "lane": "sea",
+    "id": "kkosiraegi",
+    "ko": "꼬시래기",
+    "rr": "kkosiraegi",
+    "en": "Sea noodle",
+    "tier": "local",
+    "undated": [
+      "spring"
+    ],
+    "blurb": "A thin red seaweed. One wiki says it can be harvested except in winter, with an early spring peak, and gives no months."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "05-01",
+        "to": "07-10",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Harvest"
+      }
+    ],
+    "eat": [],
+    "where": [
+      "Wando (완도)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Asiae",
+        "url": "https://www.asiae.co.kr/en/article/2023053011352730662"
+      }
+    ],
+    "lane": "sea",
+    "id": "dasima",
+    "ko": "다시마",
+    "rr": "dasima",
+    "en": "Kelp",
+    "phrase": "kelp",
+    "tier": "known",
+    "blurb": "Kelp. Wando's harvest runs early May to early July, so it is not a winter crop. The fisheries ministry picked it in Jun 2025 and May 2026."
+  }
+]

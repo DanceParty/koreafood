@@ -1,0 +1,13 @@
+{
+  "name": "이맘때 imamttae",
+  "short_name": "이맘때",
+  "description": "What to eat in Korea right now, and every other day of the year.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5d94e",
+  "theme_color": "#f5d94e",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

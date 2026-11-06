@@ -1,0 +1,3830 @@
+[
+  {
+    "aka": [
+      "대방어"
+    ],
+    "eat": [
+      "방어회, raw slices with soy sauce and wasabi",
+      "김 wrap, raw slices in dried seaweed",
+      "구이, grilled head",
+      "방어뼈탕, bone soup"
+    ],
+    "where": [
+      "Moseulpo (모슬포)",
+      "Gonghyeonjin port, Goseong (고성 공현진항)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Moseulpo Bangeo Festival (최남단 방어축제), Nov 19-22, 2026"
+    ],
+    "related": [],
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Fattest"
+      },
+      {
+        "from": "11-01",
+        "to": "11-30",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Demand opens"
+      }
+    ],
+    "id": "bangeo",
+    "ko": "방어",
+    "rr": "bangeo",
+    "en": "Yellowtail",
+    "phrase": "yellowtail",
+    "tier": "national",
+    "blurb": "A big, fatty yellowtail eaten raw in thick slices. It is caught all year, but demand opens in November and the fat peaks Dec-Feb. Seafood expert Kim Ji-min says February often beats December, and the main fishing ground is moving from Jeju to the East Coast.",
+    "caveat": "A 10 kg+ fish sold for 371,000 won in Nov 2025, against 270,000 won a year earlier. Goseong's catch fell from 4,060 t in 2022 to 2,202 t in 2024.",
+    "sources": [
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1097071"
+      },
+      {
+        "label": "입질 Feb",
+        "url": "https://www.wikitree.co.kr/articles/1115472"
+      },
+      {
+        "label": "경북매일",
+        "url": "https://kbmaeil.com/article/202501010415555"
+      },
+      {
+        "label": "Travelmap",
+        "url": "https://travelmapjourney.com/moseulpo-bangeo-festival-2026-dates-confirmed/"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "대구탕, cod soup",
+      "뽈찜, steamed cheek",
+      "알 and 이리, roe and milt in soup",
+      "젓갈, salted roe"
+    ],
+    "where": [
+      "Oepo port, Geoje (거제 외포)",
+      "Jinhae Bay (진해만)"
+    ],
+    "closures": [
+      {
+        "from": "01-16",
+        "to": "02-15",
+        "note": "Statute reading. Press says a January closure"
+      }
+    ],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "12-21",
+        "to": "01-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Roe and milt"
+      },
+      {
+        "from": "11-11",
+        "to": "12-20",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Filling out"
+      }
+    ],
+    "id": "daegu",
+    "ko": "대구",
+    "rr": "daegu",
+    "en": "Pacific cod",
+    "phrase": "Pacific cod",
+    "tier": "known",
+    "blurb": "A big cold-water cod, stewed with its roe and milt. It fills out from mid November and peaks from late December to January. The fish stay in Jinhae Bay Dec-Feb and head north in March.",
+    "caveat": "A one-month January closure cuts into the peak, according to the newspaper Seoul Shinmun. Another article puts the start at Jan 15, so check current fisheries ministry notices.",
+    "sources": [
+      {
+        "label": "Seoul Shinmun",
+        "url": "https://m.seoul.co.kr/news/2019/12/20/20191220035001"
+      },
+      {
+        "label": "입질 Nov",
+        "url": "https://www.wikitree.co.kr/articles/1092873"
+      },
+      {
+        "label": "Statute",
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=140774771"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "참복",
+      "까치복",
+      "밀복"
+    ],
+    "eat": [
+      "복국, pufferfish soup",
+      "매운탕, spicy stew",
+      "회, raw slices",
+      "튀김, fried"
+    ],
+    "where": [
+      "Busan (부산)",
+      "Masan (마산)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "bogeo",
+    "ko": "복어",
+    "rr": "bogeo",
+    "en": "Pufferfish",
+    "phrase": "pufferfish",
+    "tier": "known",
+    "blurb": "Clear pufferfish soup (bokguk) is the classic winter meal, a Busan and Masan habit. The fish is caught all year but eaten Nov-Mar. Chambok, kkachibok and milbok are different types, and all sell under the name bogeo.",
+    "sources": [
+      {
+        "label": "Korea.kr",
+        "url": "https://m.korea.kr/news/weekendView.do?newsId=148958745"
+      },
+      {
+        "label": "입질 Nov",
+        "url": "https://www.wikitree.co.kr/articles/1092873"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "꼼치",
+      "곰치"
+    ],
+    "eat": [
+      "물메기탕, clear hangover soup",
+      "물곰탕, Sokcho snailfish soup",
+      "dried then steamed"
+    ],
+    "where": [
+      "Chudo, Tongyeong (통영 추도)",
+      "Mijo (미조)",
+      "Sokcho (속초)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "mulmegi",
+    "ko": "물메기",
+    "rr": "mulmegi",
+    "en": "Snailfish",
+    "phrase": "snailfish",
+    "tier": "known",
+    "blurb": "A soft, watery winter fish (standard name kkomchi) cooked in a clear soup and sold as a hangover cure. Peak is Dec-Mar. Fishing at Chudo runs about three months from Dongji, the winter solstice.",
+    "caveat": "Tongyeong tradition points to January as the best month.",
+    "sources": [
+      {
+        "label": "Pressian",
+        "url": "https://www.pressian.com/pages/articles/5690"
+      },
+      {
+        "label": "경북매일",
+        "url": "https://kbmaeil.com/article/20260119500662"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "아귀찜, braised monkfish",
+      "수육, boiled slices",
+      "탕, soup"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "agwi",
+    "ko": "아귀",
+    "rr": "agwi",
+    "en": "Monkfish",
+    "phrase": "monkfish",
+    "tier": "known",
+    "blurb": "Monkfish turns up steamed, braised and in soup, and peaks Dec-Feb. Sources disagree on when the season opens.",
+    "caveat": "One account starts it at Ipdong, the start of winter in early November. Elle magazine says February.",
+    "sources": [
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      },
+      {
+        "label": "Elle",
+        "url": "https://www.elle.co.kr/article/84320"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "Wrapped in 생미역 (fresh seaweed) with 초장",
+      "Wrapped in 쌈 or plain 돌김"
+    ],
+    "where": [
+      "Guryongpo, Pohang (포항 구룡포)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Guryongpo Gwamegi Culture Center weekend tastings, Nov-Dec 2026"
+    ],
+    "related": [
+      "kkongchi",
+      "cheongeo"
+    ],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "01-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "gwamegi",
+    "ko": "과메기",
+    "rr": "gwamegi",
+    "en": "Air-dried Pacific saury",
+    "phrase": "air-dried saury",
+    "tier": "known",
+    "blurb": "Fish dried in sea wind, mostly saury now and formerly herring. Split fish dry from about November, and whole fish only from December. A warm October in 2025 pushed drying back to early and mid November.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/과메기"
+      },
+      {
+        "label": "Hankyung",
+        "url": "https://www.hankyung.com/article/2025110562441"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "구이, grilled",
+      "조림, braised"
+    ],
+    "where": [
+      "Sokcho (속초)",
+      "Jumunjin (주문진)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Sokcho festival for 양미리 and 도루묵 (16th), Nov 7-16, 2025"
+    ],
+    "related": [],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "doreumuk",
+    "ko": "도루묵",
+    "rr": "doreumuk",
+    "en": "Sandfish",
+    "phrase": "sandfish",
+    "tier": "known",
+    "blurb": "A sandfish that runs to spawn in early winter, Nov-Dec, and is eaten for its roe, grilled or braised. Sokcho and Jumunjin are the main ports.",
+    "sources": [
+      {
+        "label": "GQ",
+        "url": "https://www.gqkorea.co.kr/?p=352519"
+      },
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1093110"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [
+      "Sokcho (속초)",
+      "Goseong (고성)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Sokcho festival for 양미리 and 도루묵 (16th), Nov 7-16, 2025"
+    ],
+    "related": [],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "yangmiri",
+    "ko": "양미리",
+    "rr": "yangmiri",
+    "en": "Sand lance",
+    "tier": "local",
+    "blurb": "A small winter fish dried on racks in Goseong, according to one photo report. The Nov-Dec window rests on festival timing alone, and no recipe is sourced.",
+    "sources": [
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1093110"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "생태",
+      "동태"
+    ],
+    "eat": [
+      "생태, fresh",
+      "동태, frozen",
+      "코다리, half-dried",
+      "노가리, juvenile"
+    ],
+    "where": [],
+    "closures": [
+      {
+        "from": "01-01",
+        "to": "12-31",
+        "note": "Domestic catch banned all year since 2019"
+      }
+    ],
+    "festivals": [],
+    "related": [
+      "hwangtae"
+    ],
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "01-31",
+        "kind": "peak",
+        "mark": "weak"
+      }
+    ],
+    "id": "myeongtae",
+    "ko": "명태",
+    "rr": "myeongtae",
+    "en": "Alaska pollock",
+    "phrase": "pollock",
+    "tier": "known",
+    "blurb": "Pollock has a different name at each stage: saengtae fresh, dongtae frozen, kodari half-dried and nogari juvenile. Domestic catch has been banned all year since 2019, so the fresh domestic season is effectively gone. Raw fish is mostly Russian.",
+    "caveat": "The Dec-Jan window rests on a single list on Namuwiki. Treat it as a lead.",
+    "sources": [
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      },
+      {
+        "label": "Khan",
+        "url": "https://www.khan.co.kr/article/202306180830021"
+      },
+      {
+        "label": "Statute",
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=140774771"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "소금구이, salt-grilled",
+      "회, raw slices"
+    ],
+    "where": [
+      "Yeosu (여수)",
+      "Geomundo (거문도)",
+      "Goheung (고흥)",
+      "Ttangkkeut, Haenam (해남 땅끝)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "10-01",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Fattest in winter"
+      }
+    ],
+    "id": "samchi",
+    "ko": "삼치",
+    "rr": "samchi",
+    "en": "Japanese Spanish mackerel",
+    "phrase": "Spanish mackerel",
+    "tier": "known",
+    "blurb": "Eaten salt-grilled or raw, Spanish mackerel runs Oct-Feb and is fattest in winter. The fisheries ministry says it starts in November. Spring and summer catch is rising.",
+    "caveat": "The West Sea closure moved from May to Apr 10-May 10, which puts spring fish in shops.",
+    "sources": [
+      {
+        "label": "GQ",
+        "url": "https://www.gqkorea.co.kr/?p=352519"
+      },
+      {
+        "label": "데일리안",
+        "url": "https://www.dailian.co.kr/news/view/1708876/%EC%A0%9C%EC%B2%A0-%EB%A7%9E%EC%9D%80-%EC%82%BC%EC%B9%98%EA%B0%80%EB%A6%AC%EB%B9%84%ED%95%B4%EC%88%98%EB%B6%80-11%EC%9B%94-%EC%9D%B4-2026"
+      },
+      {
+        "label": "전호제",
+        "url": "https://v.daum.net/v/20260604063207028"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices",
+      "회무침, raw with spicy dressing"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "gwamegi"
+    ],
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Winter to early spring"
+      }
+    ],
+    "id": "cheongeo",
+    "ko": "청어",
+    "rr": "cheongeo",
+    "en": "Pacific herring",
+    "tier": "local",
+    "blurb": "A herring that comes in winter to early spring and spawns Dec-Apr. No source names months, so the window here is an estimate. It was the original fish for gwamegi, the wind-dried fish.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/청어"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "숙성회, aged raw slices",
+      "매운탕, spicy stew"
+    ],
+    "where": [
+      "East Sea (동해)"
+    ],
+    "closures": [
+      {
+        "from": "05-01",
+        "to": "05-31",
+        "note": "Report says May, no exact dates"
+      }
+    ],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Wild fish"
+      },
+      {
+        "from": "01-01",
+        "to": "04-30",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Sold as a last chance"
+      }
+    ],
+    "id": "gamseongdom",
+    "ko": "감성돔",
+    "rr": "gamseongdom",
+    "en": "Black sea bream",
+    "tier": "local",
+    "blurb": "A sea bream eaten raw or in spicy stew. Wild fish are a Nov-Dec pick. Shops sell it through April as a last chance before the May closure, but the national fisheries institute rates spring fish poor.",
+    "sources": [
+      {
+        "label": "입질 Nov",
+        "url": "https://www.wikitree.co.kr/articles/1092873"
+      },
+      {
+        "label": "입질 Apr",
+        "url": "https://www.wikitree.co.kr/articles/1129694"
+      },
+      {
+        "label": "Seoul Shinmun",
+        "url": "https://www.seoul.co.kr/news/2017/03/14/20170314022005"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "가숭어"
+    ],
+    "eat": [
+      "회, raw slices"
+    ],
+    "where": [
+      "Muan (무안)",
+      "Buan (부안)",
+      "Busan (부산)",
+      "Tongyeong (통영)",
+      "Samcheonpo (삼천포)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Muan Winter Mullet Festival (무안겨울숭어축제), Jan 24-25, 2026"
+    ],
+    "related": [],
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "01-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "sungeo",
+    "ko": "숭어",
+    "rr": "sungeo",
+    "en": "Mullet",
+    "tier": "local",
+    "blurb": "Mullet is eaten raw and counts as a Dec-Jan winter fish in press and festival accounts. The season is disputed.",
+    "sources": [
+      {
+        "label": "입질 Feb",
+        "url": "https://www.wikitree.co.kr/articles/1115472"
+      },
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      }
+    ],
+    "lane": "fish",
+    "caveat": "One wiki says Feb-Apr, the fisheries ministry's monthly picks say Mar-Apr, and seafood expert Kim Ji-min calls one type, gasungeo, nearly done by February."
+  },
+  {
+    "aka": [],
+    "eat": [
+      "Fermented 홍어, the all-year form",
+      "보리싹 and liver soup, early spring"
+    ],
+    "where": [
+      "Heuksando (흑산도)",
+      "Yeongsanpo, Naju (나주 영산포)"
+    ],
+    "closures": [
+      {
+        "from": "06-01",
+        "to": "07-15",
+        "note": "Appears to be, replacing an older May-Jun report"
+      }
+    ],
+    "festivals": [
+      "Yeongsanpo Hongeo Festival (영산포 홍어축제), May each year"
+    ],
+    "related": [],
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Winter through March"
+      }
+    ],
+    "id": "hongeo",
+    "ko": "홍어",
+    "rr": "hongeo",
+    "en": "Skate",
+    "phrase": "skate",
+    "tier": "known",
+    "blurb": "Skate is eaten fermented, and that form is sold all year. Boiled with barley sprouts and liver, it makes a soup for early spring. The prime window of winter through March is an estimate.",
+    "caveat": "A 2007 article gives a May-Jun closure, while a 2024 reading of the statute says Jun 1-Jul 15. Check current notices.",
+    "sources": [
+      {
+        "label": "Seoul Shinmun",
+        "url": "https://www.seoul.co.kr/news/2007/03/22/20070322303001"
+      },
+      {
+        "label": "Statute",
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=140774771"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "도치알탕, roe stew with 묵은지",
+      "숙회, blanched",
+      "찜, steamed"
+    ],
+    "where": [
+      "Jumunjin (주문진)",
+      "Daejin, Goseong (고성 대진)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "02-10",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "id": "dochi",
+    "ko": "도치",
+    "rr": "dochi",
+    "en": "Lumpfish",
+    "tier": "local",
+    "blurb": "A lumpfish eaten in winter until early February, mostly as a roe stew with aged kimchi. Jumunjin and Daejin in Goseong are the ports. The start month is an estimate from the word winter.",
+    "sources": [
+      {
+        "label": "매일신문",
+        "url": "https://www.imaeil.com/page/view/2024012916421413776"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "벌레문치"
+    ],
+    "eat": [
+      "찜, half-dried and steamed"
+    ],
+    "where": [
+      "Jumunjin (주문진)",
+      "Gangneung (강릉)",
+      "Samcheok (삼척)",
+      "Goseong (고성)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "02-10",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "id": "jangchi",
+    "ko": "장치",
+    "rr": "jangchi",
+    "en": "Eelpout",
+    "tier": "local",
+    "blurb": "An eelpout eaten half-dried and steamed in winter, until early February. East Coast ports from Samcheok to Goseong sell it. The start month is a guess from the word winter.",
+    "sources": [
+      {
+        "label": "매일신문",
+        "url": "https://www.imaeil.com/page/view/2024012916421413776"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "물망치"
+    ],
+    "eat": [],
+    "where": [
+      "Jumunjin (주문진)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [],
+    "id": "samsugi",
+    "ko": "삼숙이",
+    "rr": "samsugi",
+    "en": "East Coast ugly fish",
+    "tier": "local",
+    "undated": [
+      "winter"
+    ],
+    "blurb": "An East Coast fish nicknamed ugly, tied to winter by one source and sold at Jumunjin. No source gives a month or a recipe, only the names.",
+    "sources": [
+      {
+        "label": "매일신문",
+        "url": "https://www.imaeil.com/page/view/2024012916421413776"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "옥돔미역국, tilefish seaweed soup",
+      "구이, dried and grilled"
+    ],
+    "where": [
+      "Jeju (제주)"
+    ],
+    "closures": [
+      {
+        "from": "07-21",
+        "to": "08-20"
+      }
+    ],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "02-01",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Feb named"
+      },
+      {
+        "from": "12-01",
+        "to": "03-31",
+        "kind": "season",
+        "mark": "est",
+        "label": "Winter to early spring"
+      }
+    ],
+    "id": "okdom",
+    "ko": "옥돔",
+    "rr": "okdom",
+    "en": "Tilefish",
+    "tier": "local",
+    "blurb": "A Jeju fish that is fat in winter and thin after spawning. Kim Ji-min names February. It is mostly dried before grilling, and tilefish and seaweed soup is a Jeju birthday dish.",
+    "sources": [
+      {
+        "label": "입질 Feb",
+        "url": "https://www.wikitree.co.kr/articles/1115472"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/옥돔"
+      },
+      {
+        "label": "Statute",
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=140774771"
+      }
+    ],
+    "lane": "fish",
+    "caveat": "Only February is sourced. The wider winter-to-early-spring run is an estimate."
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices"
+    ],
+    "where": [
+      "Jeju (제주)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "juldom"
+    ],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "doldom",
+    "ko": "돌돔",
+    "rr": "doldom",
+    "en": "Striped beakperch",
+    "tier": "local",
+    "blurb": "A striped beakperch eaten raw, picked by an insider for November flesh and fat. Wild and farmed juvenile fish both sell. Jeju and the south coast are the main grounds.",
+    "sources": [
+      {
+        "label": "입질 Nov",
+        "url": "https://www.wikitree.co.kr/articles/1092873"
+      },
+      {
+        "label": "입질 Sep",
+        "url": "https://www.wikitree.co.kr/articles/1078244"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices"
+    ],
+    "where": [
+      "Jeju (제주)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "doldom"
+    ],
+    "windows": [
+      {
+        "from": "09-21",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "juldom",
+    "ko": "줄돔",
+    "rr": "juldom",
+    "en": "Striped beakperch, juvenile",
+    "tier": "local",
+    "blurb": "The juvenile form of the striped beakperch, eaten raw. An insider's pick says it is best in late Sep-Oct.",
+    "sources": [
+      {
+        "label": "입질 Nov",
+        "url": "https://www.wikitree.co.kr/articles/1092873"
+      },
+      {
+        "label": "입질 Sep",
+        "url": "https://www.wikitree.co.kr/articles/1078244"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices"
+    ],
+    "where": [
+      "Jeju (제주)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "ginkkori-bengedom",
+    "ko": "긴꼬리벵에돔",
+    "rr": "ginkkori-bengedom",
+    "en": "Longfin opaleye",
+    "tier": "local",
+    "blurb": "A Jeju fish eaten raw, picked by an insider for November. Wild catch there starts in autumn.",
+    "sources": [
+      {
+        "label": "입질 Nov",
+        "url": "https://www.wikitree.co.kr/articles/1092873"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices"
+    ],
+    "where": [
+      "Jeju (제주)",
+      "Busan (부산)",
+      "Samcheonpo (삼천포)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "neungseongeo",
+      "bukbari",
+      "dageumbari"
+    ],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "11-30",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "From Nov, end not stated"
+      }
+    ],
+    "id": "jabari",
+    "ko": "자바리",
+    "rr": "jabari",
+    "en": "Longtooth grouper",
+    "tier": "local",
+    "blurb": "A grouper eaten raw, named from November by Kim Ji-min. No end month is given. Jeju, Busan and Samcheonpo are among the grounds.",
+    "sources": [
+      {
+        "label": "입질 Nov",
+        "url": "https://www.wikitree.co.kr/articles/1092873"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices"
+    ],
+    "where": [
+      "Jeju (제주)",
+      "Busan (부산)",
+      "Samcheonpo (삼천포)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "jabari"
+    ],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "11-30",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "From Nov, end not stated"
+      }
+    ],
+    "id": "neungseongeo",
+    "ko": "능성어",
+    "rr": "neungseongeo",
+    "en": "Convict grouper",
+    "tier": "local",
+    "blurb": "A grouper eaten raw, listed from November in the same insider pick as jabari, the longtooth grouper. No end month is given.",
+    "sources": [
+      {
+        "label": "입질 Nov",
+        "url": "https://www.wikitree.co.kr/articles/1092873"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "구이, grilled"
+    ],
+    "where": [
+      "Yeosu (여수)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "geumtae",
+    "ko": "금태",
+    "rr": "geumtae",
+    "en": "Blackthroat seaperch",
+    "tier": "local",
+    "blurb": "A grilled fish picked by an insider for November. Gangwon and Yeosu are named as regions for this group of fish.",
+    "sources": [
+      {
+        "label": "입질 Nov",
+        "url": "https://www.wikitree.co.kr/articles/1092873"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "구이, grilled"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "mul-gajami"
+    ],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "gireum-gajami",
+    "ko": "기름가자미",
+    "rr": "gireum-gajami",
+    "en": "Slime flounder",
+    "tier": "local",
+    "blurb": "A grilled flounder picked by an insider for November. April market picks name it too, so spring is a second mention.",
+    "sources": [
+      {
+        "label": "입질 Nov",
+        "url": "https://www.wikitree.co.kr/articles/1092873"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "물가자미조림, braised flounder"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "gireum-gajami"
+    ],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "mul-gajami",
+    "ko": "물가자미",
+    "rr": "mul-gajami",
+    "en": "Flounder",
+    "tier": "local",
+    "blurb": "A flounder picked by an insider for November and eaten braised. Gangwon is a named region for the group.",
+    "sources": [
+      {
+        "label": "입질 Nov",
+        "url": "https://www.wikitree.co.kr/articles/1092873"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "찜, steamed",
+      "구이, grilled",
+      "회, raw slices"
+    ],
+    "where": [
+      "Jeju (제주)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "chamdom",
+      "eoreumdom"
+    ],
+    "windows": [],
+    "id": "hwangdom",
+    "ko": "황돔",
+    "rr": "hwangdom",
+    "en": "Yellowback bream",
+    "tier": "local",
+    "undated": [
+      "winter"
+    ],
+    "blurb": "A winter fish named in one insider guide as a cheaper stand-in for red sea bream. No month is given, and Jeju is the named place.",
+    "sources": [
+      {
+        "label": "입질 Feb",
+        "url": "https://www.wikitree.co.kr/articles/1115472"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "찜, steamed",
+      "구이, grilled",
+      "회, raw slices"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "hwangdom"
+    ],
+    "windows": [],
+    "id": "eoreumdom",
+    "ko": "어름돔",
+    "rr": "eoreumdom",
+    "en": "Striped grunt type",
+    "tier": "local",
+    "undated": [
+      "winter"
+    ],
+    "blurb": "A winter fish named in one insider guide as a cheaper stand-in for red sea bream. No month is given.",
+    "sources": [
+      {
+        "label": "입질 Feb",
+        "url": "https://www.wikitree.co.kr/articles/1115472"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices",
+      "회무침, raw with spicy dressing"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "yong-gajami",
+      "seongdae"
+    ],
+    "windows": [
+      {
+        "from": "02-01",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "jul-gajami",
+    "ko": "줄가자미",
+    "rr": "jul-gajami",
+    "en": "Roughscale sole",
+    "tier": "local",
+    "blurb": "A roughscale sole eaten raw or as a spicy raw salad. It is a single February market pick by Kim Ji-min.",
+    "sources": [
+      {
+        "label": "입질 Feb",
+        "url": "https://www.wikitree.co.kr/articles/1115472"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices",
+      "회무침, raw with spicy dressing"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "jul-gajami",
+      "seongdae"
+    ],
+    "windows": [
+      {
+        "from": "02-01",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "yong-gajami",
+    "ko": "용가자미",
+    "rr": "yong-gajami",
+    "en": "Flounder",
+    "tier": "local",
+    "blurb": "A flounder eaten raw or as a spicy raw salad. It is a single February market pick by Kim Ji-min, grouped with jul-gajami and seongdae.",
+    "sources": [
+      {
+        "label": "입질 Feb",
+        "url": "https://www.wikitree.co.kr/articles/1115472"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices",
+      "회무침, raw with spicy dressing"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "jul-gajami",
+      "yong-gajami"
+    ],
+    "windows": [
+      {
+        "from": "02-01",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "seongdae",
+    "ko": "성대",
+    "rr": "seongdae",
+    "en": "Gurnard",
+    "tier": "local",
+    "blurb": "A gurnard eaten raw or as a spicy raw salad. It is a single February market pick by Kim Ji-min, grouped with jul-gajami and yong-gajami.",
+    "sources": [
+      {
+        "label": "입질 Feb",
+        "url": "https://www.wikitree.co.kr/articles/1115472"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices",
+      "구이, grilled"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Early winter to March"
+      }
+    ],
+    "id": "hakkkongchi",
+    "ko": "학꽁치",
+    "rr": "hakkkongchi",
+    "en": "Halfbeak",
+    "tier": "local",
+    "blurb": "A halfbeak with a winter fishing season on the East and south coasts, from early winter to March, and the dates are an estimate. Raw and grilled dishes appear only in angler tables, so the food claim is thin.",
+    "sources": [
+      {
+        "label": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0120_201412311016012772"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [
+      "Pyeongchang (평창)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Pyeongchang Trout Festival (평창송어축제), Jan 9-Feb 9, 2026"
+    ],
+    "related": [],
+    "windows": [
+      {
+        "from": "01-01",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Festival event"
+      }
+    ],
+    "id": "songeo",
+    "ko": "송어",
+    "rr": "songeo",
+    "en": "Trout, farmed",
+    "tier": "local",
+    "blurb": "Farmed trout is a festival draw more than an eating season. The Pyeongchang festival ran Jan 9-Feb 9 in 2026 and slipped a week for abnormal weather.",
+    "sources": [
+      {
+        "label": "Asiae",
+        "url": "https://www.asiae.co.kr/en/article/2025122214140519558"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [
+      "Hwacheon (화천)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Hwacheon Sancheoneo Festival (화천산천어축제), Jan 10-Feb 1, 2026"
+    ],
+    "related": [],
+    "windows": [
+      {
+        "from": "01-01",
+        "to": "01-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Ice-fishing festival"
+      }
+    ],
+    "id": "sancheoneo",
+    "ko": "산천어",
+    "rr": "sancheoneo",
+    "en": "Masu salmon",
+    "phrase": "masu salmon",
+    "tier": "known",
+    "blurb": "A masu salmon known for a huge winter ice-fishing festival in Hwacheon, and little as a food. The window follows the festival, which ran Jan 10-Feb 1 in 2026.",
+    "sources": [
+      {
+        "label": "Newsis",
+        "url": "https://www.newsis.com/view/NISX20260111_0003472567"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [
+      "Inje, Soyang Lake (인제 소양호)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Inje Smelt Festival (인제빙어축제), cancelled 2026, last held 2023"
+    ],
+    "related": [],
+    "windows": [
+      {
+        "from": "01-01",
+        "to": "01-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "By festival timing"
+      }
+    ],
+    "id": "bingeo",
+    "ko": "빙어",
+    "rr": "bingeo",
+    "en": "Pond smelt",
+    "tier": "local",
+    "blurb": "A freshwater smelt tied to ice fishing on Soyang Lake. The Inje festival was cancelled in 2026, the third year running, because the ice failed. No source covers how it is eaten.",
+    "sources": [
+      {
+        "label": "Herald",
+        "url": "https://www.heraldk.com/article/2026011201500004716"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "도다리"
+    ],
+    "eat": [
+      "도다리쑥국, flounder and mugwort soup",
+      "세꼬시, bone-in slices of young fish"
+    ],
+    "where": [
+      "Tongyeong (통영)",
+      "Geoje (거제)",
+      "Masan (마산)",
+      "Goseong (고성)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "ssuk",
+      "gangdodari"
+    ],
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "dodari-ssukguk",
+    "ko": "도다리쑥국",
+    "rr": "dodari-ssukguk",
+    "en": "Marbled flounder in mugwort soup",
+    "phrase": "flounder and mugwort soup",
+    "tier": "national",
+    "blurb": "A clear soup of marbled flounder and spring mugwort. The date comes from the mugwort, which is good only to early April. The fish itself is fattest in summer-autumn, and young fish give sekkosi, bone-in slices.",
+    "caveat": "One YouTuber claims most spring fish is really farmed gang-dodari. Bones are too hard for raw slices by April.",
+    "sources": [
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1124836"
+      },
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1128274"
+      },
+      {
+        "label": "입질 Apr",
+        "url": "https://www.wikitree.co.kr/articles/1129694"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices",
+      "Skin-scalded raw slices, Matsukawa style"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "chamdom",
+    "ko": "참돔",
+    "rr": "chamdom",
+    "en": "Red sea bream",
+    "phrase": "red sea bream",
+    "tier": "known",
+    "blurb": "Red sea bream is farmed widely, with wild fish from offshore. Kim Ji-min names April. It is eaten raw, sometimes with the skin scalded.",
+    "caveat": "Sources disagree. One wiki says Nov-Mar, and the fisheries ministry's monthly picks are Feb, Jun and Aug.",
+    "sources": [
+      {
+        "label": "입질 Apr",
+        "url": "https://www.wikitree.co.kr/articles/1129694"
+      },
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "구이, grilled",
+      "회, raw slices",
+      "탕, soup",
+      "조림, braised",
+      "볼락김치, winter kimchi"
+    ],
+    "where": [
+      "Tongyeong (통영)",
+      "Geoje (거제)",
+      "Yeosu (여수)",
+      "Wando (완도)",
+      "Samcheonpo (삼천포)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "yeolgi"
+    ],
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Namu"
+      },
+      {
+        "from": "12-01",
+        "to": "05-31",
+        "kind": "season",
+        "mark": "est",
+        "label": "Winter and spring for firmness"
+      }
+    ],
+    "id": "bollak",
+    "ko": "볼락",
+    "rr": "bollak",
+    "en": "Rockfish",
+    "tier": "local",
+    "blurb": "A rockfish that Tongyeong eats all year, called a memory and not a fish by one Tongyeong columnist. One wiki puts the season at Mar-Apr, and winter and spring fish are firmest.",
+    "caveat": "The Dec-May firmness window is an estimate. One YouTuber says nearly all fish sold as bollak are really yeolgi, a goldeye rockfish.",
+    "sources": [
+      {
+        "label": "Pressian",
+        "url": "https://pressian.com/pages/articles/6460"
+      },
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "구이, salted and grilled",
+      "쌈, crisp skin wrap"
+    ],
+    "where": [
+      "Gangwon (강원)",
+      "Gyeongbuk (경북)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "05-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Catch peak"
+      }
+    ],
+    "id": "imyeonsueo",
+    "ko": "임연수어",
+    "rr": "imyeonsueo",
+    "en": "Atka mackerel",
+    "phrase": "Atka mackerel",
+    "tier": "known",
+    "blurb": "Atka mackerel is salted and grilled until the skin is crisp. It is caught all year, with the catch peaking Mar-May.",
+    "sources": [
+      {
+        "label": "MT",
+        "url": "https://www.mt.co.kr/economy/2021/05/31/2021053016315795101"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "참조기"
+    ],
+    "eat": [
+      "굴비, salted dried croaker"
+    ],
+    "where": [
+      "Beopseongpo, Yeonggwang (영광 법성포)",
+      "Chujado (추자도)"
+    ],
+    "closures": [
+      {
+        "from": "07-01",
+        "to": "07-31"
+      },
+      {
+        "from": "04-22",
+        "to": "08-10",
+        "note": "Drift gillnets"
+      }
+    ],
+    "festivals": [],
+    "related": [
+      "gulbi"
+    ],
+    "windows": [
+      {
+        "anchor": "gogu",
+        "before": 7,
+        "after": 7,
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Around 곡우, about Apr 20"
+      }
+    ],
+    "id": "jogi",
+    "ko": "조기",
+    "rr": "jogi",
+    "en": "Yellow croaker",
+    "phrase": "yellow croaker",
+    "tier": "known",
+    "blurb": "Gulbi, salted dried croaker, is made from roe-filled yellow croaker caught around Gogu, about Apr 20. The fisheries ministry's monthly picks fall in Sep and Nov. Drift gillnets are shut for much of spring and summer.",
+    "sources": [
+      {
+        "label": "Seoul Shinmun",
+        "url": "https://m.seoul.co.kr/news/1997/05/28/19970528030001"
+      },
+      {
+        "label": "Statute",
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=140774771"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "04-30",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "From Apr, end not stated"
+      }
+    ],
+    "id": "hwangseogeo",
+    "ko": "황석어",
+    "rr": "hwangseogeo",
+    "en": "Small yellow croaker",
+    "tier": "local",
+    "blurb": "A small yellow croaker named in a single April market pick. No source gives an end month or a way of eating it.",
+    "sources": [
+      {
+        "label": "입질 Apr",
+        "url": "https://www.wikitree.co.kr/articles/1129694"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "봄멸치"
+    ],
+    "eat": [
+      "멸치회, raw anchovy",
+      "회무침, raw with spicy dressing",
+      "쌈밥 찜, rice wrap and steamed",
+      "젓갈, salted"
+    ],
+    "where": [
+      "Daebyeonhang, Gijang (기장 대변항)",
+      "Masan (마산)",
+      "Namhae (남해)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Gijang Anchovy Festival (기장멸치축제, 30th), Apr 24-26, 2026"
+    ],
+    "related": [],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "05-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "myeolchi",
+    "ko": "멸치",
+    "rr": "myeolchi",
+    "en": "Anchovy",
+    "phrase": "anchovies",
+    "tier": "known",
+    "blurb": "Fresh spring anchovy arrives Apr-May, when Daebyeon port in Gijang holds a festival. It is eaten raw, in a rice wrap or steamed. An official pick also names October.",
+    "sources": [
+      {
+        "label": "Herald",
+        "url": "https://www.heraldk.com/article/2026042023182952048"
+      },
+      {
+        "label": "입질 Apr",
+        "url": "https://www.wikitree.co.kr/articles/1129694"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "실치회무침, raw with spicy dressing",
+      "뱅어포, dried sheets"
+    ],
+    "where": [
+      "Janggohang, Dangjin (당진 장고항)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Janggohang Silchi Festival, Apr 22-23, 2023"
+    ],
+    "related": [
+      "baengeo"
+    ],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "04-10",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Raw season"
+      },
+      {
+        "from": "03-21",
+        "to": "05-20",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Caught late Mar to mid May"
+      }
+    ],
+    "id": "silchi",
+    "ko": "실치",
+    "rr": "silchi",
+    "en": "Juvenile whitebait-type fish",
+    "tier": "local",
+    "blurb": "Tiny juvenile baedorachi, sold as baengeo. They are caught late March to mid May, but the raw window lasts only 2-3 weeks from early April. The fish dies fast, so it is eaten raw only near Janggohang port.",
+    "sources": [
+      {
+        "label": "Khan",
+        "url": "https://www.khan.co.kr/article/201804261118001"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/실치"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [
+      "Jindo (진도)",
+      "Sinan (신안)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "silchi"
+    ],
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "09-30",
+        "kind": "peak",
+        "mark": "weak",
+        "label": "At Jindo"
+      }
+    ],
+    "id": "baengeo",
+    "ko": "뱅어",
+    "rr": "baengeo",
+    "en": "True whitebait",
+    "tier": "local",
+    "blurb": "The true baengeo is nearly gone from Korea and spawns Apr-May. One wiki says it turns up only around Sinan and Jindo, where real baengeopo, dried sheets, is a rarity found Jun-Sep.",
+    "caveat": "The Jun-Sep window rests on one wiki line. Most baengeopo on sale is made from silchi.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/뱅어"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/뱅어"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "Eaten live",
+      "전, pancake",
+      "국, soup"
+    ],
+    "where": [
+      "Dongbu-myeon, Geoje (거제 동부면)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "05-10",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "sabaegeo",
+    "ko": "사백어",
+    "rr": "sabaegeo",
+    "en": "Ice goby",
+    "tier": "local",
+    "blurb": "A tiny goby eaten live, with a short window from March to early May. Only Geoje's eastern district, Dongbu-myeon, sells it. It also goes into pancakes and soup.",
+    "sources": [
+      {
+        "label": "입질 Apr",
+        "url": "https://www.wikitree.co.kr/articles/1129694"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "뼈째 회, bone-in raw slices",
+      "회무침, raw with spicy dressing",
+      "김 wrap, in dried seaweed"
+    ],
+    "where": [
+      "Geumgang (금강)",
+      "Yanghwa, Buyeo (부여 양화)",
+      "Ganggyeong (강경)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "05-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "ungeo",
+    "ko": "웅어",
+    "rr": "ungeo",
+    "en": "Grenadier anchovy",
+    "tier": "local",
+    "blurb": "A river anchovy that runs in Apr-May and is frozen the rest of the year. The Geum River and Buyeo are the home ground.",
+    "sources": [
+      {
+        "label": "Kukinews",
+        "url": "https://www.kukinews.com/article/view/kuk201106220101"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회 with 미나리, raw with water dropwort",
+      "황복탕, soup"
+    ],
+    "where": [
+      "Imjin River, Paju (파주 임진강)",
+      "Ganghwa (강화)",
+      "Gimpo (김포)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "04-21",
+        "to": "06-10",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Late Apr to early Jun"
+      },
+      {
+        "from": "05-15",
+        "to": "05-25",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Peak about May 20"
+      }
+    ],
+    "id": "hwangbok",
+    "ko": "황복",
+    "rr": "hwangbok",
+    "en": "River pufferfish",
+    "tier": "local",
+    "blurb": "A river pufferfish that runs up the Imjin River in spring and stays fresh for about one month. Wild fish cost about 200,000 won/kg in 2020.",
+    "sources": [
+      {
+        "label": "Seoul Shinmun",
+        "url": "https://twig24.com/news/lifestyle/trip/2020/04/13/20200413018003"
+      }
+    ],
+    "lane": "fish",
+    "caveat": "The May 20 peak is an estimate."
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회무침, raw with spicy dressing",
+      "준치국, soup",
+      "준치만두, dumplings for 단오"
+    ],
+    "where": [
+      "Mokpo (목포)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "06-30",
+        "kind": "peak",
+        "mark": "sourced"
+      },
+      {
+        "from": "07-01",
+        "to": "07-31",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Some sources run to Jul"
+      }
+    ],
+    "id": "junchi",
+    "ko": "준치",
+    "rr": "junchi",
+    "en": "Chinese herring",
+    "tier": "local",
+    "blurb": "A herring with a saying, sseogeodo junchi, meaning it is good even when spoiling. It vanishes after the season, hence the nickname siseo. At the Dano holiday it is made into soup and dumplings.",
+    "sources": [
+      {
+        "label": "Weekly Khan",
+        "url": "https://weekly.khan.co.kr/article/9875"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices",
+      "세꼬시, bone-in slices",
+      "회무침, raw with spicy dressing",
+      "회비빔밥, raw rice bowl",
+      "구이, grilled"
+    ],
+    "where": [
+      "Guwol-dong, Incheon (인천 구월동)",
+      "Ganghwa market (강화 풍물시장)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "05-01",
+        "to": "06-30",
+        "kind": "peak",
+        "mark": "sourced"
+      },
+      {
+        "from": "04-01",
+        "to": "04-30",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Catch rises"
+      }
+    ],
+    "id": "baendaengi",
+    "ko": "밴댕이",
+    "rr": "baendaengi",
+    "en": "Baendaengi, or banji in Incheon",
+    "tier": "local",
+    "blurb": "In Incheon and Ganghwa the fish sold under this name is really banji, an anchovy-family fish. Fat is gone by mid July. True baendaengi is a herring, sold dried as dipori.",
+    "sources": [
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1143530"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/밴댕이"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/디포리"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [
+      "Gochang (고창)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "baemjangeo"
+    ],
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "06-30",
+        "kind": "peak",
+        "mark": "weak"
+      }
+    ],
+    "id": "pungcheonjangeo",
+    "ko": "풍천장어",
+    "rr": "pungcheonjangeo",
+    "en": "Wild Gochang eel",
+    "tier": "local",
+    "blurb": "Wild eel from Gochang, with a Mar-Jun window from one uncited Wikipedia line. It is a spring fish, not a Boknal one.",
+    "caveat": "No source says how much farmed eel is sold under this name.",
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/풍천장어"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, long slices"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "dodari-ssukguk"
+    ],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "gangdodari",
+    "ko": "강도다리",
+    "rr": "gangdodari",
+    "en": "Farmed flounder",
+    "tier": "local",
+    "blurb": "A farmed flounder sliced long and eaten raw. It is a single April market pick by Kim Ji-min, grouped with three other April picks, with no wider season given.",
+    "sources": [
+      {
+        "label": "입질 Apr",
+        "url": "https://www.wikitree.co.kr/articles/1129694"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "찜, steamed",
+      "탕, soup"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "ganjemi",
+    "ko": "간제미",
+    "rr": "ganjemi",
+    "en": "Small skate",
+    "tier": "local",
+    "blurb": "A small skate, steamed or put in soup. It is a single April market pick by Kim Ji-min, grouped with three other April picks, with no wider season given.",
+    "sources": [
+      {
+        "label": "입질 Apr",
+        "url": "https://www.wikitree.co.kr/articles/1129694"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "dotopsangeo",
+    "ko": "도톱상어",
+    "rr": "dotopsangeo",
+    "en": "Small shark type",
+    "tier": "local",
+    "blurb": "A small shark with no sourced recipe. It is a single April market pick by Kim Ji-min, grouped with three other April picks, with no wider season given.",
+    "sources": [
+      {
+        "label": "입질 Apr",
+        "url": "https://www.wikitree.co.kr/articles/1129694"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "ssangdonggari",
+    "ko": "쌍동가리",
+    "rr": "ssangdonggari",
+    "en": "Flounder-kin fish",
+    "tier": "local",
+    "blurb": "A flounder-kin fish with no sourced recipe. It is a single April market pick by Kim Ji-min, grouped with three other April picks, with no wider season given.",
+    "sources": [
+      {
+        "label": "입질 Apr",
+        "url": "https://www.wikitree.co.kr/articles/1129694"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "구이, grilled"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "bollak"
+    ],
+    "windows": [],
+    "id": "yeolgi",
+    "ko": "열기",
+    "rr": "yeolgi",
+    "en": "Goldeye rockfish",
+    "tier": "local",
+    "undated": [],
+    "blurb": "A rockfish with no sourced month, usually sold as bollak. One YouTuber says nearly all fish sold as bollak are really yeolgi.",
+    "sources": [
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1056060"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices",
+      "부레, swim bladder",
+      "탕, soup",
+      "찜, steamed",
+      "어죽, fish porridge"
+    ],
+    "where": [
+      "Imjado, Sinan (신안 임자도)",
+      "Mokpo Mineo Street (목포 민어의 거리)",
+      "Yeosu (여수)",
+      "Sinpo Market, Incheon (인천 신포시장)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Sinan Mineo Festival, Imjado, early Aug each year"
+    ],
+    "related": [
+      "samgyetang"
+    ],
+    "windows": [
+      {
+        "from": "08-01",
+        "to": "08-10",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Top of 삼복"
+      },
+      {
+        "from": "06-01",
+        "to": "07-10",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Offshore catch"
+      },
+      {
+        "from": "07-11",
+        "to": "09-30",
+        "kind": "season",
+        "mark": "est",
+        "label": "Inshore from mid Jul to about Chuseok"
+      }
+    ],
+    "id": "mineo",
+    "ko": "민어",
+    "rr": "mineo",
+    "en": "Brown croaker",
+    "phrase": "brown croaker",
+    "tier": "national",
+    "blurb": "A big croaker eaten for Boknal (복날), the three hottest days of summer, with a peak in early August at the top of Sambok. Offshore catch starts in June and the Imjado catch in mid July, running on to Chuseok. The Encyclopedia of Korean Culture already calls it in season at Soseo, a solar term.",
+    "caveat": "Kim Ji-min says winter fish are nearly as good.",
+    "sources": [
+      {
+        "label": "매일신문",
+        "url": "https://www.imaeil.com/page/view/2024070214313250785"
+      },
+      {
+        "label": "Seoul Shinmun",
+        "url": "https://m.seoul.co.kr/news/2024/07/12/20240712020001"
+      },
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0030120"
+      },
+      {
+        "label": "입질 Feb",
+        "url": "https://www.wikitree.co.kr/articles/1115472"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "민물장어"
+    ],
+    "eat": [
+      "구이, grilled",
+      "장어덮밥, eel rice bowl"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "samgyetang",
+      "pungcheonjangeo",
+      "bungjangeo"
+    ],
+    "windows": [
+      {
+        "from": "07-01",
+        "to": "08-31",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "복날 demand"
+      }
+    ],
+    "id": "baemjangeo",
+    "ko": "뱀장어",
+    "rr": "baemjangeo",
+    "en": "Freshwater eel, farmed",
+    "phrase": "freshwater eel",
+    "tier": "national",
+    "noSeason": true,
+    "blurb": "Farmed eel has no real season, but demand jumps in Jul-Aug for Boknal. The fisheries ministry's monthly picks range across Jan, Jul, Aug and Oct and state no season. The one sourced catch season is wild Gochang fish in spring.",
+    "caveat": "One wiki gives May-Jun, and a 2009 Jinju list gave July grilling. Neither states a catch season.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/뱀장어"
+      },
+      {
+        "label": "Pick Jan 2026",
+        "url": "https://www.incheon.go.kr/fish/FI020401/3065115"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "하모"
+    ],
+    "eat": [
+      "샤부샤부, shabu-shabu",
+      "회, raw slices",
+      "탕, soup in autumn"
+    ],
+    "where": [
+      "Yeosu (여수)",
+      "Goheung (고흥)",
+      "Wando (완도)",
+      "Jangheung (장흥)",
+      "Goseong (고성)",
+      "Namhae (남해)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "sourced"
+      },
+      {
+        "from": "05-01",
+        "to": "09-30",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "May-Sep overall"
+      }
+    ],
+    "id": "gaetjangeo",
+    "ko": "갯장어",
+    "rr": "gaetjangeo",
+    "en": "Daggertooth pike conger",
+    "phrase": "pike conger",
+    "tier": "known",
+    "blurb": "A southern fish for bokdalim, eating to beat the summer heat, named alongside mineo (brown croaker). It runs Jun-Aug, and May-Sep overall. Some eat it in autumn in soup, when the bones harden.",
+    "sources": [
+      {
+        "label": "Khan",
+        "url": "https://www.khan.co.kr/article/202508072035025"
+      },
+      {
+        "label": "Seoul Shinmun",
+        "url": "https://m.seoul.co.kr/news/2024/07/12/20240712020001"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "아나고"
+    ],
+    "eat": [
+      "회, raw slices",
+      "구이, grilled",
+      "탕, soup",
+      "샤부샤부, shabu-shabu"
+    ],
+    "where": [
+      "Tongyeong (통영)",
+      "Gijang (기장)",
+      "Yeosu (여수)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "baemjangeo"
+    ],
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "09-30",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Summer to early autumn"
+      }
+    ],
+    "id": "bungjangeo",
+    "ko": "붕장어",
+    "rr": "bungjangeo",
+    "en": "Conger eel",
+    "phrase": "conger eel",
+    "tier": "known",
+    "blurb": "Conger eel is sold all year. The prime window of summer to early autumn is an estimate. Tongyeong is the main distribution hub.",
+    "sources": [
+      {
+        "label": "경인",
+        "url": "https://www.kyeongin.com/article/1602691"
+      },
+      {
+        "label": "입질 Sep",
+        "url": "https://www.wikitree.co.kr/articles/1078244"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "덕자"
+    ],
+    "eat": [
+      "회, raw slices",
+      "찜, steamed"
+    ],
+    "where": [
+      "Jido, Sinan (신안 지도)",
+      "Imja (임자)",
+      "Heuksan (흑산)",
+      "Mokpo (목포)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Island Pomfret Festival (섬 병어축제, 12th), Jido, Jun 12-13, 2026"
+    ],
+    "related": [],
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "06-20",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Before 하지"
+      },
+      {
+        "from": "05-01",
+        "to": "07-31",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "May-Jul"
+      }
+    ],
+    "id": "byeongeo",
+    "ko": "병어",
+    "rr": "byeongeo",
+    "en": "Silver pomfret",
+    "tier": "local",
+    "blurb": "A pomfret best in June before Haji, the summer solstice, with a May-Jul run. A box cost near 700,000 won in 2026. Large ones are called deokja.",
+    "sources": [
+      {
+        "label": "Seoul Shinmun",
+        "url": "https://m.go.seoul.co.kr/news/2026/06/11/20260611500053"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices, often aged"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Summer"
+      },
+      {
+        "from": "09-01",
+        "to": "11-30",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Stable into Nov"
+      }
+    ],
+    "id": "nongeo",
+    "ko": "농어",
+    "rr": "nongeo",
+    "en": "Korean sea bass",
+    "phrase": "sea bass",
+    "tier": "known",
+    "blurb": "Sea bass is eaten raw, often aged. Recent press calls it a summer fish, stable into November.",
+    "caveat": "A classic text favours spring, so the summer window is an estimate.",
+    "sources": [
+      {
+        "label": "Khan",
+        "url": "https://www.khan.co.kr/article/202607251300001/"
+      },
+      {
+        "label": "입질 Sep",
+        "url": "https://www.wikitree.co.kr/articles/1078244"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices",
+      "소금구이, salt-grilled",
+      "각재기국, Jeju soup",
+      "인천 막회, rough-cut raw"
+    ],
+    "where": [
+      "South coast (남해안)",
+      "Busan (부산)",
+      "Incheon (인천)",
+      "Jeju (제주)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Summer"
+      },
+      {
+        "from": "04-01",
+        "to": "05-31",
+        "kind": "season",
+        "mark": "est",
+        "label": "Improving from Apr"
+      },
+      {
+        "from": "09-01",
+        "to": "09-30",
+        "kind": "season",
+        "mark": "est",
+        "label": "Live fish still sold"
+      }
+    ],
+    "id": "jeongaengi",
+    "ko": "전갱이",
+    "rr": "jeongaengi",
+    "en": "Horse mackerel",
+    "tier": "local",
+    "blurb": "A horse mackerel eaten raw or salt-grilled, with a Jeju soup too. Sources say summer, improving from April, with live fish still sold in September. All months are estimates, and spawning is Jun-Aug on the south coast.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/전갱이"
+      },
+      {
+        "label": "입질 Apr",
+        "url": "https://www.wikitree.co.kr/articles/1129694"
+      },
+      {
+        "label": "입질 Sep",
+        "url": "https://www.wikitree.co.kr/articles/1078244"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "서대회, raw salad",
+      "조림, braised",
+      "찜, steamed"
+    ],
+    "where": [
+      "Yeosu (여수)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "id": "seodae",
+    "ko": "서대",
+    "rr": "seodae",
+    "en": "Tonguefish",
+    "tier": "local",
+    "blurb": "A tonguefish that Yeosu mixes into a raw salad and puts on ancestral tables. The summer window rests on one Wikipedia sentence, so the months are an estimate.",
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/참서대"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "국내산 참다랑어"
+    ],
+    "eat": [
+      "회, raw slices"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "07-01",
+        "to": "09-30",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "id": "chamdarangeo",
+    "ko": "참다랑어",
+    "rr": "chamdarangeo",
+    "en": "Wild domestic bluefin",
+    "tier": "local",
+    "blurb": "Wild bluefin caught in Korean waters, eaten raw. One wiki says it comes in summer or early autumn, and the months here are an estimate. Quota, not season, sets supply.",
+    "caveat": "The same wiki's older Apr-Jun entry and the March fisheries ministry picks look wrong for wild fish.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/참다랑어"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "자리물회, cold raw fish soup",
+      "구이, grilled"
+    ],
+    "where": [
+      "Bomok, Seogwipo (서귀포 보목)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Bomok Jaridom Festival (보목자리돔축제, 22nd), May 22-24, 2026"
+    ],
+    "related": [],
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "07-31",
+        "kind": "peak",
+        "mark": "sourced"
+      },
+      {
+        "from": "05-01",
+        "to": "08-31",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "May-Aug overall"
+      }
+    ],
+    "id": "jaridom",
+    "ko": "자리돔",
+    "rr": "jaridom",
+    "en": "Pearl-spot chromis",
+    "tier": "local",
+    "blurb": "A small Jeju fish eaten whole in cold soup. The window follows the barley harvest, late May to early July, and Bomok in Seogwipo holds a festival in May.",
+    "sources": [
+      {
+        "label": "Newsis",
+        "url": "https://www.newsis.com/view/NISX20200818_0001132359"
+      },
+      {
+        "label": "Jnuri",
+        "url": "https://www.jnuri.net/mobile/article.html?no=68310"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices",
+      "물회, cold raw fish soup",
+      "구이, grilled",
+      "조림, braised",
+      "벤자리미역국, seaweed soup"
+    ],
+    "where": [
+      "Seogwipo (서귀포)",
+      "Seongsan (성산)",
+      "Pyoseon (표선)",
+      "Jungmun (중문)",
+      "Moseulpo (모슬포)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [],
+    "id": "benjari",
+    "ko": "벤자리",
+    "rr": "benjari",
+    "en": "Grunt",
+    "tier": "local",
+    "undated": [
+      "summer"
+    ],
+    "blurb": "A southern Jeju summer fish, eaten raw, grilled and in seaweed soup. No source gives a month.",
+    "sources": [
+      {
+        "label": "최원준",
+        "url": "https://v.daum.net/v/20260707190216333"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "따치"
+    ],
+    "eat": [
+      "회, raw slices",
+      "쌈, wrap with 막장",
+      "된장 물회, cold soup with soybean paste"
+    ],
+    "where": [
+      "Jeju (제주)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [],
+    "id": "dokgasichi",
+    "ko": "독가시치",
+    "rr": "dokgasichi",
+    "en": "Rabbitfish",
+    "tier": "local",
+    "undated": [
+      "summer"
+    ],
+    "blurb": "A rabbitfish from Jeju that is not farmed. Sources tie it to summer and say it sells into September, but give no month.",
+    "sources": [
+      {
+        "label": "최원준",
+        "url": "https://v.daum.net/v/20260707190216333"
+      },
+      {
+        "label": "입질 Sep",
+        "url": "https://www.wikitree.co.kr/articles/1078244"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "객주리"
+    ],
+    "eat": [
+      "회 with 간, raw with liver"
+    ],
+    "where": [
+      "Jeju (제주)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [],
+    "id": "jwichi",
+    "ko": "쥐치",
+    "rr": "jwichi",
+    "en": "Filefish",
+    "tier": "local",
+    "undated": [
+      "summer",
+      "autumn"
+    ],
+    "blurb": "A filefish tied to summer and autumn, with no sourced month. Fans chase the liver, eaten with the raw fish.",
+    "sources": [
+      {
+        "label": "입질 Sep",
+        "url": "https://www.wikitree.co.kr/articles/1078244"
+      },
+      {
+        "label": "최원준",
+        "url": "https://v.daum.net/v/20260707190216333"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "튀김, fried",
+      "구이, grilled",
+      "은어밥, rice",
+      "회, raw slices"
+    ],
+    "where": [
+      "Hadong (하동)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "eoneo",
+    "ko": "은어",
+    "rr": "eoneo",
+    "en": "Ayu sweetfish",
+    "tier": "local",
+    "blurb": "A river fish that returns Mar-Jun, matures in Jul-Aug and spawns Sep-Oct. Hadong is the named place. The saying \"chilpalwol eoneo gumdeut\" points to July and August, when many fish die.",
+    "caveat": "Closed seasons apply. The dates come from a video recap, so check current notices.",
+    "sources": [
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1084323"
+      },
+      {
+        "label": "경남신문",
+        "url": "https://knnews.co.kr/news/articleView.php?idxno=764380"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "매운탕, spicy stew",
+      "회, raw slices"
+    ],
+    "where": [
+      "Sancheong (산청)",
+      "Danyang (단양)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "weak"
+      }
+    ],
+    "id": "ssogari",
+    "ko": "쏘가리",
+    "rr": "ssogari",
+    "en": "Mandarin fish",
+    "tier": "local",
+    "blurb": "A freshwater fish eaten raw or in spicy stew. One wiki says domestic fish are plentiful Jun-Nov, and a dealer says they are hard to find mid Dec-mid Apr. That is trade lore for spotting domestic fish, not a food claim.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/쏘가리"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices"
+    ],
+    "where": [
+      "Jeju (제주)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "dageumbari",
+      "jabari"
+    ],
+    "windows": [],
+    "id": "bukbari",
+    "ko": "붉바리",
+    "rr": "bukbari",
+    "en": "Jeju grouper",
+    "tier": "local",
+    "undated": [
+      "summer"
+    ],
+    "blurb": "A Jeju grouper that old Jeju reckoning calls a summer fish, with no month given. Kim Ji-min prefers jabari, the longtooth grouper, in November.",
+    "sources": [
+      {
+        "label": "최원준",
+        "url": "https://v.daum.net/v/20260707190216333"
+      },
+      {
+        "label": "입질 Nov",
+        "url": "https://www.wikitree.co.kr/articles/1092873"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices"
+    ],
+    "where": [
+      "Jeju (제주)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "bukbari",
+      "jabari"
+    ],
+    "windows": [],
+    "id": "dageumbari",
+    "ko": "다금바리",
+    "rr": "dageumbari",
+    "en": "Jeju grouper",
+    "tier": "local",
+    "undated": [
+      "summer"
+    ],
+    "blurb": "A Jeju grouper eaten raw, called a summer fish by old Jeju reckoning, with no month given. Kim Ji-min prefers jabari, the longtooth grouper, in November.",
+    "sources": [
+      {
+        "label": "최원준",
+        "url": "https://v.daum.net/v/20260707190216333"
+      },
+      {
+        "label": "입질 Nov",
+        "url": "https://www.wikitree.co.kr/articles/1092873"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "곰장어"
+    ],
+    "eat": [
+      "짚불구이, straw-fire grilled",
+      "연탄구이, charcoal grilled",
+      "양념구이, seasoned grilled"
+    ],
+    "where": [
+      "Gijang (기장)",
+      "Jagalchi (자갈치)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [],
+    "id": "meokjangeo",
+    "ko": "먹장어",
+    "rr": "meokjangeo",
+    "en": "Hagfish",
+    "tier": "local",
+    "noSeason": true,
+    "blurb": "Hagfish has no season and is eaten all year. Gijang grills it over a straw fire, and Jagalchi serves it over charcoal.",
+    "sources": [
+      {
+        "label": "매일신문",
+        "url": "https://www.imaeil.com/page/view/2024071615132770211"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "떡전어"
+    ],
+    "eat": [
+      "뼈째 회, bone-in raw slices",
+      "회무침, raw with spicy dressing",
+      "소금구이, salt-grilled whole"
+    ],
+    "where": [
+      "Sacheon (사천)",
+      "Namhae (남해)",
+      "Hadong (하동)",
+      "Mangdeok port, Gwangyang (광양 망덕포구)",
+      "Boseong (보성)",
+      "Jinhae (진해)"
+    ],
+    "closures": [
+      {
+        "from": "05-01",
+        "to": "07-15",
+        "note": "Excludes Gangwon and Gyeongbuk, by researchers' row reading"
+      }
+    ],
+    "festivals": [
+      "Gwangyang Jeoneo Festival (광양전어축제, 25th), Sep 4-6, 2026",
+      "Boseong Jeoneo Festival (보성전어축제), started Aug 22, 2025"
+    ],
+    "related": [],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Autumn peak"
+      },
+      {
+        "from": "07-15",
+        "to": "08-31",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "First shipments"
+      }
+    ],
+    "id": "jeoneo",
+    "ko": "전어",
+    "rr": "jeoneo",
+    "en": "Gizzard shad",
+    "phrase": "gizzard shad",
+    "tier": "national",
+    "blurb": "Gizzard shad is eaten bone-in raw or salt-grilled whole. It peaks early-mid September in the south and west, and late September-early October in Seoul. First shipments came mid July in 2026, and the smell of grilling shad is said to bring a runaway daughter-in-law home.",
+    "caveat": "Some analysts see the peak sliding toward summer as waters warm. Sources dispute this.",
+    "sources": [
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1154119"
+      },
+      {
+        "label": "Newsis",
+        "url": "https://mobile.newsis.com/view/NISX20260718_0003713656"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "godeungeo",
+    "ko": "고등어",
+    "rr": "godeungeo",
+    "en": "Chub mackerel",
+    "phrase": "chub mackerel",
+    "tier": "known",
+    "blurb": "Chub mackerel is a Sep-Nov fish, with farmed fish in winter. Catch fell to about 134,000 t in 2024.",
+    "caveat": "No recipe source was found.",
+    "sources": [
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      },
+      {
+        "label": "입질 Sep",
+        "url": "https://www.wikitree.co.kr/articles/1078244"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "08-21",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "35 cm+"
+      }
+    ],
+    "id": "mangchi-godeungeo",
+    "ko": "망치고등어",
+    "rr": "mangchi-godeungeo",
+    "en": "Spotted mackerel",
+    "tier": "local",
+    "blurb": "A spotted mackerel that is best from late August to October once it reaches 35 cm. No dish is sourced.",
+    "sources": [
+      {
+        "label": "입질 Sep",
+        "url": "https://www.wikitree.co.kr/articles/1078244"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "구이, grilled",
+      "조림, braised",
+      "회, raw slices",
+      "갈칫국, Jeju soup",
+      "속젓, salted guts"
+    ],
+    "where": [
+      "Jeju Eungalchi (제주 은갈치)",
+      "Mokpo Meokgalchi (목포 먹갈치)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Seogwipo Silver Hairtail Festival (서귀포은갈치축제, 6th), Sep 12-14, 2025"
+    ],
+    "related": [],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Autumn"
+      },
+      {
+        "from": "07-01",
+        "to": "10-31",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Namu Jul-Oct"
+      }
+    ],
+    "id": "galchi",
+    "ko": "갈치",
+    "rr": "galchi",
+    "en": "Largehead hairtail",
+    "phrase": "hairtail",
+    "tier": "known",
+    "blurb": "Hairtail is an autumn fish, and one wiki gives Jul-Oct. Jeju sells silver eungalchi and Mokpo sells a type called meokgalchi. Catch fell to about 44,000 t in 2024.",
+    "sources": [
+      {
+        "label": "Brunch",
+        "url": "https://brunch.co.kr/@duboo/37"
+      },
+      {
+        "label": "Newsis",
+        "url": "https://www.newsis.com/view/NISX20250914_0003328173"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "과메기, air-dried"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "gwamegi"
+    ],
+    "windows": [
+      {
+        "from": "10-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "weak"
+      }
+    ],
+    "id": "kkongchi",
+    "ko": "꽁치",
+    "rr": "kkongchi",
+    "en": "Pacific saury",
+    "phrase": "saury",
+    "tier": "known",
+    "blurb": "Saury is an Oct-Nov fish on one wiki list. It is mostly feedstock for gwamegi, the air-dried fish, now.",
+    "caveat": "Thin sourcing. A single list gives the months.",
+    "sources": [
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "넙치"
+    ],
+    "eat": [
+      "회, raw slices"
+    ],
+    "where": [
+      "Jeju (제주)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Wild fish"
+      }
+    ],
+    "id": "gwangeo",
+    "ko": "광어",
+    "rr": "gwangeo",
+    "en": "Olive flounder",
+    "phrase": "olive flounder",
+    "tier": "known",
+    "blurb": "Olive flounder is eaten raw. Wild fish run autumn to early winter, Sep-Dec by one wiki. Farmed fish stay even all year, and the national fisheries institute says farmed fish beat wild in spawning months. Jeju fish are best summer to autumn.",
+    "sources": [
+      {
+        "label": "Seoul Shinmun",
+        "url": "https://www.seoul.co.kr/news/2017/03/14/20170314022005"
+      },
+      {
+        "label": "입질 Nov",
+        "url": "https://www.wikitree.co.kr/articles/1092873"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "조피볼락"
+    ],
+    "eat": [
+      "회, raw slices"
+    ],
+    "where": [
+      "Wando (완도)",
+      "Chuja (추자)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Wild fish"
+      }
+    ],
+    "id": "ureok",
+    "ko": "우럭",
+    "rr": "ureok",
+    "en": "Korean rockfish",
+    "phrase": "Korean rockfish",
+    "tier": "known",
+    "blurb": "Korean rockfish is eaten raw. Wild fish run autumn to early winter, an estimate, and farmed fish even out the year. Large offshore fish come from Wando and Chuja.",
+    "sources": [
+      {
+        "label": "Seoul Shinmun",
+        "url": "https://www.seoul.co.kr/news/2017/03/14/20170314022005"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "추어"
+    ],
+    "eat": [
+      "추어탕, loach soup",
+      "추어튀김, fried",
+      "추어두부, with tofu"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "sourced"
+      },
+      {
+        "from": "07-01",
+        "to": "11-30",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Jul to late Nov overall"
+      }
+    ],
+    "id": "mikkuraji",
+    "ko": "미꾸라지",
+    "rr": "mikkuraji",
+    "en": "Loach",
+    "phrase": "loach",
+    "tier": "known",
+    "blurb": "A freshwater loach made into chueotang, a soup eaten as a boyang dish, meaning food for restoring strength. Farming removes the hard season. Official picks run Aug, Sep and Oct.",
+    "sources": [
+      {
+        "label": "전북일보",
+        "url": "https://www.jjan.kr/articleAmp/20121101451830"
+      },
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1163250"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [
+      "Namdaecheon, Yangyang (양양 남대천)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Yangyang Songi-Salmon Festival (양양 송이연어축제), Oct 16-18, 2026"
+    ],
+    "related": [],
+    "windows": [
+      {
+        "from": "10-01",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "River return"
+      }
+    ],
+    "id": "yeoneo",
+    "ko": "연어",
+    "rr": "yeoneo",
+    "en": "Chum salmon",
+    "tier": "local",
+    "blurb": "Chum salmon return up the Namdae River in October, an event more than a food. The festival is about viewing and catching, and no source covers how it is eaten.",
+    "sources": [
+      {
+        "label": "문체부",
+        "url": "https://www.mcst.go.kr/site/s_culture/festival/festivalView.jsp?pSeq=12792"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices",
+      "매운탕, spicy stew",
+      "조림, braised"
+    ],
+    "where": [
+      "Busan (부산)",
+      "Masan (마산)",
+      "Changwon (창원)",
+      "Jinhae (진해)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "mangdungeo",
+    "ko": "망둥어",
+    "rr": "mangdungeo",
+    "en": "Yellowfin goby",
+    "tier": "local",
+    "blurb": "A goby caught all year, with a Sep-Nov pick from Kim Ji-min. It is dried for soup, and braised or stewed.",
+    "sources": [
+      {
+        "label": "입질 Sep",
+        "url": "https://www.wikitree.co.kr/articles/1078244"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/망둑어"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "est",
+        "label": "To Oct"
+      }
+    ],
+    "id": "jwinoraemi",
+    "ko": "쥐노래미",
+    "rr": "jwinoraemi",
+    "en": "Fat greenling",
+    "tier": "local",
+    "blurb": "A greenling of 30 cm or more, eaten raw, named in a September market pick as good to October. The start month is an estimate.",
+    "sources": [
+      {
+        "label": "입질 Sep",
+        "url": "https://www.wikitree.co.kr/articles/1078244"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "백조기"
+    ],
+    "eat": [
+      "찌개, stew",
+      "부침, pan-fried",
+      "구이, grilled"
+    ],
+    "where": [
+      "West coast, Jeonnam (전남 서해)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "09-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "boguchi",
+    "ko": "보구치",
+    "rr": "boguchi",
+    "en": "White croaker",
+    "tier": "local",
+    "blurb": "A white croaker named as a September market pick, eaten in stews and fried or grilled. The west coast of Jeonnam is the named ground.",
+    "sources": [
+      {
+        "label": "입질 Sep",
+        "url": "https://www.wikitree.co.kr/articles/1078244"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "bangeo",
+      "heukjeom-jeongaengi"
+    ],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Sep into autumn"
+      }
+    ],
+    "id": "jaetbangeo",
+    "ko": "잿방어",
+    "rr": "jaetbangeo",
+    "en": "Greater amberjack",
+    "tier": "local",
+    "blurb": "A greater amberjack eaten raw. It is a September pick that works as a bridge to winter yellowtail (bangeo), and the months are an estimate.",
+    "sources": [
+      {
+        "label": "입질 Sep",
+        "url": "https://www.wikitree.co.kr/articles/1078244"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "회, raw slices"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "jaetbangeo",
+      "bangeo"
+    ],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Sep into autumn"
+      }
+    ],
+    "id": "heukjeom-jeongaengi",
+    "ko": "흑점전갱이",
+    "rr": "heukjeom-jeongaengi",
+    "en": "Striped jack",
+    "tier": "local",
+    "blurb": "A striped jack eaten raw, listed with jaetbangeo as a September bridge to winter yellowtail. The months are an estimate.",
+    "sources": [
+      {
+        "label": "입질 Sep",
+        "url": "https://www.wikitree.co.kr/articles/1078244"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "뼈째 회, bone-in raw slices",
+      "물회, cold raw fish soup"
+    ],
+    "where": [
+      "West Sea (서해)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "cham-gajami"
+    ],
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Summer-autumn"
+      }
+    ],
+    "id": "dol-gajami",
+    "ko": "돌가자미",
+    "rr": "dol-gajami",
+    "en": "Stone flounder",
+    "tier": "local",
+    "blurb": "A flounder eaten bone-in and raw, or in cold soup, in summer and autumn. The West Sea is the named ground, and the months are an estimate.",
+    "sources": [
+      {
+        "label": "입질 Sep",
+        "url": "https://www.wikitree.co.kr/articles/1078244"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "뼈째 회, bone-in raw slices",
+      "물회, cold raw fish soup"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "dol-gajami"
+    ],
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Summer-autumn"
+      }
+    ],
+    "id": "cham-gajami",
+    "ko": "참가자미",
+    "rr": "cham-gajami",
+    "en": "Brown sole",
+    "tier": "local",
+    "blurb": "A brown sole eaten bone-in and raw, or in cold soup, in summer and autumn. It is listed with dol-gajami, and the months are an estimate.",
+    "sources": [
+      {
+        "label": "입질 Sep",
+        "url": "https://www.wikitree.co.kr/articles/1078244"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "쌈, leaf wrap"
+    ],
+    "where": [
+      "Jeju (제주)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "09-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "id": "ahopdonggari",
+    "ko": "아홉동가리",
+    "rr": "ahopdonggari",
+    "en": "Spottedtail morwong",
+    "tier": "local",
+    "blurb": "A Jeju fish named as a September market pick, eaten in a leaf wrap.",
+    "sources": [
+      {
+        "label": "입질 Sep",
+        "url": "https://www.wikitree.co.kr/articles/1078244"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [
+      "금풍생이",
+      "쌕쌕이",
+      "꾸돔"
+    ],
+    "eat": [
+      "구이, grilled with seasoned soy sauce"
+    ],
+    "where": [
+      "Yeosu (여수)",
+      "Goheung (고흥)",
+      "Gyodong Market (교동시장)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [],
+    "id": "gunpyeongseoni",
+    "ko": "군평선이",
+    "rr": "gunpyeongseoni",
+    "en": "Korean sea bream type",
+    "tier": "local",
+    "undated": [],
+    "blurb": "One of the Yeosu 10 flavors, usually grilled with seasoned soy sauce. Two encyclopedias give it no season. One wiki calls it the top fish around Yeosu, with seodae (tonguefish) next.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/군평선이"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [],
+    "id": "ingeo",
+    "ko": "잉어",
+    "rr": "ingeo",
+    "en": "Carp",
+    "tier": "local",
+    "noSeason": true,
+    "blurb": "River carp farmed year-round, mostly eaten in spicy summer stew. There is no real season, so it stays off the calendar.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/잉어"
+      },
+      {
+        "label": "Pick Aug 2025",
+        "url": "https://www.incheon.go.kr/fish/FI020401/3028587"
+      },
+      {
+        "label": "Pick Sep 2026",
+        "url": "https://www.incheon.go.kr/fish/FI020401/3087519"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "메기매운탕, spicy stew"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [],
+    "id": "megi",
+    "ko": "메기",
+    "rr": "megi",
+    "en": "Catfish",
+    "tier": "local",
+    "noSeason": true,
+    "blurb": "A catfish eaten in spicy stew. It has no season, and its one official pick, in Aug 2025, called it among the most popular summer dishes. Restaurants away from rivers mostly use farmed fish.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/잉어"
+      },
+      {
+        "label": "Pick Aug 2025",
+        "url": "https://www.incheon.go.kr/fish/FI020401/3028587"
+      },
+      {
+        "label": "Pick Sep 2026",
+        "url": "https://www.incheon.go.kr/fish/FI020401/3087519"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [
+      "향어회, raw slices",
+      "매운탕, spicy stew"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [],
+    "id": "hyangeo",
+    "ko": "향어",
+    "rr": "hyangeo",
+    "en": "Israeli carp",
+    "tier": "local",
+    "noSeason": true,
+    "blurb": "A farmed carp eaten raw or in spicy stew, with no season. It was introduced in 1973, and output was about 1,700 t in 2025, fifth among inland fish.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/잉어"
+      },
+      {
+        "label": "Pick Aug 2025",
+        "url": "https://www.incheon.go.kr/fish/FI020401/3028587"
+      },
+      {
+        "label": "Pick Sep 2026",
+        "url": "https://www.incheon.go.kr/fish/FI020401/3087519"
+      }
+    ],
+    "lane": "fish"
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "windows": [],
+    "id": "bungeo",
+    "ko": "붕어",
+    "rr": "bungeo",
+    "en": "Crucian carp",
+    "tier": "local",
+    "noSeason": true,
+    "blurb": "Crucian carp is farmed, with demand only for summer spicy stew. There is no real season, so it stays off the calendar.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/잉어"
+      },
+      {
+        "label": "Pick Aug 2025",
+        "url": "https://www.incheon.go.kr/fish/FI020401/3028587"
+      },
+      {
+        "label": "Pick Sep 2026",
+        "url": "https://www.incheon.go.kr/fish/FI020401/3087519"
+      }
+    ],
+    "lane": "fish"
+  }
+]

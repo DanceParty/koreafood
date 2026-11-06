@@ -1,0 +1,2579 @@
+[
+  {
+    "id": "gyul",
+    "ko": "귤",
+    "aka": [
+      "노지 감귤",
+      "감귤",
+      "밀감"
+    ],
+    "rr": "gyul",
+    "en": "Open-field mandarin",
+    "phrase": "mandarins",
+    "lane": "fruit",
+    "tier": "national",
+    "windows": [
+      {
+        "from": "10-01",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Open-field season"
+      }
+    ],
+    "blurb": "Jeju's winter mandarin, grown outdoors. Extra-early (geukjosaeng) fruit ships from mid Oct and early (josaeng) fruit from mid Nov, so the crop runs into February. December is when it is best picked.",
+    "eat": [],
+    "where": [
+      "Jeju (제주)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "putgyul",
+      "putgyul-cheong",
+      "hauseugyul"
+    ],
+    "sources": [
+      {
+        "label": "Yuga Crew",
+        "url": "https://www.yugacrew.com/crewletter/tangerine-types-open-field-greenhouse"
+      },
+      {
+        "label": "Lady Khan",
+        "url": "https://lady.khan.co.kr/cooking/article/202511131620001"
+      },
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      }
+    ]
+  },
+  {
+    "id": "hauseugyul",
+    "ko": "하우스귤",
+    "aka": [
+      "하우스 감귤"
+    ],
+    "rr": "hauseugyul",
+    "en": "Greenhouse mandarin",
+    "phrase": "greenhouse mandarins",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "04-21",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Greenhouse supply"
+      }
+    ],
+    "blurb": "Mandarins grown under heat, so they reach shops from late April, long before the open-field crop. Growers run four different heating schedules, which is why supply stretches to late October.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "gyul"
+    ],
+    "sources": [
+      {
+        "label": "Yuga Crew",
+        "url": "https://www.yugacrew.com/crewletter/tangerine-types-open-field-greenhouse"
+      }
+    ]
+  },
+  {
+    "id": "hwanggeumhyang",
+    "ko": "황금향",
+    "aka": [],
+    "rr": "hwanggeumhyang",
+    "en": "Hwanggeumhyang",
+    "phrase": "hwanggeumhyang citrus",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "A late-ripening hybrid citrus (mangamryu), one of the larger mandarins that follow plain gyul. Korea's farm agency (the Rural Development Administration) puts it in Nov-Dec.",
+    "eat": [],
+    "where": [
+      "Jeju (제주)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "hallabong",
+      "redhyang",
+      "cheonhyehyang"
+    ],
+    "sources": [
+      {
+        "label": "RDA",
+        "url": "https://www.rda.go.kr/middlePopOpenPopNongsaroDBView.do?no=1825"
+      }
+    ]
+  },
+  {
+    "id": "hallabong",
+    "ko": "한라봉",
+    "aka": [],
+    "rr": "hallabong",
+    "en": "Hallabong",
+    "phrase": "hallabong",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "01-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "A late-ripening citrus grown on Jeju. The farm agency gives Jan-Mar, but food merchandiser Kim Jin-yeong argues growers now pick it much earlier for price, so the true season has slid from Feb to late Nov.",
+    "eat": [],
+    "where": [
+      "Jeju (제주)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "caveat": "Two answers to one question. The agency's months are Jan-Mar, and Kim says picking has moved earlier.",
+    "related": [
+      "redhyang",
+      "cheonhyehyang",
+      "hwanggeumhyang"
+    ],
+    "sources": [
+      {
+        "label": "RDA",
+        "url": "https://www.rda.go.kr/middlePopOpenPopNongsaroDBView.do?no=1825"
+      },
+      {
+        "label": "Lady Khan",
+        "url": "https://lady.khan.co.kr/cooking/article/202511131620001"
+      }
+    ]
+  },
+  {
+    "id": "redhyang",
+    "ko": "레드향",
+    "aka": [],
+    "rr": "redhyang",
+    "en": "Red hyang",
+    "phrase": "redhyang",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "01-01",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "A late-ripening citrus that the farm agency lists for Jan-Feb. Feb 2024 shipments were 12,088 t, behind cheonhyehyang at 17,168 t and hallabong at 14,660 t.",
+    "eat": [],
+    "where": [
+      "Jeju (제주)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "hallabong",
+      "cheonhyehyang"
+    ],
+    "sources": [
+      {
+        "label": "RDA",
+        "url": "https://www.rda.go.kr/middlePopOpenPopNongsaroDBView.do?no=1825"
+      },
+      {
+        "label": "Yuga Crew",
+        "url": "https://www.yugacrew.com/crewletter/tangerine-types-open-field-greenhouse"
+      }
+    ]
+  },
+  {
+    "id": "cheonhyehyang",
+    "ko": "천혜향",
+    "aka": [],
+    "rr": "cheonhyehyang",
+    "en": "Cheonhyehyang",
+    "phrase": "cheonhyehyang",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "02-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "A late-ripening citrus that the farm agency lists for Feb-Mar. It was the biggest of the three big late citrus in Feb 2024, with 17,168 t shipped.",
+    "eat": [],
+    "where": [
+      "Jeju (제주)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "hallabong",
+      "redhyang"
+    ],
+    "sources": [
+      {
+        "label": "RDA",
+        "url": "https://www.rda.go.kr/middlePopOpenPopNongsaroDBView.do?no=1825"
+      },
+      {
+        "label": "Yuga Crew",
+        "url": "https://www.yugacrew.com/crewletter/tangerine-types-open-field-greenhouse"
+      }
+    ]
+  },
+  {
+    "id": "winteopeurinseu",
+    "ko": "윈터프린스",
+    "aka": [],
+    "rr": "winteopeurinseu",
+    "en": "Winter Prince",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "12-10",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Early Dec"
+      }
+    ],
+    "blurb": "A newer citrus bred by Korea's farm agency, which has it ripening in early December.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "minihyang",
+      "sarahyang",
+      "tambit-ilho"
+    ],
+    "sources": [
+      {
+        "label": "RDA",
+        "url": "https://www.rda.go.kr/middlePopOpenPopNongsaroDBView.do?no=1825"
+      }
+    ]
+  },
+  {
+    "id": "minihyang",
+    "ko": "미니향",
+    "aka": [],
+    "rr": "minihyang",
+    "en": "Minihyang",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "01-31",
+        "kind": "peak",
+        "mark": "sourced"
+      },
+      {
+        "from": "11-01",
+        "to": "11-30",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Start may fall in Nov"
+      }
+    ],
+    "blurb": "A newer citrus bred by Korea's farm agency. It starts in Nov or Dec and runs to January.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "caveat": "The agency gives the start as Nov or Dec, not one month.",
+    "related": [
+      "winteopeurinseu",
+      "sarahyang",
+      "tambit-ilho"
+    ],
+    "sources": [
+      {
+        "label": "RDA",
+        "url": "https://www.rda.go.kr/middlePopOpenPopNongsaroDBView.do?no=1825"
+      }
+    ]
+  },
+  {
+    "id": "sarahyang",
+    "ko": "사라향",
+    "aka": [],
+    "rr": "sarahyang",
+    "en": "Sarahyang",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "02-21",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Late Feb"
+      }
+    ],
+    "blurb": "A newer citrus bred by Korea's farm agency, which puts it in late February.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "winteopeurinseu",
+      "minihyang",
+      "tambit-ilho"
+    ],
+    "sources": [
+      {
+        "label": "RDA",
+        "url": "https://www.rda.go.kr/middlePopOpenPopNongsaroDBView.do?no=1825"
+      }
+    ]
+  },
+  {
+    "id": "tambit-ilho",
+    "ko": "탐빛1호",
+    "aka": [],
+    "rr": "tambitilho",
+    "en": "Tambit No. 1",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "03-21",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Late Mar-Apr"
+      }
+    ],
+    "blurb": "The last of the farm agency's newer citrus, ripening from late March into April. Karahyang follows it as the last citrus of the year.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "karahyang",
+      "sarahyang"
+    ],
+    "sources": [
+      {
+        "label": "RDA",
+        "url": "https://www.rda.go.kr/middlePopOpenPopNongsaroDBView.do?no=1825"
+      }
+    ]
+  },
+  {
+    "id": "karahyang",
+    "ko": "카라향",
+    "aka": [],
+    "rr": "karahyang",
+    "en": "Kara mandarin",
+    "phrase": "kara mandarins",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "05-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "A Japanese cross introduced in 2008, and the last citrus picked in Korea each year. It is sold as a premium gift. In 2025 the average price was 13,540 won per 3 kg.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "tambit-ilho",
+      "hauseugyul"
+    ],
+    "sources": [
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1042858"
+      }
+    ]
+  },
+  {
+    "id": "putgyul",
+    "ko": "풋귤",
+    "aka": [
+      "청귤"
+    ],
+    "rr": "putgyul",
+    "en": "Unripe green mandarin",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "08-01",
+        "to": "09-15",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Legal shipping window"
+      }
+    ],
+    "blurb": "Green, unripe mandarins. It is the only fruit with a legal season, Aug 1-Sep 15 under Jeju's rules. In 2026 the count was 233 households and 1,174 t. People use it for cheong syrup, juice, sauces and peel tea.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "caveat": "Shops often sell this fruit as cheonggyul, a different native citrus picked Mar-Apr.",
+    "related": [
+      "putgyul-cheong",
+      "cheonggyul",
+      "gyul"
+    ],
+    "sources": [
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1154680"
+      },
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1070007"
+      }
+    ]
+  },
+  {
+    "id": "cheonggyul",
+    "ko": "청귤",
+    "aka": [],
+    "rr": "cheonggyul",
+    "en": "Native green citrus",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "A native green citrus picked Mar-Apr in low volume, mainly for medicinal use. It is a different fruit from putgyul, though sellers blur the two.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "putgyul"
+    ],
+    "sources": [
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1070007"
+      }
+    ]
+  },
+  {
+    "id": "yuja",
+    "ko": "유자",
+    "aka": [],
+    "rr": "yuja",
+    "en": "Yuzu",
+    "phrase": "yuzu",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "A citrus made into syrup and tea. Harvest centres on Goheung, which holds a festival each November. People buy boxes at the harvest to make cheong syrup at home.",
+    "eat": [
+      "유자청, yuzu syrup",
+      "유자차, yuzu tea"
+    ],
+    "where": [
+      "Goheung (고흥)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Goheung Yuja Festival, Nov 12-15, 2026"
+    ],
+    "related": [
+      "yuja-cheong",
+      "yuja-cha"
+    ],
+    "sources": [
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      },
+      {
+        "label": "MCST listing",
+        "url": "https://www.mcst.go.kr/site/s_culture/festival/festivalList.jsp?pCurrentPage=12"
+      }
+    ]
+  },
+  {
+    "id": "hagyul",
+    "ko": "하귤",
+    "aka": [],
+    "rr": "hagyul",
+    "en": "Summer orange",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "05-01",
+        "to": "06-30",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "blurb": "A summer citrus. Its months come second-hand from a government fruit database, so treat the dates as a lead.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "caveat": "Hagyul and lemon are listed together as May-Jun and Oct-Jan. Pairing hagyul with May-Jun follows the order of the list, not a stated link.",
+    "related": [
+      "remon"
+    ],
+    "sources": [
+      {
+        "label": "Yuga Crew",
+        "url": "https://www.yugacrew.com/crewletter/seasonal-fruits-by-month"
+      }
+    ]
+  },
+  {
+    "id": "remon",
+    "ko": "레몬",
+    "aka": [],
+    "rr": "remon",
+    "en": "Lemon",
+    "phrase": "lemons",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "10-01",
+        "to": "01-31",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "blurb": "Lemon's Oct-Jan window is read second-hand from a government fruit database. No harvest source was found.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "caveat": "Hagyul and lemon are listed together as May-Jun and Oct-Jan. Pairing lemon with Oct-Jan follows the order of the list, not a stated link.",
+    "related": [
+      "hagyul"
+    ],
+    "sources": [
+      {
+        "label": "Yuga Crew",
+        "url": "https://www.yugacrew.com/crewletter/seasonal-fruits-by-month"
+      }
+    ]
+  },
+  {
+    "id": "jinjihyang",
+    "ko": "진지향",
+    "aka": [],
+    "rr": "jinjihyang",
+    "en": "Jinjihyang",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [],
+    "undated": [],
+    "blurb": "A mandarin hybrid that appears only in a list of late-ripening citrus (mangamryu). The pages checked give no season, so it stays off the calendar.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "hallabong"
+    ],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/진지향"
+      }
+    ]
+  },
+  {
+    "id": "geumgyul",
+    "ko": "금귤",
+    "aka": [],
+    "rr": "geumgyul",
+    "en": "Kumquat",
+    "phrase": "kumquats",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [],
+    "undated": [],
+    "blurb": "A small citrus eaten whole with the skin on, after a good wash. The pages checked give no season, so it stays off the calendar.",
+    "eat": [
+      "Whole with the skin, after washing"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/금귤"
+      }
+    ]
+  },
+  {
+    "id": "ttalgi",
+    "ko": "딸기",
+    "aka": [
+      "설향"
+    ],
+    "rr": "ttalgi",
+    "en": "Strawberry",
+    "phrase": "strawberries",
+    "lane": "fruit",
+    "tier": "national",
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Greenhouse season"
+      },
+      {
+        "from": "11-21",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "First flush tastes best"
+      },
+      {
+        "from": "02-21",
+        "to": "03-10",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Peak volume"
+      }
+    ],
+    "blurb": "Over 90% of Korean strawberries are greenhouse crops harvested Nov-Apr. The first flush tastes best, and volume peaks in the third flower cluster, late Feb to early Mar. The open-field season used to be May-Jun.",
+    "eat": [
+      "Fresh",
+      "딸기 케이크, strawberry cake"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "caveat": "Heat delayed November crops in 2024 and 2025.",
+    "related": [
+      "hotel-ttalgi-buffet",
+      "seongsimdang-ttalgi-siru"
+    ],
+    "sources": [
+      {
+        "label": "RDA",
+        "url": "https://www.rda.go.kr/webzine/2020/02/sub1-2.html"
+      },
+      {
+        "label": "Khan",
+        "url": "https://www.khan.co.kr/article/202402231500015"
+      },
+      {
+        "label": "Weekly Khan",
+        "url": "https://weekly.khan.co.kr/article/202512290600021"
+      }
+    ]
+  },
+  {
+    "id": "sandalgi",
+    "ko": "산딸기",
+    "aka": [],
+    "rr": "sandalgi",
+    "en": "Korean raspberry",
+    "phrase": "raspberries",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "06-20",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Peak quality and volume"
+      },
+      {
+        "from": "03-21",
+        "to": "06-30",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "On sale"
+      }
+    ],
+    "blurb": "Sold from late March, greenhouse fruit first and open-field fruit later. Peak quality is early to mid June, and then the fruit disappears fast. At Garak market, special-grade fruit fell from 55,519 won/kg in May to 32,943 won/kg for Jun 1-11, 2026.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Hankyung",
+        "url": "https://www.hankyung.com/article/202606123536i"
+      }
+    ]
+  },
+  {
+    "id": "odi",
+    "ko": "오디",
+    "aka": [],
+    "rr": "odi",
+    "en": "Mulberry",
+    "phrase": "mulberries",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "06-20",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "Mulberries ripen in early to mid June and finish by mid to late June.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "KoreaScience",
+        "url": "https://koreascience.kr/article/JAKO201718837036874.pdf"
+      }
+    ]
+  },
+  {
+    "id": "bokbunja",
+    "ko": "복분자",
+    "aka": [],
+    "rr": "bokbunja",
+    "en": "Korean black raspberry",
+    "phrase": "bokbunja",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "07-10",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "A black raspberry picked about four times between early June and early July. A 2016 newspaper report said prices had collapsed that year.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Seoul Shinmun",
+        "url": "https://m.go.seoul.co.kr/news/2016/06/09/20160609500142"
+      }
+    ]
+  },
+  {
+    "id": "blueberry",
+    "ko": "블루베리",
+    "aka": [],
+    "rr": "blueberry",
+    "en": "Blueberry",
+    "phrase": "blueberries",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "07-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Jun-Jul"
+      },
+      {
+        "from": "08-01",
+        "to": "09-30",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Jul-Sep in other sources"
+      }
+    ],
+    "blurb": "Sources split between Jun-Jul and Jul-Sep. The early Northland type matures in early June, and greenhouse fruit appears from March.",
+    "eat": [
+      "Fresh with milk or yogurt",
+      "Smoothie, jam, or 청"
+    ],
+    "where": [
+      "Jeongeup (정읍)",
+      "Pyeongtaek (평택)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "caveat": "One wiki's list says Jul-Sep, while a travel guide says Jun-Jul.",
+    "related": [],
+    "sources": [
+      {
+        "label": "Zuzu guide",
+        "url": "https://zuzu-travel.pages.dev/food/korea-seasonal-fruits-guide/"
+      },
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      }
+    ]
+  },
+  {
+    "id": "cherry",
+    "ko": "체리",
+    "aka": [
+      "국산 체리"
+    ],
+    "rr": "cheri",
+    "en": "Domestic cherry",
+    "phrase": "cherries",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "05-21",
+        "to": "06-20",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "Korean-grown cherries ripen from late May to mid June. Gyeongju is the largest region, with 70 ha and about 10% of national output.",
+    "eat": [],
+    "where": [
+      "Gyeongju (경주)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "경북매일",
+        "url": "https://www.kbmaeil.com/article/20260531500058"
+      }
+    ]
+  },
+  {
+    "id": "aengdu",
+    "ko": "앵두",
+    "aka": [],
+    "rr": "aengdu",
+    "en": "Nanking cherry",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "05-21",
+        "to": "06-30",
+        "kind": "peak",
+        "mark": "weak"
+      }
+    ],
+    "blurb": "A small fruit with a short shelf life, so little reaches shops. People make jam, syrup, liqueur and tea. Don't chew the seed.",
+    "eat": [
+      "앵두청, fruit syrup",
+      "앵두주, fruit liqueur"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/앵두"
+      }
+    ]
+  },
+  {
+    "id": "beojji",
+    "ko": "버찌",
+    "aka": [],
+    "rr": "beojji",
+    "en": "Street-tree cherry",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "05-01",
+        "to": "07-31",
+        "kind": "peak",
+        "mark": "weak"
+      }
+    ],
+    "blurb": "The fruit of ornamental cherry trees on streets and hillsides. It is foraged rather than sold. Hobbyists steep it in soju, at about 1 part fruit to 1 part sugar to 2 parts soju, for 3-4 months.",
+    "eat": [
+      "버찌주, fruit liqueur",
+      "Jam or juice"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/버찌"
+      }
+    ]
+  },
+  {
+    "id": "salgu",
+    "ko": "살구",
+    "aka": [],
+    "rr": "salgu",
+    "en": "Apricot",
+    "phrase": "apricots",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "07-31",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "blurb": "Encyclopedias give no month for apricots. The Jun-Jul window comes only from a government fruit database.",
+    "eat": [
+      "Fresh",
+      "Jam",
+      "Dried"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "caveat": "Only that one database gives the window.",
+    "related": [],
+    "sources": [
+      {
+        "label": "Yuga Crew",
+        "url": "https://www.yugacrew.com/crewletter/seasonal-fruits-by-month"
+      }
+    ]
+  },
+  {
+    "id": "bipa",
+    "ko": "비파",
+    "aka": [],
+    "rr": "bipa",
+    "en": "Loquat",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [],
+    "undated": [
+      "summer"
+    ],
+    "blurb": "A fruit grown in Wando greenhouses since 2010, about 130 t a year in 2022. Namhae and Geoje grow it outdoors. No source gives a Korean harvest month.",
+    "eat": [
+      "Peeled and eaten around the large seed"
+    ],
+    "where": [
+      "Wando (완도)",
+      "Namhae (남해)",
+      "Geoje (거제)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "caveat": "Sources disagree. One wiki implies summer, while Korean Wikipedia says late winter to early spring.",
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/비파나무"
+      }
+    ]
+  },
+  {
+    "id": "maesil",
+    "ko": "매실",
+    "aka": [
+      "청매",
+      "황매"
+    ],
+    "rr": "maesil",
+    "en": "Green plum",
+    "phrase": "green plums",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "05-21",
+        "to": "06-20",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Harvest"
+      },
+      {
+        "from": "06-05",
+        "to": "06-20",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Best buying window"
+      }
+    ],
+    "blurb": "Green plums are picked from late May to mid June, and people buy them Jun 5-20 to make maesil syrup. Yellow hwangmae comes after the mangjong solar term. Korea's food safety ministry says ripe hwangmae cuts cyanide compounds by about 70%.",
+    "eat": [
+      "매실청, plum syrup"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "maesil-cheong"
+    ],
+    "sources": [
+      {
+        "label": "Fanmaum",
+        "url": "https://fanmaum.com/community/info-sharing/131870523"
+      },
+      {
+        "label": "매일신문",
+        "url": "https://www.imaeil.com/page/view/2016060818171004256"
+      },
+      {
+        "label": "Food Today",
+        "url": "https://www.foodtoday.or.kr/news/article.html?no=205059"
+      }
+    ]
+  },
+  {
+    "id": "sinbi-boksunga",
+    "ko": "신비복숭아",
+    "aka": [
+      "신비"
+    ],
+    "rr": "sinbiboksunga",
+    "en": "Nectarine-skin peach",
+    "phrase": "sinbi peaches",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "06-11",
+        "to": "06-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "A peach with nectarine-like skin that opens the peach season. It sells out in about 10 days, which shoppers call bokketing, a mash-up of boksunga (peach) and ticketing.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "boksunga"
+    ],
+    "sources": [
+      {
+        "label": "Vegan News",
+        "url": "https://www.vegannews.co.kr/news/article.html?no=383740"
+      },
+      {
+        "label": "Daum",
+        "url": "https://v.daum.net/v/4Vv4K26hl8?f=p"
+      }
+    ]
+  },
+  {
+    "id": "boksunga",
+    "ko": "복숭아",
+    "aka": [],
+    "rr": "boksunga",
+    "en": "Peach",
+    "phrase": "peaches",
+    "lane": "fruit",
+    "tier": "national",
+    "windows": [
+      {
+        "from": "07-01",
+        "to": "09-20",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "Peaches arrive in a relay of cultivars, each lasting about 15 days. Changbangjosaeng comes in mid Jul, mibaekdo in late Jul, cheonjungdo in mid Aug and janghowon-hwangdo in early to mid Sep. Ttakbok is firm and mulbok is soft.",
+    "eat": [],
+    "where": [
+      "Jangho-won (장호원)",
+      "Chungju (충주)",
+      "Wonju (원주)",
+      "Cheongdo (청도)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "sinbi-boksunga"
+    ],
+    "sources": [
+      {
+        "label": "경기일보",
+        "url": "https://www.kyeonggi.com/article/201208270469644"
+      },
+      {
+        "label": "Vogue",
+        "url": "https://www.vogue.co.kr/?p=225737"
+      }
+    ]
+  },
+  {
+    "id": "jadu",
+    "ko": "자두",
+    "aka": [],
+    "rr": "jadu",
+    "en": "Plum",
+    "phrase": "plums",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "07-11",
+        "to": "08-10",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "Plums run from mid July to early August. Gimcheon leads, with daeseok first and humusa after.",
+    "eat": [],
+    "where": [
+      "Gimcheon (김천)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "매일신문",
+        "url": "https://www.imaeil.com/page/view/2010072110543304792"
+      }
+    ]
+  },
+  {
+    "id": "chamoe",
+    "ko": "참외",
+    "aka": [],
+    "rr": "chamoe",
+    "en": "Korean melon",
+    "phrase": "Korean melons",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "05-01",
+        "to": "07-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "A melon from Seongju, which supplies roughly 80-85% of the national crop. Greenhouse fruit starts early, and the first Seongju fruit of 2026 shipped on Jan 19.",
+    "eat": [],
+    "where": [
+      "Seongju (성주)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Seongju Chamoe & Life Culture Festival, May 14-17, 2026"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1112453"
+      },
+      {
+        "label": "Zuzu guide",
+        "url": "https://zuzu-travel.pages.dev/food/korea-seasonal-fruits-guide/"
+      }
+    ]
+  },
+  {
+    "id": "subak",
+    "ko": "수박",
+    "aka": [],
+    "rr": "subak",
+    "en": "Watermelon",
+    "phrase": "watermelon",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "Watermelon in season from June to August, with August the tail. Gochang held its official shipping ceremony on Jun 5, 2025, for fruit of 7-9 kg and 13 Brix or more.",
+    "eat": [],
+    "where": [
+      "Gochang (고창)",
+      "Haman (함안)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "전북일보",
+        "url": "https://www.jjan.kr/articleAmp/20250605580035"
+      },
+      {
+        "label": "Zuzu guide",
+        "url": "https://zuzu-travel.pages.dev/food/korea-seasonal-fruits-guide/"
+      }
+    ]
+  },
+  {
+    "id": "melon",
+    "ko": "멜론",
+    "aka": [],
+    "rr": "melon",
+    "en": "Melon",
+    "phrase": "melons",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "07-01",
+        "to": "09-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "Sold all year, with the best months Jul-Sep. Gokseong fruit starts from mid May.",
+    "eat": [],
+    "where": [
+      "Gokseong (곡성)",
+      "Naju (나주)",
+      "Buyeo (부여)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Hankyung",
+        "url": "https://www.hankyung.com/article/2026040877761"
+      }
+    ]
+  },
+  {
+    "id": "daejeo-tomato",
+    "ko": "대저토마토",
+    "aka": [
+      "짭짤이",
+      "짭짤이토마토"
+    ],
+    "rr": "daejeotomato",
+    "en": "Saline-soil tomato",
+    "phrase": "Daejeo tomatoes",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "02-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Season"
+      },
+      {
+        "from": "03-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Peak"
+      }
+    ],
+    "blurb": "A tomato from salty, brackish soil in Gangseo, Busan, and it tastes a little salty. The official name is Daejeo tomato, but outside Daejeo-dong it is called jjapjjari. The harvest starts in Feb and peaks in March.",
+    "eat": [],
+    "where": [
+      "Gangseo, Busan (부산 강서)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Hankyoreh",
+        "url": "https://v.daum.net/v/20240330120513141?f=p"
+      }
+    ]
+  },
+  {
+    "id": "bangul-tomato",
+    "ko": "방울토마토",
+    "aka": [],
+    "rr": "bangultomato",
+    "en": "Cherry tomato",
+    "phrase": "cherry tomatoes",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [],
+    "undated": [
+      "summer"
+    ],
+    "blurb": "Greenhouses grow cherry tomatoes all year, so no month marks the season. The government farm portal lists it in March, and one wiki calls it a summer fruit.",
+    "eat": [
+      "Raw",
+      "Wrapped in pork on skewers",
+      "Oven-roasted"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/방울토마토"
+      },
+      {
+        "label": "농사로 3월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=3"
+      }
+    ]
+  },
+  {
+    "id": "aepeul-mango",
+    "ko": "애플망고",
+    "aka": [],
+    "rr": "aepeulmango",
+    "en": "Domestic apple mango",
+    "phrase": "apple mangoes",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "07-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "A domestic mango led by Jeju that ships mostly Jun-Jul. In 2023, early Gangjin fruit sold above 300,000 won per 3 kg, against a June average near 100,000 won.",
+    "eat": [],
+    "where": [
+      "Jeju (제주)",
+      "Gangjin (강진)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Metro",
+        "url": "https://www.metroseoul.co.kr/article/20230328500261"
+      }
+    ]
+  },
+  {
+    "id": "seomeoking",
+    "ko": "썸머킹",
+    "aka": [
+      "사과"
+    ],
+    "rr": "seomeoking",
+    "en": "Summer King apple",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "07-11",
+        "to": "07-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Mid-late Jul"
+      }
+    ],
+    "blurb": "An early apple that is replacing aori as the first of the year. It is ready in mid to late July.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "aori"
+    ],
+    "sources": [
+      {
+        "label": "RDA",
+        "url": "https://rda.go.kr/webzine/2022/08/sub2-2.html"
+      }
+    ]
+  },
+  {
+    "id": "aori",
+    "ko": "아오리",
+    "aka": [
+      "사과",
+      "쓰가루"
+    ],
+    "rr": "aori",
+    "en": "Tsugaru apple",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "08-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "An early apple sold in August. Korea's farm agency puts it in late August, and Summer King is replacing it.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "caveat": "Sources say Aug, and late Aug from the farm agency.",
+    "related": [
+      "seomeoking",
+      "hongro"
+    ],
+    "sources": [
+      {
+        "label": "RDA",
+        "url": "https://rda.go.kr/webzine/2022/08/sub2-2.html"
+      }
+    ]
+  },
+  {
+    "id": "hongro",
+    "ko": "홍로",
+    "aka": [
+      "사과"
+    ],
+    "rr": "hongro",
+    "en": "Hongro apple",
+    "phrase": "hongro apples",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "09-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "The Chuseok apple, named for the autumn harvest holiday. It ripens in September, around the holiday. In 2026 the crop ripened early, according to a news agency.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "aori",
+      "sinanogoldeu"
+    ],
+    "sources": [
+      {
+        "label": "RDA",
+        "url": "https://rda.go.kr/webzine/2022/08/sub2-2.html"
+      },
+      {
+        "label": "Newsis",
+        "url": "https://www.newsis.com/view/NISX20260907_0003778459"
+      }
+    ]
+  },
+  {
+    "id": "sinanogoldeu",
+    "ko": "시나노골드",
+    "aka": [
+      "사과"
+    ],
+    "rr": "sinanogoldeu",
+    "en": "Shinano Gold apple",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "10-01",
+        "to": "10-20",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "A late-season apple that ripens in early to mid October. A news site puts it in early Oct. It sits between hongro and buse in the ripening order.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "gamhong",
+      "buse"
+    ],
+    "sources": [
+      {
+        "label": "RDA",
+        "url": "https://www.rda.go.kr/middlePopOpenPopNongsaroDBView.do?no=2038"
+      },
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1078641"
+      }
+    ]
+  },
+  {
+    "id": "gamhong",
+    "ko": "감홍",
+    "aka": [
+      "사과"
+    ],
+    "rr": "gamhong",
+    "en": "Gamhong apple",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "10-01",
+        "to": "10-20",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "A late-season apple that Korea's farm agency places in early to mid October. It ripens alongside Shinano Gold.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "sinanogoldeu",
+      "buse"
+    ],
+    "sources": [
+      {
+        "label": "RDA",
+        "url": "https://www.rda.go.kr/middlePopOpenPopNongsaroDBView.do?no=2038"
+      },
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1078641"
+      }
+    ]
+  },
+  {
+    "id": "buse",
+    "ko": "부사",
+    "aka": [
+      "사과",
+      "후지"
+    ],
+    "rr": "buse",
+    "en": "Fuji apple",
+    "phrase": "Fuji apples",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "10-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "weak"
+      }
+    ],
+    "blurb": "The last apple in the ripening order. Only one low-authority guide gives a month, Oct-Nov, and it names Cheongsong.",
+    "eat": [],
+    "where": [
+      "Cheongsong (청송)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "caveat": "No official month was found.",
+    "related": [
+      "sinanogoldeu"
+    ],
+    "sources": [
+      {
+        "label": "Zuzu guide",
+        "url": "https://zuzu-travel.pages.dev/food/korea-seasonal-fruits-guide/"
+      }
+    ]
+  },
+  {
+    "id": "wonhwang",
+    "ko": "원황",
+    "aka": [
+      "원황배",
+      "배"
+    ],
+    "rr": "wonhwang",
+    "en": "Early pear",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "08-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "An early pear that ships mainly in August, ahead of singo at Chuseok, the autumn harvest holiday.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "singo"
+    ],
+    "sources": [
+      {
+        "label": "MAFRA",
+        "url": "https://www.mafra.go.kr/bbs/home/793/578992/artclView.do"
+      }
+    ]
+  },
+  {
+    "id": "singo",
+    "ko": "신고",
+    "aka": [
+      "배",
+      "신고배"
+    ],
+    "rr": "singo",
+    "en": "Niitaka pear",
+    "phrase": "Niitaka pears",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "The standard Korean pear, in season Sep-Nov. In 2026 full supply began in the second week of September, when daily volume rose from 17.8 t to 137.5 t. Naju is the named region.",
+    "eat": [],
+    "where": [
+      "Naju (나주)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "wonhwang"
+    ],
+    "sources": [
+      {
+        "label": "MAFRA",
+        "url": "https://www.mafra.go.kr/bbs/home/793/578992/artclView.do"
+      },
+      {
+        "label": "Zuzu guide",
+        "url": "https://zuzu-travel.pages.dev/food/korea-seasonal-fruits-guide/"
+      }
+    ]
+  },
+  {
+    "id": "kaembel-eolli",
+    "ko": "캠벨얼리",
+    "aka": [
+      "포도"
+    ],
+    "rr": "kaembeleolli",
+    "en": "Campbell grape",
+    "phrase": "Campbell grapes",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "08-01",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "weak"
+      }
+    ],
+    "blurb": "A Campbell Early grape. The only month source is a low-authority guide that gives Aug-Oct, so treat that as a lead.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "geobong",
+      "syainmeoskaet"
+    ],
+    "sources": [
+      {
+        "label": "Zuzu guide",
+        "url": "https://zuzu-travel.pages.dev/food/korea-seasonal-fruits-guide/"
+      }
+    ]
+  },
+  {
+    "id": "geobong",
+    "ko": "거봉",
+    "aka": [
+      "포도"
+    ],
+    "rr": "geobong",
+    "en": "Kyoho grape",
+    "phrase": "Kyoho grapes",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "08-21",
+        "to": "09-20",
+        "kind": "peak",
+        "mark": "weak"
+      }
+    ],
+    "blurb": "A Kyoho grape, sourced to a single wiki page. It runs late Aug to mid Sep.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "kaembel-eolli",
+      "syainmeoskaet"
+    ],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/거봉"
+      }
+    ]
+  },
+  {
+    "id": "syainmeoskaet",
+    "ko": "샤인머스캣",
+    "aka": [
+      "포도"
+    ],
+    "rr": "syainmeoskaet",
+    "en": "Shine Muscat",
+    "phrase": "Shine Muscat grapes",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "weak"
+      }
+    ],
+    "blurb": "Sold Sep-Dec, though that window is weakly sourced. Retail price was 16,572 won per 2 kg on Sep 2, 2026, 41.1% below Sep 2023. Sangju and Gimcheon are the named regions.",
+    "eat": [],
+    "where": [
+      "Sangju (상주)",
+      "Gimcheon (김천)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "kaembel-eolli",
+      "geobong"
+    ],
+    "sources": [
+      {
+        "label": "Zuzu guide",
+        "url": "https://zuzu-travel.pages.dev/food/korea-seasonal-fruits-guide/"
+      },
+      {
+        "label": "Asiae",
+        "url": "https://view.asiae.co.kr/article/2026090414142439581"
+      }
+    ]
+  },
+  {
+    "id": "muhwagwa",
+    "ko": "무화과",
+    "aka": [],
+    "rr": "muhwagwa",
+    "en": "Fig",
+    "phrase": "figs",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "08-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Peak"
+      },
+      {
+        "from": "07-11",
+        "to": "10-31",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Shipping run"
+      }
+    ],
+    "blurb": "Figs ship from mid July to October, with August as the peak. Yeongam is the main region. Jeonnam province grew from 673 ha and 6,570 t in 2020 to 741 ha and 11,530 t in 2025.",
+    "eat": [],
+    "where": [
+      "Yeongam (영암)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Yeongam Fig Festival, Sep 4-6, 2026"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1153178"
+      },
+      {
+        "label": "MTN",
+        "url": "https://news.mtn.co.kr/news-detail/2026101423311234494"
+      }
+    ]
+  },
+  {
+    "id": "dangam",
+    "ko": "단감",
+    "aka": [
+      "감"
+    ],
+    "rr": "dangam",
+    "en": "Sweet persimmon",
+    "phrase": "sweet persimmons",
+    "lane": "fruit",
+    "tier": "national",
+    "windows": [
+      {
+        "from": "10-01",
+        "to": "11-10",
+        "kind": "peak",
+        "mark": "sourced"
+      },
+      {
+        "from": "09-21",
+        "to": "09-30",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Early 서촌조생"
+      }
+    ],
+    "blurb": "A crisp persimmon eaten while firm. Buyu, the main cultivar, ripens late Oct to early Nov and keeps 4-5 months in cold storage. The early seochonjosaeng from late Sep is a weak type.",
+    "eat": [
+      "Raw and crisp"
+    ],
+    "where": [
+      "Changwon (창원)",
+      "Jinyeong (진영)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "caveat": "A rural economics institute forecast 2026 output down 14.1% after heat and drought.",
+    "related": [
+      "daebong",
+      "gotgam"
+    ],
+    "sources": [
+      {
+        "label": "산림청",
+        "url": "https://forest.go.kr/kfs/images/data/down/imsan/imsan_01_02.pdf"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/감"
+      }
+    ]
+  },
+  {
+    "id": "daebong",
+    "ko": "대봉",
+    "aka": [
+      "홍시",
+      "대봉감"
+    ],
+    "rr": "daebong",
+    "en": "Daebong astringent persimmon",
+    "phrase": "daebong persimmons",
+    "lane": "fruit",
+    "tier": "national",
+    "windows": [
+      {
+        "from": "10-21",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "est",
+        "label": "Inferred late Oct"
+      }
+    ],
+    "blurb": "A large astringent persimmon bred for hongsi, the soft ripe kind. Hadong Akyang and Yeongam both hold protected geographical indications. No source names its months.",
+    "eat": [
+      "홍시, soft ripe persimmon"
+    ],
+    "where": [
+      "Hadong Akyang (하동 악양)",
+      "Yeongam (영암)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "caveat": "The late Oct window is inferred from other large astringent types.",
+    "related": [
+      "dangam",
+      "gotgam"
+    ],
+    "sources": [
+      {
+        "label": "산림청",
+        "url": "https://forest.go.kr/kfs/images/data/down/imsan/imsan_01_02.pdf"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/감"
+      }
+    ]
+  },
+  {
+    "id": "cheongdo-bansi",
+    "ko": "청도 반시",
+    "aka": [
+      "반시"
+    ],
+    "rr": "cheongdobansi",
+    "en": "Seedless astringent persimmon",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "10-21",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "A seedless astringent persimmon unique to Cheongdo. It ripens in late October, and a festival runs each October.",
+    "eat": [],
+    "where": [
+      "Cheongdo (청도)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Cheongdo Bansi Festival, Oct 16-18, 2026"
+    ],
+    "related": [
+      "dangam",
+      "gotgam"
+    ],
+    "sources": [
+      {
+        "label": "산림청",
+        "url": "https://forest.go.kr/kfs/images/data/down/imsan/imsan_01_02.pdf"
+      },
+      {
+        "label": "경북매일",
+        "url": "https://kbmaeil.com/article/20261003500065"
+      }
+    ]
+  },
+  {
+    "id": "kiwi",
+    "ko": "키위",
+    "aka": [
+      "참다래"
+    ],
+    "rr": "kiwi",
+    "en": "Kiwifruit",
+    "phrase": "kiwis",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "10-21",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "Picked from late Oct to late Nov and then left to ripen further. Chamdarae is the name given to Korean kiwifruit. Haenam gold kiwi is picked late Oct to early Nov.",
+    "eat": [],
+    "where": [
+      "Haenam (해남)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Yuga Wiki",
+        "url": "https://www.yugacrew.com/yugawiki/%EC%B0%B8%EB%8B%A4%EB%9E%98"
+      }
+    ]
+  },
+  {
+    "id": "mogwa",
+    "ko": "모과",
+    "aka": [],
+    "rr": "mogwa",
+    "en": "Chinese quince",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "weak"
+      }
+    ],
+    "blurb": "Chinese quince, which reaches markets from early October. The guide behind that date is about making quince liqueur.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "caveat": "The months rest on a blog and a 1993 article.",
+    "related": [],
+    "sources": [
+      {
+        "label": "Braindetox",
+        "url": "https://braindetox.kr/posts/quince_benefits_liquor_guide.html"
+      },
+      {
+        "label": "Seoul Shinmun",
+        "url": "https://www.seoul.co.kr/news/1993/10/28/19931028013001"
+      }
+    ]
+  },
+  {
+    "id": "omija",
+    "ko": "오미자",
+    "aka": [],
+    "rr": "omija",
+    "en": "Schisandra",
+    "phrase": "omija berries",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "09-11",
+        "to": "09-30",
+        "kind": "peak",
+        "mark": "sourced"
+      },
+      {
+        "from": "09-01",
+        "to": "10-31",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "청 made"
+      }
+    ],
+    "blurb": "A red berry picked in mid to late September. People make cheong syrup in Sep-Oct. Mungyeong is the best-known source.",
+    "eat": [
+      "오미자청, syrup"
+    ],
+    "where": [
+      "Mungyeong (문경)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "omija-cheong"
+    ],
+    "sources": [
+      {
+        "label": "경북매일",
+        "url": "https://kbmaeil.com/article/202409110405204"
+      }
+    ]
+  },
+  {
+    "id": "darae",
+    "ko": "다래",
+    "aka": [],
+    "rr": "darae",
+    "en": "Hardy kiwi",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "A small wild kiwi that ripens in Sep-Oct. Cultivated fruit comes late Aug to early Oct.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "meoru"
+    ],
+    "sources": [
+      {
+        "label": "산림청",
+        "url": "https://forest.go.kr/kfs/images/data/down/imsan/imsan_01_08.pdf"
+      }
+    ]
+  },
+  {
+    "id": "meoru",
+    "ko": "머루",
+    "aka": [],
+    "rr": "meoru",
+    "en": "Wild grape",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "A wild grape that blackens in September, with seeds ripe in Sep-Oct.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "darae"
+    ],
+    "sources": [
+      {
+        "label": "산림청",
+        "url": "https://www.forest.go.kr/kfs/images/data/down/imsan/imsan_01_10.pdf"
+      }
+    ]
+  },
+  {
+    "id": "sansuyu",
+    "ko": "산수유",
+    "aka": [],
+    "rr": "sansuyu",
+    "en": "Cornelian cherry",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "11-11",
+        "to": "11-20",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "Cornelian cherry from Gurye, where the harvest was in full swing in mid November in 2020.",
+    "eat": [],
+    "where": [
+      "Gurye (구례)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Asiae",
+        "url": "https://www.asiae.co.kr/en/article/2020111810465612486"
+      }
+    ]
+  },
+  {
+    "id": "seongnyu",
+    "ko": "석류",
+    "aka": [],
+    "rr": "seongnyu",
+    "en": "Pomegranate",
+    "phrase": "pomegranates",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "weak"
+      }
+    ],
+    "blurb": "The Sep-Dec window is a season of sale, not a harvest date. Sour types are sold as juice or concentrate, and sweet types are mostly imported. Goheung holds the geographical indication.",
+    "eat": [
+      "Juice or concentrate",
+      "화채, fruit punch"
+    ],
+    "where": [
+      "Goheung (고흥)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/석류"
+      },
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      }
+    ]
+  },
+  {
+    "id": "bam",
+    "ko": "밤",
+    "aka": [
+      "밤나무 열매"
+    ],
+    "rr": "bam",
+    "en": "Chestnut",
+    "phrase": "chestnuts",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "09-30",
+        "kind": "peak",
+        "mark": "sourced"
+      },
+      {
+        "from": "08-21",
+        "to": "10-15",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Harvest run"
+      }
+    ],
+    "blurb": "Chestnuts ripen from late August for the earliest types, and late types after late September. Buyers usually start about Sep 1. One wiki says the months after harvest suit eating best.",
+    "eat": [
+      "군밤, roasted chestnuts",
+      "찐밤, steamed chestnuts",
+      "약밤, sweet glazed chestnut"
+    ],
+    "where": [
+      "Gongju (공주)",
+      "Cheongyang (청양)",
+      "Chungju (충주)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "gunbam"
+    ],
+    "sources": [
+      {
+        "label": "산림청",
+        "url": "https://forest.go.kr/kfs/images/data/down/imsan/imsan_01_03.pdf"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/밤%28열매%29"
+      }
+    ]
+  },
+  {
+    "id": "daechu",
+    "ko": "대추",
+    "aka": [],
+    "rr": "daechu",
+    "en": "Jujube",
+    "phrase": "jujubes",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "10-01",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "blurb": "No source gives its months, so October is an estimate from festival timing in Boeun and Gyeongsan. Boeun's fresh output in 2025 was forecast at about 1,982 t, up 27%.",
+    "eat": [],
+    "where": [
+      "Boeun (보은)",
+      "Gyeongsan (경산)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Boeun Jujube Festival, Oct 16-25, 2026"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "Travel Map",
+        "url": "https://travelmapjourney.com/boeun-jujube-festival-2026-daily-guide/"
+      },
+      {
+        "label": "리컴에리어",
+        "url": "https://recomarea.com/festival/FestivalMain?month=10"
+      }
+    ]
+  },
+  {
+    "id": "hodu",
+    "ko": "호두",
+    "aka": [],
+    "rr": "hodu",
+    "en": "Walnut",
+    "phrase": "walnuts",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "09-11",
+        "to": "10-10",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "Walnuts are picked from mid September to early October, depending on cultivar. Cheonan Gwangdeok is the historic name.",
+    "eat": [],
+    "where": [
+      "Muju (무주)",
+      "Gimcheon (김천)",
+      "Cheonan Gwangdeok (천안 광덕)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "산림과학원",
+        "url": "https://nifos.forest.go.kr/kfs/images/data/down/imsan/imsan_01_05.pdf"
+      }
+    ]
+  },
+  {
+    "id": "jat",
+    "ko": "잣",
+    "aka": [
+      "백잣"
+    ],
+    "rr": "jat",
+    "en": "Korean pine nut",
+    "phrase": "pine nuts",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Cones picked"
+      }
+    ],
+    "blurb": "Pine nuts come from cones picked in Sep-Oct. Gapyeong output fell from 2,205 t in 2014 to 24 t in 2023. A kilo of cones yields only about 50-60 g of shelled nuts.",
+    "eat": [
+      "Raw",
+      "On 식혜 or 수정과, sweet drinks",
+      "In 죽, rice porridge"
+    ],
+    "where": [
+      "Gapyeong (가평)",
+      "Hongcheon (홍천)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "산림청",
+        "url": "https://forest.go.kr/kfs/images/data/down/imsan/imsan_01_04.pdf"
+      },
+      {
+        "label": "Hankyung",
+        "url": "https://www.hankyung.com/article/202506196521Y"
+      }
+    ]
+  },
+  {
+    "id": "eunhaeng",
+    "ko": "은행",
+    "aka": [],
+    "rr": "eunhaeng",
+    "en": "Ginkgo nut",
+    "phrase": "ginkgo nuts",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "10-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "The nuts are gathered when the fruit falls, Oct-Nov. Limit how many you eat. One wiki says adults should stay under about 20 a day, and Korean Wikipedia warns children against 5 or more a day.",
+    "eat": [
+      "Roasted or pan-fried with salt",
+      "삼계탕, chicken soup"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "산림청",
+        "url": "https://forest.go.kr/kfs/images/data/down/imsan/imsan_01_06.pdf"
+      }
+    ]
+  },
+  {
+    "id": "ttangkong",
+    "ko": "땅콩",
+    "aka": [],
+    "rr": "ttangkong",
+    "en": "Peanut",
+    "phrase": "peanuts",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "10-11",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "weak"
+      }
+    ],
+    "blurb": "Harvested mid to late October, sourced to two wiki pages. Udo island off Jeju is the named origin. In Gyeongsang province people eat them boiled in salt water.",
+    "eat": [
+      "Boiled in salt",
+      "Roasted",
+      "땅콩조림, sweet braised peanuts"
+    ],
+    "where": [
+      "Udo, Jeju (제주 우도)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/땅콩"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/땅콩"
+      }
+    ]
+  },
+  {
+    "id": "banana",
+    "ko": "바나나",
+    "aka": [],
+    "rr": "banana",
+    "en": "Banana",
+    "phrase": "bananas",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [],
+    "noSeason": true,
+    "blurb": "Imported all year. Domestic growing is trial scale, in Jeju greenhouses and a few other places, so it has no season.",
+    "eat": [],
+    "where": [
+      "Seogwipo (서귀포)",
+      "Jindo (진도)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "painaepeul"
+    ],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/바나나"
+      }
+    ]
+  },
+  {
+    "id": "painaepeul",
+    "ko": "파인애플",
+    "aka": [],
+    "rr": "painaepeul",
+    "en": "Pineapple",
+    "phrase": "pineapples",
+    "lane": "fruit",
+    "tier": "known",
+    "windows": [],
+    "noSeason": true,
+    "blurb": "Mostly imported from the Philippines and Thailand, so it has no season. The first domestic harvest was in 1964, and imports took over from the 1980s.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "banana"
+    ],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/파인애플"
+      }
+    ]
+  },
+  {
+    "id": "paesyeonpeuruteu",
+    "ko": "패션프루트",
+    "aka": [],
+    "rr": "paesyeonpeuruteu",
+    "en": "Passion fruit",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [],
+    "undated": [],
+    "blurb": "No source gives a season for passion fruit, so it stays off the calendar.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": []
+  },
+  {
+    "id": "peulleomkoteu",
+    "ko": "플럼코트",
+    "aka": [],
+    "rr": "peulleomkoteu",
+    "en": "Plumcot",
+    "lane": "fruit",
+    "tier": "local",
+    "windows": [],
+    "undated": [],
+    "blurb": "No source gives a season for plumcot, so it stays off the calendar.",
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": []
+  }
+]

@@ -1,0 +1,1006 @@
+[
+  {
+    "aka": [
+      "잉어빵"
+    ],
+    "eat": [
+      "붕어빵, red-bean fish bread",
+      "잉어빵, carp-shaped bread with richer batter"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "gyeranppang",
+      "gukhwappang",
+      "patbingsu"
+    ],
+    "lane": "street",
+    "id": "bungeoppang",
+    "ko": "붕어빵",
+    "rr": "bungeoppang",
+    "en": "Fish-shaped bread",
+    "phrase": "fish-shaped bread",
+    "tier": "national",
+    "windows": [
+      {
+        "from": "10-11",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "est",
+        "label": "First cold snap onward"
+      }
+    ],
+    "blurb": "Fish-shaped pastry filled with red bean, sold from street carts once the weather turns cold. Carp bread (ingeoppang, 잉어빵) is the same idea with a richer butter or oil batter and filling that reaches the tail.",
+    "caveat": "No source gives a start or end date for the carts, so these months are an estimate.",
+    "sources": [
+      {
+        "label": "Daum",
+        "url": "https://v.daum.net/v/bCJxZryPyd"
+      },
+      {
+        "label": "eToday",
+        "url": "https://www.etoday.co.kr/news/view/2516237"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/붕어빵"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [
+      "호빵, steamed bun with red bean or other fillings"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "bungeoppang",
+      "eomuk"
+    ],
+    "lane": "street",
+    "id": "hoppang",
+    "ko": "호빵",
+    "rr": "hoppang",
+    "en": "Steamed bun",
+    "phrase": "steamed buns",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "10-11",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Sale window"
+      }
+    ],
+    "blurb": "Soft steamed bun with red bean or other fillings, kept hot in steamers at convenience stores and shops. Samlip first sold it in October 1971, and the sale season runs from mid-October to February. GS25 started selling it on Oct 15 in 2025.",
+    "sources": [
+      {
+        "label": "Newsis",
+        "url": "https://mobile.newsis.com/view/NISX20231222_0002568463"
+      },
+      {
+        "label": "Herald",
+        "url": "https://www.heraldk.com/article/2025101917194928728"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "goguma",
+      "gunbam"
+    ],
+    "lane": "street",
+    "id": "gungoguma",
+    "ko": "군고구마",
+    "rr": "gungoguma",
+    "en": "Roasted sweet potato",
+    "phrase": "roasted sweet potatoes",
+    "tier": "known",
+    "windows": [],
+    "undated": [
+      "winter"
+    ],
+    "blurb": "Sweet potato roasted at street carts and convenience stores. No source gives a month, only the first cold snap. GS25 sales rose 175.6 percent on the cold Sunday of Oct 19, 2025.",
+    "caveat": "Convenience stores now sell it year-round, so a cold snap matters more than the calendar month.",
+    "sources": [
+      {
+        "label": "eToday",
+        "url": "https://www.etoday.co.kr/news/view/2516237"
+      },
+      {
+        "label": "Hankyung",
+        "url": "https://www.hankyung.com/article/202509092674i"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "hoppang"
+    ],
+    "lane": "street",
+    "id": "eomuk",
+    "ko": "어묵",
+    "rr": "eomuk",
+    "en": "Hot fish cake",
+    "phrase": "hot fish cake",
+    "tier": "known",
+    "windows": [],
+    "noSeason": true,
+    "blurb": "Hot fish cake, sold all year but in demand when it's cold. GS25 sales rose 111 percent on the first cold Sunday of 2025. It has no real season, just cold-weather spikes.",
+    "sources": [
+      {
+        "label": "eToday",
+        "url": "https://www.etoday.co.kr/news/view/2516237"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "gyeranppang",
+      "gunbam"
+    ],
+    "lane": "street",
+    "id": "hotteok",
+    "ko": "호떡",
+    "rr": "hotteok",
+    "en": "Sweet filled pancake",
+    "phrase": "sweet pancakes",
+    "tier": "known",
+    "windows": [],
+    "undated": [
+      "winter"
+    ],
+    "blurb": "Sweet filled pancake sold on the street. One wiki calls it a very popular winter snack. No source gives a start or end month for the carts, so it stays off the calendar.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/호떡"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "bungeoppang",
+      "hotteok"
+    ],
+    "lane": "street",
+    "id": "gyeranppang",
+    "ko": "계란빵",
+    "rr": "gyeranppang",
+    "en": "Egg bread",
+    "phrase": "egg bread",
+    "tier": "known",
+    "windows": [],
+    "undated": [
+      "winter"
+    ],
+    "blurb": "Egg bread from street stalls. One wiki lists it as a winter snack. Many stalls bake it beside bungeoppang (붕어빵) on shared equipment, but no source dates the carts.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/계란빵"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "bam",
+      "gungoguma"
+    ],
+    "lane": "street",
+    "id": "gunbam",
+    "ko": "군밤",
+    "rr": "gunbam",
+    "en": "Roasted chestnuts",
+    "phrase": "roasted chestnuts",
+    "tier": "known",
+    "windows": [],
+    "undated": [
+      "winter"
+    ],
+    "blurb": "Chestnuts roasted on street carts. One wiki calls it mainly a winter street food, like roasted sweet potato (gungoguma). No source gives a start or end month.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/군밤"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "bungeoppang"
+    ],
+    "lane": "street",
+    "id": "gukhwappang",
+    "ko": "국화빵",
+    "rr": "gukhwappang",
+    "en": "Chrysanthemum bread",
+    "tier": "local",
+    "windows": [],
+    "undated": [],
+    "blurb": "Pastry named for the chrysanthemum, sold at some stalls alongside bungeoppang (붕어빵). One wiki states no season for it. It's harder to find than bungeoppang, and stalls on Insadong street draw queues.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/국화빵"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "gul"
+    ],
+    "lane": "street",
+    "id": "gul-gukbap",
+    "ko": "굴국밥",
+    "rr": "gul gukbap",
+    "en": "Oyster soup with rice",
+    "phrase": "oyster soup with rice",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "blurb": "Rice in a hot oyster broth.",
+    "caveat": "No source dates the dish itself. These months are borrowed from oyster season, so treat them as a guess.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/굴%28어패류%29"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "maesaengi"
+    ],
+    "lane": "street",
+    "id": "maesaengi-guk",
+    "ko": "매생이국",
+    "rr": "maesaengi guk",
+    "en": "Seaweed soup",
+    "phrase": "fine seaweed soup",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "blurb": "Hot soup made with maesaengi (매생이), a fine seaweed. Frozen stock keeps it on menus all year, so the months here follow the seaweed's season and are an estimate.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/매생이"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "dongchimi",
+      "mu"
+    ],
+    "lane": "street",
+    "id": "dongchimi-guksu",
+    "ko": "동치미국수",
+    "rr": "dongchimi guksu",
+    "en": "Radish water kimchi noodles",
+    "tier": "local",
+    "windows": [],
+    "undated": [
+      "winter"
+    ],
+    "blurb": "Thin wheat noodles (somyeon, 소면) in a radish water kimchi (dongchimi, 동치미) broth. Dongchimi is made at gimjang (김장), the late-autumn kimchi making, and eaten mainly in winter. No source dates the noodle dish itself, and some barbecue shops serve it as a side.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/동치미"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "patjuk"
+    ],
+    "lane": "street",
+    "id": "patkalguksu",
+    "ko": "팥칼국수",
+    "rr": "pat kalguksu",
+    "en": "Red-bean noodles",
+    "phrase": "red-bean noodles",
+    "tier": "known",
+    "windows": [],
+    "noSeason": true,
+    "blurb": "Noodles served in red-bean soup. It sells all year with a bump around Dongji (동지), the winter solstice, so it stays off the calendar. One wiki calls it a historic summer food in Jeolla.",
+    "caveat": "The summer history in Jeolla comes from that one wiki only.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/팥칼국수"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [
+      "뱅쇼, hot mulled wine"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "lane": "street",
+    "id": "baengsyo",
+    "ko": "뱅쇼",
+    "rr": "baengsyo",
+    "en": "Mulled wine",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "blurb": "Mulled wine sold on cafe menus. Chains tie it to Christmas, so Nov-Dec is an estimate. No chain gave dates to back that up.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/뱅쇼"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "yuja",
+      "yuja-cheong"
+    ],
+    "lane": "street",
+    "id": "yuja-cha",
+    "ko": "유자차",
+    "rr": "yuja cha",
+    "en": "Yuzu tea",
+    "phrase": "yuzu tea",
+    "tier": "known",
+    "windows": [],
+    "undated": [
+      "winter"
+    ],
+    "blurb": "Tea made from yuzu. One wiki ties it to cold winter days, though it's drunk cold too. No source gives a month for the tea, so it stays off the calendar.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/유자차"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "ttalgi",
+      "seongsimdang-ttalgi-siru"
+    ],
+    "lane": "street",
+    "id": "hotel-ttalgi-buffet",
+    "ko": "호텔 딸기 뷔페",
+    "rr": "hotel ttalgi buffet",
+    "en": "Hotel strawberry buffet",
+    "phrase": "hotel strawberry buffets",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "12-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "Strawberry dessert buffets at Seoul hotels, run through winter and into spring. Lotte Hotel Seoul's ran to Apr 30, 2026, and the hotel has run one each winter since 2021.",
+    "sources": [
+      {
+        "label": "Hankyung",
+        "url": "https://www.hankyung.com/article/202511265487P"
+      },
+      {
+        "label": "Insight",
+        "url": "https://www.insight.co.kr/news/197020"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "ttalgi",
+      "seongsimdang-mango-siru"
+    ],
+    "lane": "street",
+    "id": "seongsimdang-ttalgi-siru",
+    "ko": "성심당 딸기시루",
+    "rr": "seongsimdang ttalgi siru",
+    "en": "Strawberry cake",
+    "phrase": "Seongsimdang's strawberry cake",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "12-21",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "blurb": "Strawberry cake from the Seongsimdang (성심당) bakery. The 2025-26 cake launched Dec 23, 2025. In 2024 it ended Apr 18 at the Lotte store and Apr 30 elsewhere.",
+    "caveat": "The window is a pattern drawn from the 2024-26 dates. Seongsimdang publishes no schedule.",
+    "sources": [
+      {
+        "label": "Digital Daily",
+        "url": "https://www.ddaily.co.kr/page/view/2025122412012496635"
+      },
+      {
+        "label": "Insight",
+        "url": "https://www.insight.co.kr/news/466881"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "seongsimdang-ttalgi-siru"
+    ],
+    "lane": "street",
+    "id": "seongsimdang-mango-siru",
+    "ko": "성심당 망고시루",
+    "rr": "seongsimdang mango siru",
+    "en": "Mango cake",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "07-31",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "blurb": "Mango cake that follows the strawberry cake at Seongsimdang (성심당). It started Apr 19 in 2024, and in 2026 production ended Jul 10 because of mango supply.",
+    "caveat": "The window is an estimate from the 2024 and 2026 dates, not a published schedule.",
+    "sources": [
+      {
+        "label": "Insight",
+        "url": "https://www.insight.co.kr/news/466881"
+      },
+      {
+        "label": "Hankyung",
+        "url": "https://www.hankyung.com/amp/202607082799H"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "lane": "street",
+    "id": "beotkkot-dijeoteu",
+    "ko": "벚꽃 디저트",
+    "rr": "beotkkot dijeoteu",
+    "en": "Cherry blossom sweets",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "03-21",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "weak"
+      }
+    ],
+    "blurb": "Cherry-blossom sweets from convenience stores and cafes. The only date found is a GS25 spring dessert launch on Mar 25, 2026, which included a cherry-blossom macaron at 2,900 won.",
+    "caveat": "One launch is the only evidence, so treat the window as a lead.",
+    "sources": [
+      {
+        "label": "Smart Today",
+        "url": "https://www.smarttoday.co.kr/ko-kr/articles/105612"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "seolbing-gwail-bingsu",
+      "patbingsu"
+    ],
+    "lane": "street",
+    "id": "hotel-aepeulmanggo-bingsu",
+    "ko": "호텔 애플망고 빙수",
+    "rr": "hotel aepeulmanggo bingsu",
+    "en": "Hotel apple mango bingsu",
+    "phrase": "hotel apple mango bingsu",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "04-21",
+        "to": "09-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "Shaved ice with apple mango, sold by hotels. Menus start in late April or May and mostly stop at the end of September. Prices ran 42,000 to 149,000 won in 2026.",
+    "sources": [
+      {
+        "label": "Supple",
+        "url": "https://supple.kr/news/cmoiahzjn000012jhb5jgbwrt"
+      },
+      {
+        "label": "Hankyung",
+        "url": "https://www.hankyung.com/article/2026050102757"
+      }
+    ]
+  },
+  {
+    "aka": [
+      "설빙",
+      "chain 과일빙수"
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "patbingsu",
+      "hotel-aepeulmanggo-bingsu"
+    ],
+    "lane": "street",
+    "id": "seolbing-gwail-bingsu",
+    "ko": "설빙 과일빙수",
+    "rr": "seolbing gwail bingsu",
+    "en": "Chain fruit bingsu",
+    "phrase": "chain fruit bingsu",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "05-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "blurb": "Fruit shaved ice from chains such as Seolbing (설빙). Chains run fruit bingsu from May into August, and Seolbing sold more than 330,000 mango bingsu in May 2026.",
+    "sources": [
+      {
+        "label": "MTN",
+        "url": "https://news.mtn.co.kr/news-detail/2026062416121335405"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "seolbing-gwail-bingsu"
+    ],
+    "lane": "street",
+    "id": "patbingsu",
+    "ko": "팥빙수",
+    "rr": "patbingsu",
+    "en": "Red-bean shaved ice",
+    "phrase": "red-bean shaved ice",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "05-01",
+        "to": "09-30",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "blurb": "Shaved ice with sweet red beans. One wiki calls it a summer dessert with winter as its off-season, so May-Sep is an estimate. Seolbing (설빙) widened its menu to get through winter.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/팥빙수"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "lane": "street",
+    "id": "naengmyeon",
+    "ko": "냉면",
+    "rr": "naengmyeon",
+    "en": "Cold noodles",
+    "phrase": "cold noodles",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "blurb": "Cold noodles, now a summer dish, though some noodle houses (myeonok, 면옥) sell them all year. A text from 1849, the Dongguk Sesigi (동국세시기), lists them as a winter dish of the lunar 11th month.",
+    "caveat": "The Jun-Aug peak is an estimate. The move from winter to summer came with ice supply.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/냉면"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/냉면"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "lane": "street",
+    "id": "kongguksu",
+    "ko": "콩국수",
+    "rr": "kongguksu",
+    "en": "Cold soy noodles",
+    "phrase": "cold soy-milk noodles",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "05-01",
+        "to": "09-30",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "blurb": "Noodles in a cold ground-soybean broth. The only hard data is one Seoul shop that sells it from March to November.",
+    "caveat": "May-Sep is an estimate. The Seoul shop's figure has no date and was not checked.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/콩국수"
+      }
+    ]
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "lane": "street",
+    "id": "mulhoe",
+    "ko": "물회",
+    "rr": "mulhoe",
+    "en": "Cold raw-fish soup",
+    "phrase": "cold raw-fish soup",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "blurb": "Cold raw-fish soup, called mainly a summer dish by one wiki. Jeju's soybean-paste version (doenjang mulhoe, 된장 물회) is described as a summer local dish.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/물회"
+      }
+    ],
+    "caveat": "No source gives months for this, so Jun-Aug is a guess from the word summer."
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "lane": "street",
+    "id": "chogye-guksu",
+    "ko": "초계국수",
+    "rr": "chogye guksu",
+    "en": "Chilled chicken noodles",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "blurb": "Noodles in a chilled chicken broth. One wiki says it's usually a summer dish, and many chicken soup (dakgomtang, 닭곰탕) shops add it as a summer menu.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/초계탕"
+      }
+    ],
+    "caveat": "No source gives months for this, so Jun-Aug is a guess from the word summer."
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "mu"
+    ],
+    "lane": "street",
+    "id": "yeolmu-guksu",
+    "ko": "열무국수",
+    "rr": "yeolmu guksu",
+    "en": "Young radish noodles",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "blurb": "Noodles in a cold young-radish kimchi broth, often a side menu. One wiki calls it a popular summer cooling dish.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/열무국수"
+      }
+    ],
+    "caveat": "No source gives months for this, so Jun-Aug is a guess from the word summer."
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "lane": "street",
+    "id": "oi-naengguk",
+    "ko": "오이냉국",
+    "rr": "oi naengguk",
+    "en": "Cold cucumber soup",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "blurb": "Cold cucumber soup. One wiki says chilled soups (naengguk, 냉국) are mainly a summer dish.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/냉국"
+      }
+    ],
+    "caveat": "No source gives months for this, so Jun-Aug is a guess from the word summer."
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "lane": "street",
+    "id": "subak-hwachae",
+    "ko": "수박화채",
+    "rr": "subak hwachae",
+    "en": "Watermelon punch",
+    "phrase": "watermelon punch",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "blurb": "Chilled fruit punch with watermelon as the usual fruit. One wiki says hwachae (화채) is mainly a summer dish. Older hwachae followed the calendar instead, such as cherry punch at Dano (단오).",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/화채"
+      }
+    ],
+    "caveat": "No source gives months for this, so Jun-Aug is a guess from the word summer."
+  },
+  {
+    "aka": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "lane": "street",
+    "id": "misutgaru",
+    "ko": "미숫가루",
+    "rr": "misutgaru",
+    "en": "Roasted grain drink",
+    "phrase": "the roasted grain drink",
+    "tier": "known",
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "blurb": "Roasted grain drink, served iced. One wiki calls it a long-standing summer drink at home.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/미숫가루"
+      }
+    ],
+    "caveat": "No source gives months for this, so Jun-Aug is a guess from the word summer."
+  },
+  {
+    "aka": [
+      "메밀국수"
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "lane": "street",
+    "id": "naengmomil",
+    "ko": "냉모밀",
+    "rr": "naengmomil",
+    "en": "Chilled soba",
+    "tier": "local",
+    "windows": [],
+    "undated": [],
+    "blurb": "Cold buckwheat noodles in the Japanese style, served at soba shops and many snack shops (bunsikjip, 분식집). No Korean source states a season, so it stays off the calendar.",
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/모밀국수"
+      }
+    ]
+  },
+  {
+    "aka": [
+      "밤라떼",
+      "고구마 라떼"
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "bam",
+      "goguma"
+    ],
+    "lane": "street",
+    "id": "bam-goguma-ratte",
+    "ko": "밤, 고구마 라떼",
+    "rr": "bam goguma ratte",
+    "en": "Chestnut and sweet potato cafe drinks",
+    "phrase": "chestnut and sweet potato lattes",
+    "tier": "local",
+    "windows": [
+      {
+        "from": "08-11",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "blurb": "Cafe chains launch chestnut and sweet potato drinks in mid-August, while the weather is still hot. Twosome Place launched cakes on Aug 14, 2026. Compose (컴포즈) sold 400,000 Buyeo chestnut lattes in a week after its Oct 28, 2025 launch.",
+    "sources": [
+      {
+        "label": "Segye",
+        "url": "https://www.segye.com/newsView/20260817504172"
+      },
+      {
+        "label": "The Fact",
+        "url": "https://news.tf.co.kr/read/economy/2262410.htm"
+      }
+    ],
+    "caveat": "The window is an estimate built from chain launch dates."
+  }
+]

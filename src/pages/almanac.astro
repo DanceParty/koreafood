@@ -1,0 +1,82 @@
+---
+import Base from "../layouts/Base.astro";
+import { YearStrip } from "../components/YearStrip.tsx";
+import { LANE_LABELS } from "../lib/client-data.ts";
+import { MONTHS_SHORT, toParts, todayInSeoul, yearFraction } from "../lib/dates.ts";
+import { ALL_FOODS, byImportance, LANE_ORDER } from "../lib/foods.ts";
+import { printedOn } from "../lib/palette.ts";
+
+const today = todayInSeoul();
+const year = toParts(today).year;
+const dated = ALL_FOODS.filter((food) => food.windows.length > 0);
+const undated = ALL_FOODS.filter((food) => food.windows.length === 0 && !food.noSeason).sort(byImportance);
+const noSeason = ALL_FOODS.filter((food) => food.noSeason && food.windows.length === 0).sort(byImportance);
+const lanes = LANE_ORDER.map((lane) => ({ lane, foods: dated.filter((food) => food.lane === lane).sort(byImportance) }));
+const search = (food: (typeof ALL_FOODS)[number]) => [food.ko, ...food.aka, food.rr, food.en, food.id].join(" ").toLowerCase();
+---
+<Base title="The almanac: every Korean seasonal food" description={`All ${ALL_FOODS.length} foods in the calendar, with their months, closed seasons and sources.`} ink={printedOn(today).vars}>
+  <main class="almanac" style={`--today:${(yearFraction(today) * 100).toFixed(2)}%`}>
+    <header class="alm-head">
+      <h1><span lang="ko">전부 다</span> The whole list</h1>
+      <p>{dated.length} foods with dates, {undated.length} with only a season word, and {noSeason.length} that have no season at all. Solid bars are sourced. Hatched bars are estimates. Red hatching is a legal closure.</p>
+    </header>
+    <div class="alm-bar">
+      <input id="alm-q" type="search" placeholder="Search in English, Korean or romanized" aria-label="Search foods" autocomplete="off" />
+      <div class="alm-months" aria-hidden="true">{MONTHS_SHORT.map((month) => <span>{month}</span>)}</div>
+    </div>
+    {lanes.map((group) => (
+      <section class="alm-lane" data-lane>
+        <h2>{LANE_LABELS[group.lane].en} <span lang="ko">{LANE_LABELS[group.lane].ko}</span></h2>
+        <ul>
+          {group.foods.map((food) => (
+            <li data-q={search(food)} class={`tier-${food.tier}`}>
+              <a href={`/food/${food.id}/`}>
+                <span class="alm-ko" lang="ko">{food.ko}</span>
+                <span class="alm-en">{food.en}</span>
+              </a>
+              <YearStrip food={food} year={year} />
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+    <section class="alm-rest" data-lane>
+      <h2><span lang="ko">언제인지 모름</span> Season word only</h2>
+      <p>Sources call these winter or spring foods but never name a month, so they stay off the wheel. Guessing would be easy and wrong.</p>
+      <ul class="plain">
+        {undated.map((food) => <li data-q={search(food)}><a href={`/food/${food.id}/`}><span lang="ko">{food.ko}</span> {food.en}</a> <em>{food.undated?.join(", ")}</em></li>)}
+      </ul>
+    </section>
+    <section class="alm-rest" data-lane>
+      <h2><span lang="ko">철 없음</span> No season</h2>
+      <p>Farmed, imported or eaten all year, whatever the monthly lists say.</p>
+      <ul class="plain">
+        {noSeason.map((food) => <li data-q={search(food)}><a href={`/food/${food.id}/`}><span lang="ko">{food.ko}</span> {food.en}</a></li>)}
+      </ul>
+    </section>
+    <p id="alm-none" hidden>Nothing matches that.</p>
+  </main>
+  <script>
+    const input = document.querySelector<HTMLInputElement>("#alm-q");
+    const rows = [...document.querySelectorAll<HTMLElement>("[data-q]")];
+    const lanes = [...document.querySelectorAll<HTMLElement>("[data-lane]")];
+    const none = document.querySelector<HTMLElement>("#alm-none");
+    const apply = () => {
+      const query = (input?.value ?? "").trim().toLowerCase();
+      let shown = 0;
+      for (const row of rows) {
+        const match = !query || (row.dataset.q ?? "").includes(query);
+        row.hidden = !match;
+        if (match) shown += 1;
+      }
+      for (const lane of lanes) lane.hidden = !lane.querySelector("[data-q]:not([hidden])");
+      if (none) none.hidden = shown > 0;
+    };
+    input?.addEventListener("input", apply);
+    const initial = new URLSearchParams(location.search).get("q");
+    if (initial && input) {
+      input.value = initial;
+      apply();
+    }
+  </script>
+</Base>

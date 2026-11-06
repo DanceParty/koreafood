@@ -1,0 +1,12 @@
+node_modules
+dist
+.astro
+.DS_Store
+*.log
+.vercel
+tmp
+reports
+research_notes
+src/data/generated
+src/data/calendar.json
+public/fonts

@@ -1,0 +1,104 @@
+---
+import Base from "../../layouts/Base.astro";
+import { FoodStatus } from "../../components/FoodStatus.tsx";
+import { YearStrip } from "../../components/YearStrip.tsx";
+import { LANE_LABELS } from "../../lib/client-data.ts";
+import { looseDate, toParts, todayInSeoul, yearFraction } from "../../lib/dates.ts";
+import { ALL_FOODS, foodById, printedForFood, sourceLabel } from "../../lib/foods.ts";
+import { itIs } from "../../lib/korean.ts";
+import { MONTH_COPY } from "../../lib/months.ts";
+
+export function getStaticPaths() {
+  return ALL_FOODS.map((food) => ({ params: { id: food.id }, props: { food } }));
+}
+
+const { food } = Astro.props;
+const builtOn = todayInSeoul();
+const year = toParts(builtOn).year;
+const printed = printedForFood(food);
+const related = food.related.flatMap((id) => {
+  const other = foodById.get(id);
+  return other ? [other] : [];
+});
+const tierLabel = { national: "National obsession", known: "Widely known", local: "Regional or insider" }[food.tier];
+const windowsText = food.windows.flatMap((window) =>
+  "from" in window ? [`${looseDate(window.from)} to ${looseDate(window.to)}`] : []);
+const seasonLine = food.noSeason
+  ? "No real season."
+  : food.undated
+    ? `No sourced month${food.undated.length ? `. Sources only say ${food.undated.join(", ")}` : ""}.`
+    : null;
+const certainty = food.windows.some((window) => window.mark === "est")
+  ? "These dates are an estimate. No source states them directly."
+  : food.windows.some((window) => window.mark === "weak" || window.mark === "list")
+    ? "These dates rest on a single list, wiki or low-authority source."
+    : null;
+const peak = food.windows.find((window) => window.kind === "peak" && "from" in window);
+const ogMonth = peak && "from" in peak ? MONTH_COPY[Number(peak.from.slice(0, 2)) - 1]?.slug ?? "home" : "home";
+const title = `${food.ko} ${food.en}: when to eat it in Korea`;
+const description = food.blurb.slice(0, 155);
+---
+<Base title={title} description={description} ink={printed.vars} og={ogMonth}>
+  <main class="food" style={`--today:${(yearFraction(builtOn) * 100).toFixed(2)}%`}>
+    <header class="food-head">
+      <p class="crumb"><a href="/almanac/">Almanac</a> / {LANE_LABELS[food.lane].en} / {tierLabel}</p>
+      <h1 lang="ko" class={food.ko.length > 5 ? "long" : undefined} style={{ "--len": food.ko.length }}>{food.ko}</h1>
+      <p class="food-names"><strong>{food.en}</strong> <span>{food.rr}</span></p>
+      {food.aka.length > 0 ? <p class="food-aka">Also <span lang="ko">{food.aka.join(", ")}</span></p> : null}
+    </header>
+
+    <section class="food-when" aria-label="When it is in season">
+      {seasonLine ? <p class="status">{seasonLine}</p> : <FoodStatus client:load windows={food.windows} builtOn={builtOn} />}
+      {food.windows.length > 0 || food.closures.length > 0 ? <YearStrip food={food} year={year} labels /> : null}
+      {food.windows.length > 0 ? (
+        <ul class="legend">
+          <li><i class="k-peak" />Best</li>
+          {food.windows.some((window) => window.kind === "season") ? <li><i class="k-season" />Around</li> : null}
+          {food.closures.length > 0 ? <li><i class="k-closed" />Closed by law</li> : null}
+        </ul>
+      ) : null}
+      {food.windows.some((window) => window.label) ? (
+        <ul class="window-notes">
+          {food.windows.filter((window) => window.label).map((window) => (
+            <li>
+              {"from" in window ? <span class="wn-date">{looseDate(window.from)} to {looseDate(window.to)}</span> : <span class="wn-date">Moves with the calendar</span>}
+              {window.label}
+            </li>
+          ))}
+        </ul>
+      ) : null}
+      {certainty ? <p class="certainty">{certainty}</p> : null}
+    </section>
+
+    <section class="food-body">
+      <p class="blurb">{food.blurb}</p>
+      {food.caveat ? <p class="caveat"><strong>Worth knowing.</strong> {food.caveat}</p> : null}
+      <dl class="facts">
+        {food.eat.length > 0 ? <div><dt>Eat it as</dt><dd><ul>{food.eat.map((item) => <li>{item}</li>)}</ul></dd></div> : null}
+        {food.where.length > 0 ? <div><dt>Where</dt><dd><ul>{food.where.map((item) => <li>{item}</li>)}</ul></dd></div> : null}
+        {food.closures.length > 0 ? <div><dt>Closed by law</dt><dd><ul>{food.closures.map((closure) => <li>{looseDate(closure.from).replace(/^(Early|Mid|Late) /, "")} {Number(closure.from.slice(3))} to {looseDate(closure.to).replace(/^(Early|Mid|Late) /, "")} {Number(closure.to.slice(3))}{closure.note ? `. ${closure.note}` : ""}</li>)}</ul></dd></div> : null}
+        {food.festivals.length > 0 ? <div><dt>Festivals</dt><dd><ul>{food.festivals.map((item) => <li>{item}</li>)}</ul></dd></div> : null}
+      </dl>
+      {related.length > 0 ? (
+        <nav class="related" aria-label="Related foods">
+          <h2>Goes with</h2>
+          <div class="tokens">
+            {related.map((other) => (
+              <a class={`token t-${other.tier === "national" ? "known" : other.tier}`} href={`/food/${other.id}/`}>
+                <span class="token-ko" lang="ko">{other.ko}</span>
+                <span class="token-en">{other.en}</span>
+              </a>
+            ))}
+          </div>
+        </nav>
+      ) : null}
+      {food.sources.length > 0 ? (
+        <aside class="sources">
+          <h2>Sources</h2>
+          <ul>{food.sources.map((source) => <li><a href={source.url} rel="noopener nofollow" target="_blank">{sourceLabel(source.label)}</a></li>)}</ul>
+        </aside>
+      ) : null}
+      <p class="say"><span lang="ko">이맘때면 {itIs(food.ko)}</span> <a href="/">Spin the year</a></p>
+    </section>
+  </main>
+</Base>

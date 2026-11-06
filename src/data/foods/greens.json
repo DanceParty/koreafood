@@ -1,0 +1,3409 @@
+[
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "01-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Sweeter from January"
+      },
+      {
+        "from": "11-01",
+        "to": "12-31",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Harvest from Nov"
+      }
+    ],
+    "eat": [
+      "겉절이, fresh-tossed salad",
+      "비빔밥, rice bowl"
+    ],
+    "where": [
+      "Jindo (진도)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "RDA",
+        "url": "https://www.nics.go.kr/food/kfi/foodMonth/view?fd_se=286&fd_snn=21&menu_tab=0"
+      },
+      {
+        "label": "Hankyung",
+        "url": "https://www.hankyung.com/article/2026022419061"
+      }
+    ],
+    "lane": "greens",
+    "id": "bomdong",
+    "ko": "봄동",
+    "rr": "bomdong",
+    "en": "Open-leaf winter cabbage",
+    "phrase": "open-leaf winter cabbage",
+    "tier": "known",
+    "blurb": "A loose, open-leaf winter cabbage, harvested from November and sweeter from January. It went viral in early 2026, when a 15 kg box hit 53,996 won on Feb 24, up 78.2% on the year. Jindo growers had cold damage just before the Lunar New Year.",
+    "caveat": "Sources disagree, with Oct-Mar supply, harvest from Nov, Jan-Mar prime, or spring only. The calendar follows Jan-Mar as prime."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "01-21",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Hanjae greenhouse"
+      },
+      {
+        "from": "04-11",
+        "to": "06-30",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Field crop"
+      }
+    ],
+    "eat": [
+      "삼겹살, grilled pork belly",
+      "수육, boiled pork",
+      "비빔밥, rice bowl",
+      "장아찌, pickle",
+      "전, pancake"
+    ],
+    "where": [
+      "Hanjae, Cheongdo (청도 한재)",
+      "Palgongsan (팔공산)",
+      "Hwawon (화원)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "매일신문",
+        "url": "https://www.imaeil.com/page/view/2024022710263369216"
+      }
+    ],
+    "lane": "greens",
+    "id": "minari",
+    "ko": "미나리",
+    "rr": "minari",
+    "en": "Water dropwort",
+    "phrase": "water dropwort",
+    "tier": "known",
+    "blurb": "A peppery water herb best known for its greenhouse crop. Hanjae greenhouses near Cheongdo cut it from late January to March, with field crops from mid-April to June. Farms earn most of their income in Jan-Mar, and visitors come to eat it with grilled pork belly. Seo Dae-u of Minari Sarang Garden is credited with that pairing.",
+    "caveat": "Hanjae farm counts differ, about 200 per the Maeil Shinmun newspaper and about 150 per Korea's farm agency. The government farm portal lists January and April."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "eat": [
+      "된장국, soybean-paste soup",
+      "강된장, thick soybean stew",
+      "무침, seasoned side dish"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Khan",
+        "url": "https://www.khan.co.kr/article/202403161800001"
+      },
+      {
+        "label": "코메디닷컴",
+        "url": "https://kormedi.com/1385664/"
+      }
+    ],
+    "lane": "greens",
+    "id": "naengi",
+    "ko": "냉이",
+    "rr": "naengi",
+    "en": "Shepherd's purse",
+    "phrase": "shepherd's purse",
+    "tier": "known",
+    "blurb": "A wild root green dug in early spring and dropped into soybean-paste soup, thick stew or a seasoned side dish.",
+    "caveat": "One source names March as the peak and another gives March-April, so the calendar shows both months."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "eat": [
+      "Raw with spicy dressing",
+      "양념장, seasoning sauce",
+      "전, pancake"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Khan",
+        "url": "https://www.khan.co.kr/article/202403161800001"
+      },
+      {
+        "label": "강남구",
+        "url": "https://www.gangnam.go.kr/board/B_000031/1074136/view.do?mid=ID01"
+      },
+      {
+        "label": "농사로 4월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=4"
+      }
+    ],
+    "lane": "greens",
+    "id": "dallae",
+    "ko": "달래",
+    "rr": "dallae",
+    "en": "Korean wild chive",
+    "phrase": "Korean wild chive",
+    "tier": "known",
+    "blurb": "A small wild chive with a bulb, eaten raw with a spicy dressing or in pancakes. Gangnam district's 2025 vegetable calendar picks March, while the farm agency's April list also carries it."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "eat": [
+      "된장국, soybean-paste soup",
+      "도다리쑥국, flounder and mugwort soup",
+      "쑥버무리, steamed mugwort cake",
+      "쑥설기, mugwort rice cake",
+      "쑥전, pancake"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "dodari-ssukguk",
+      "ssuktteok"
+    ],
+    "sources": [
+      {
+        "label": "Khan",
+        "url": "https://www.khan.co.kr/article/202403161800001"
+      }
+    ],
+    "lane": "greens",
+    "id": "ssuk",
+    "ko": "쑥",
+    "rr": "ssuk",
+    "en": "Mugwort",
+    "phrase": "mugwort",
+    "tier": "known",
+    "blurb": "Wild spring mugwort that turns tough after April. That cutoff is why dodari-ssukguk (도다리쑥국), flounder and mugwort soup, has a date. Avoid picking it by roadsides and urban streams."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "weak"
+      }
+    ],
+    "eat": [
+      "나물, seasoned greens (boil the root, soak a day)"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      },
+      {
+        "label": "EK",
+        "url": "https://encykorea.aks.ac.kr/Article/E0030041"
+      }
+    ],
+    "lane": "greens",
+    "id": "sseumbagwi",
+    "ko": "씀바귀",
+    "rr": "sseumbagwi",
+    "en": "Korean bitter lettuce",
+    "tier": "local",
+    "blurb": "A bitter wild root green. Cooks boil the root and soak it for a day to cut the bitterness. The March-April window rests on one wiki list, so treat it as a lead.",
+    "caveat": "The Encyclopedia of Korean Culture links it to Soman (소만), a solar term in late May, which does not match the wiki's Mar-Apr."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Harper's Bazaar",
+        "url": "https://www.harpersbazaar.co.kr/article/64319"
+      }
+    ],
+    "lane": "greens",
+    "id": "bangpung",
+    "ko": "방풍",
+    "rr": "bangpung",
+    "en": "Coastal hog fennel",
+    "tier": "local",
+    "blurb": "A coastal herb eaten in March and April. One magazine, Harper's Bazaar, is the only source for that window, and we found no recipes or regions for it."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "05-31",
+        "kind": "peak",
+        "mark": "weak"
+      }
+    ],
+    "eat": [
+      "나물, seasoned greens",
+      "쌈, leaf wraps"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      }
+    ],
+    "lane": "greens",
+    "id": "chwinamul",
+    "ko": "취나물",
+    "rr": "chwinamul",
+    "en": "Aster greens",
+    "tier": "known",
+    "phrase": "aster greens",
+    "blurb": "A mountain green eaten as a seasoned side dish (namul, 나물) or as leaf wraps. The March-May window comes from one wiki list, so treat it as a lead."
+  },
+  {
+    "aka": [
+      "두릅"
+    ],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "05-31",
+        "kind": "peak",
+        "mark": "sourced"
+      },
+      {
+        "from": "03-01",
+        "to": "03-31",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "South starts in Mar"
+      }
+    ],
+    "eat": [
+      "초고추장, blanched with chili-vinegar paste",
+      "산적, skewers",
+      "튀김, tempura"
+    ],
+    "where": [
+      "Sunchang (순창)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "gaedureup",
+      "ttangdureup"
+    ],
+    "sources": [
+      {
+        "label": "Segye",
+        "url": "https://www.segye.com/newsView/20260414515981"
+      },
+      {
+        "label": "Khan",
+        "url": "https://www.khan.co.kr/article/202403161800001"
+      }
+    ],
+    "lane": "greens",
+    "id": "chamdureup",
+    "ko": "참두릅",
+    "rr": "chamdureup",
+    "en": "Aralia shoot",
+    "phrase": "aralia shoots",
+    "tier": "known",
+    "blurb": "The bud of the dureup tree (두릅나무), picked in April-May and starting in March in the south. It topped one April ranking of spring foods, and Sunchang calls it its signature forest crop. Cooks blanch it quickly and serve it with chili-vinegar paste.",
+    "caveat": "Sources split between Apr-May and Mar in the south through May."
+  },
+  {
+    "aka": [
+      "엄나무순"
+    ],
+    "windows": [],
+    "eat": [
+      "Blanched, lightly seasoned"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "chamdureup",
+      "ttangdureup"
+    ],
+    "sources": [
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1128397"
+      }
+    ],
+    "lane": "greens",
+    "id": "gaedureup",
+    "ko": "개두릅",
+    "rr": "gaedureup",
+    "en": "Eomnamu tree shoots",
+    "tier": "local",
+    "undated": [
+      "spring"
+    ],
+    "blurb": "The spring shoot of the eomnamu tree (엄나무). No source gives a month for it, only the season. Cooks blanch it and season it lightly.",
+    "caveat": "Sources disagree on bitterness, from the most bitter of the shoots to milder and crisp. One newspaper calls it a cultivated variety, while a news site says it is the eomnamu shoot."
+  },
+  {
+    "aka": [
+      "독활"
+    ],
+    "windows": [],
+    "eat": [
+      "무침, seasoned side dish",
+      "볶음, stir-fry",
+      "장아찌, pickle"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "chamdureup",
+      "gaedureup"
+    ],
+    "sources": [
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1128397"
+      }
+    ],
+    "lane": "greens",
+    "id": "ttangdureup",
+    "ko": "땅두릅",
+    "rr": "ttangdureup",
+    "en": "Ground-grown aralia shoots",
+    "tier": "local",
+    "undated": [
+      "spring"
+    ],
+    "blurb": "Unlike tree-grown dureup, this is the dokhwal (독활) plant, with shoots rising straight from the ground. Sources say spring or early spring but give no month."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "eat": [
+      "나물, seasoned greens",
+      "Dried, then boiled"
+    ],
+    "where": [
+      "Jeju oreum (제주 오름)",
+      "Jeju gotjawal (곶자왈)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Hallasan Gosari Festival, Apr 18-19, 2026"
+    ],
+    "related": [
+      "mukeun-namul"
+    ],
+    "sources": [
+      {
+        "label": "Seoul Shinmun",
+        "url": "https://m.seoul.co.kr/news/2023/04/17/20230417500053"
+      }
+    ],
+    "lane": "greens",
+    "id": "gosari",
+    "ko": "고사리",
+    "rr": "gosari",
+    "en": "Bracken",
+    "phrase": "bracken",
+    "tier": "known",
+    "blurb": "A fern shoot picked in April, when Jeju gets its \"gosari jangma\" (고사리 장마), the bracken rains. Bracken from that month sold for up to 90,000 won per geun (근, 0.6 kg) in 2023 reporting. Over three years, 39% of 288 lost-person cases on Jeju involved bracken picking, and 95% of those fell in April-May.",
+    "caveat": "No source gives an end date for the season."
+  },
+  {
+    "aka": [
+      "산마늘"
+    ],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "05-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Ulleungdo"
+      }
+    ],
+    "eat": [
+      "장아찌, pickle",
+      "김치, kimchi",
+      "비빔밥, rice bowl"
+    ],
+    "where": [
+      "Nari Basin, Ulleungdo (울릉도 나리분지)",
+      "Taebaek (태백)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "동아",
+        "url": "https://v.daum.net/v/20250412014233431"
+      },
+      {
+        "label": "Asiae",
+        "url": "https://www.asiae.co.kr/en/article/2026042316571108372"
+      }
+    ],
+    "lane": "greens",
+    "id": "myeongi",
+    "ko": "명이",
+    "rr": "myeongi",
+    "en": "Victory onion",
+    "phrase": "victory onion",
+    "tier": "local",
+    "blurb": "A wild garlic-like green from Ulleungdo, harvested in April-May. The peak in the Nari Basin lasts only about two weeks from around Apr 20. Encyclopedias say only early spring."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "05-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "eat": [
+      "비빔밥, rice bowl",
+      "나물전, greens pancake"
+    ],
+    "where": [
+      "Hyeonpo, Ulleungdo (울릉도 현포)",
+      "Hakpo (학포)",
+      "Namyang (남양)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "동아",
+        "url": "https://v.daum.net/v/20250412014233431"
+      }
+    ],
+    "lane": "greens",
+    "id": "bujikaengi",
+    "ko": "부지깽이",
+    "rr": "bujikaengi",
+    "en": "Island aster (Ulleungdo green)",
+    "tier": "local",
+    "blurb": "A spring green from the island of Ulleungdo that toughens fast, so the picking window is short. The island runs almost its own spring calendar, with several greens that turn up in Korean food only there."
+  },
+  {
+    "aka": [
+      "눈개승마"
+    ],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "05-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "eat": [
+      "산채정식, mountain-greens set meal"
+    ],
+    "where": [
+      "Ulleungdo (울릉도)",
+      "Taebaek (태백)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "동아",
+        "url": "https://v.daum.net/v/20250412014233431"
+      }
+    ],
+    "lane": "greens",
+    "id": "samnamul",
+    "ko": "삼나물",
+    "rr": "samnamul",
+    "en": "Goat's beard (Ulleungdo green)",
+    "tier": "local",
+    "blurb": "An Ulleungdo green that toughens fast and sells in April-May. It is a regular part of a mountain-greens set meal (sanchae jeongsik, 산채정식)."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "05-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "eat": [
+      "비빔밥, rice bowl"
+    ],
+    "where": [
+      "Ulleungdo (울릉도)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "동아",
+        "url": "https://v.daum.net/v/20250412014233431"
+      }
+    ],
+    "lane": "greens",
+    "id": "miyeokchwi",
+    "ko": "미역취",
+    "rr": "miyeokchwi",
+    "en": "Goldenrod greens (Ulleungdo)",
+    "tier": "local",
+    "blurb": "An Ulleungdo spring green eaten in April-May, usually mixed into rice bowls. The island's greens toughen fast."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "05-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "eat": [
+      "비빔밥, rice bowl"
+    ],
+    "where": [
+      "Ulleungdo (울릉도)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "동아",
+        "url": "https://v.daum.net/v/20250412014233431"
+      }
+    ],
+    "lane": "greens",
+    "id": "gobi",
+    "ko": "고비",
+    "rr": "gobi",
+    "en": "Royal fern (Ulleungdo)",
+    "tier": "local",
+    "blurb": "A fern shoot from Ulleungdo, harvested in April-May. It toughens fast, and a labor shortage hit the harvest of more than ten Ulleungdo greens in April 2026."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [
+      "Raw wrap with 삼겹살 or 회"
+    ],
+    "where": [
+      "Ulleungdo (울릉도)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "동아",
+        "url": "https://v.daum.net/v/20250412014233431"
+      }
+    ],
+    "lane": "greens",
+    "id": "jeonho",
+    "ko": "전호",
+    "rr": "jeonho",
+    "en": "Wild chervil",
+    "tier": "local",
+    "undated": [],
+    "blurb": "The earliest green on Ulleungdo, which grows up through snow. No source gives a month. People eat it raw as a wrap with grilled pork belly or raw fish."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [
+      "Taebaek (태백)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Taebaek wild greens festival, opened Apr 24, 2026"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "Asiae",
+        "url": "https://www.asiae.co.kr/en/article/2026042316571108372"
+      }
+    ],
+    "lane": "greens",
+    "id": "eosuri",
+    "ko": "어수리",
+    "rr": "eosuri",
+    "en": "Hogweed",
+    "tier": "local",
+    "undated": [
+      "spring"
+    ],
+    "blurb": "A wild spring green celebrated at a festival in Taebaek. Sources give the season and the festival timing but no harvest month."
+  },
+  {
+    "aka": [
+      "머위"
+    ],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [
+      "Peeled, boiled, soaked, dressed with 된장"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "농사로 4월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=4"
+      }
+    ],
+    "lane": "greens",
+    "id": "meowi-sun",
+    "ko": "머위 순",
+    "rr": "meowi sun",
+    "en": "Butterbur shoots",
+    "tier": "local",
+    "blurb": "Young butterbur shoots, placed in April on Korea's farm agency monthly list. That list is for menu planning, so treat it as a rough placement more than a harvest date. Cooks peel and boil them, soak them, and dress them with doenjang (된장), soybean paste."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "04-21",
+        "to": "06-10",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "eat": [
+      "쌈밥, rice wrapped in leaves",
+      "곰취 삼겹살, with grilled pork belly",
+      "겉절이, fresh-tossed salad",
+      "전, pancake"
+    ],
+    "where": [
+      "Yanggu (양구)",
+      "Taebaek (태백)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Yanggu Gomchwi Festival, May 2-5, 2026"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "Harper's Bazaar",
+        "url": "https://www.harpersbazaar.co.kr/article/64319"
+      },
+      {
+        "label": "Kukinews",
+        "url": "https://www.kukinews.com/article/view/kuk202504300121"
+      }
+    ],
+    "lane": "greens",
+    "id": "gomchwi",
+    "ko": "곰취",
+    "rr": "gomchwi",
+    "en": "Gomchwi (mountain wrap leaf)",
+    "tier": "local",
+    "blurb": "A broad mountain leaf used for wraps, picked from late April to early June. Yanggu holds the main festival in early May, and 2026 was its 23rd year."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [
+      "Blanched first",
+      "전, pancake"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Khan",
+        "url": "https://www.khan.co.kr/article/202403161800001"
+      }
+    ],
+    "lane": "greens",
+    "id": "wonchuri",
+    "ko": "원추리",
+    "rr": "wonchuri",
+    "en": "Daylily shoots",
+    "tier": "local",
+    "undated": [
+      "spring"
+    ],
+    "blurb": "Daylily shoots, a spring green that cooks blanch before eating. Sources name the season but none gives a month, so it stays off the calendar."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [
+      "Raw"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Khan",
+        "url": "https://www.khan.co.kr/article/202403161800001"
+      }
+    ],
+    "lane": "greens",
+    "id": "dolnamul",
+    "ko": "돌나물",
+    "rr": "dolnamul",
+    "en": "Stonecrop",
+    "tier": "local",
+    "undated": [
+      "spring"
+    ],
+    "blurb": "A spring green that is eaten raw. Sources name the season but none gives a month, so it stays off the calendar."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [
+      "Blanched with salt and sesame oil"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Khan",
+        "url": "https://www.khan.co.kr/article/202403161800001"
+      }
+    ],
+    "lane": "greens",
+    "id": "yuchaenamul",
+    "ko": "유채나물",
+    "rr": "yuchaenamul",
+    "en": "Rape greens",
+    "tier": "local",
+    "undated": [
+      "spring"
+    ],
+    "blurb": "Rape greens, a spring green blanched and dressed with salt and sesame oil. Sources name the season but none gives a month, so it stays off the calendar."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Khan",
+        "url": "https://www.khan.co.kr/article/202403161800001"
+      }
+    ],
+    "lane": "greens",
+    "id": "sebalnamul",
+    "ko": "세발나물",
+    "rr": "sebalnamul",
+    "en": "Sandspurry (salt sandspurry)",
+    "tier": "local",
+    "undated": [
+      "spring"
+    ],
+    "blurb": "Salt sandspurry, a spring green. Sources name the season but none gives a month, so it stays off the calendar."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "05-01",
+        "to": "06-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "RDA",
+        "url": "https://www.nics.go.kr/food/kfi/foodMonth/view?fd_se=286&fd_snn=68&menu_tab=0"
+      }
+    ],
+    "lane": "greens",
+    "id": "gondeure",
+    "ko": "곤드레",
+    "rr": "gondeure",
+    "en": "Korean thistle",
+    "tier": "local",
+    "blurb": "A mountain thistle green from the Gangwon highlands, listed on the farm agency's item page for May-June. We found no recipes or festivals for it."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "05-01",
+        "to": "06-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "eat": [
+      "무침, seasoned side dish",
+      "볶음, stir-fry",
+      "장아찌, pickle",
+      "죽순밥, bamboo-shoot rice"
+    ],
+    "where": [
+      "Damyang (담양)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Brunch",
+        "url": "https://brunch.co.kr/@young8500/100"
+      }
+    ],
+    "lane": "greens",
+    "id": "juksun",
+    "ko": "죽순",
+    "rr": "juksun",
+    "en": "Bamboo shoot",
+    "phrase": "bamboo shoots",
+    "tier": "local",
+    "blurb": "Young bamboo shoots from Damyang, cut in May-June. The window is short because the shoots turn fibrous fast, but they freeze well and sell all year."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [
+      "풋마늘 고추장 무침, dressed with chili paste"
+    ],
+    "where": [
+      "Namhae (남해)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "농사로 3월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=3"
+      }
+    ],
+    "lane": "greens",
+    "id": "putmaneul",
+    "ko": "풋마늘",
+    "rr": "punmaneul",
+    "en": "Green garlic",
+    "tier": "local",
+    "blurb": "Young garlic pulled before the bulb forms, placed in March on the farm agency's monthly list. That list is for menu planning, so treat it as a rough placement more than a harvest date."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "05-01",
+        "to": "05-10",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "eat": [
+      "마늘종 조림, braised scapes",
+      "비빔밥, rice bowl"
+    ],
+    "where": [
+      "Namhae (남해)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "maneul"
+    ],
+    "sources": [
+      {
+        "label": "경인",
+        "url": "https://www.kyeongin.com/article/1548855"
+      },
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1141764"
+      }
+    ],
+    "lane": "greens",
+    "id": "maneuljong",
+    "ko": "마늘종",
+    "rr": "maneuljong",
+    "en": "Garlic scape",
+    "tier": "local",
+    "blurb": "The flower stalk of garlic, picked in early May. It turned into a bibimbap mini-trend in 2026. Namhae's garlic ships about 20 days after the scape harvest ends."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "04-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "강남구",
+        "url": "https://www.gangnam.go.kr/board/B_000031/1074136/view.do?mid=ID01"
+      }
+    ],
+    "lane": "greens",
+    "id": "buchu",
+    "ko": "부추",
+    "rr": "buchu",
+    "en": "Garlic chives",
+    "phrase": "garlic chives",
+    "tier": "local",
+    "blurb": "Garlic chives, Gangnam district's pick for April in its 2025 vegetable calendar. Treat April as a rough placement more than a harvest date."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "05-21",
+        "to": "06-30",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "eat": [
+      "장아찌, pickle",
+      "Raw"
+    ],
+    "where": [
+      "Namhae (남해)",
+      "Uiseong (의성)",
+      "Seosan (서산)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Namhae Garlic and Hanwoo Festival, Jun 11-14, 2026"
+    ],
+    "related": [
+      "maneuljong"
+    ],
+    "sources": [
+      {
+        "label": "경인",
+        "url": "https://www.kyeongin.com/article/1548855"
+      },
+      {
+        "label": "Kukinews",
+        "url": "https://www.kukinews.com/article/view/kuk202606160018"
+      }
+    ],
+    "lane": "greens",
+    "id": "maneul",
+    "ko": "마늘",
+    "rr": "maneul",
+    "en": "Garlic",
+    "phrase": "garlic",
+    "tier": "known",
+    "blurb": "Garlic comes in from Namhae first, in late May and early June, and Seosan's six-clove garlic follows in mid to late June. Uiseong was in full harvest by June 16, 2026, though its festival ran Oct 3-5, 2026."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "05-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Early type, Jeju"
+      },
+      {
+        "from": "06-01",
+        "to": "06-30",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Main crop"
+      }
+    ],
+    "eat": [],
+    "where": [
+      "Daejeong, Jeju (제주 대정)",
+      "Changnyeong (창녕)",
+      "Muan (무안)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "경인",
+        "url": "https://www.kyeongin.com/article/1631170"
+      },
+      {
+        "label": "Metro",
+        "url": "https://www.metroseoul.co.kr/article/20240613500456"
+      }
+    ],
+    "lane": "greens",
+    "id": "yangpa",
+    "ko": "양파",
+    "rr": "yangpa",
+    "en": "Onion",
+    "phrase": "onions",
+    "tier": "known",
+    "blurb": "Early onions come from Jeju in March-May and sell fresh. The main crop arrives in June and goes into storage. About 85% of Changnyeong's crop is the mid-late type, harvested from early June."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "anchor": "haji",
+        "before": 10,
+        "after": 9,
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "eat": [
+      "찐감자, steamed potato",
+      "수프, soup",
+      "된장국, soybean-paste soup"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "RDA",
+        "url": "https://www.rda.go.kr/webzine/2024/03/sub2-8.html"
+      }
+    ],
+    "lane": "greens",
+    "id": "haji-gamja",
+    "ko": "하지감자",
+    "rr": "haji gamja",
+    "en": "Solstice potato",
+    "phrase": "solstice potatoes",
+    "tier": "known",
+    "blurb": "A potato dug around the summer solstice, June 21-22, to beat the monsoon. Growers plant in early April and dig in late June. Prices fall because every field comes in at once, and one writer says it can only be eaten in June."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "06-30",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "강남구",
+        "url": "https://www.gangnam.go.kr/board/B_000031/1074136/view.do?mid=ID01"
+      },
+      {
+        "label": "농사로 6월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=6"
+      }
+    ],
+    "lane": "greens",
+    "id": "wandukong",
+    "ko": "완두콩",
+    "rr": "wandukong",
+    "en": "Peas",
+    "tier": "local",
+    "blurb": "Peas, placed in June by Gangnam district's 2025 calendar and by the farm agency's June list. The agency's list is for menu planning, so treat June as a rough placement more than a harvest date."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "06-30",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "강남구",
+        "url": "https://www.gangnam.go.kr/board/B_000031/1074136/view.do?mid=ID01"
+      },
+      {
+        "label": "농사로 6월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=6"
+      }
+    ],
+    "lane": "greens",
+    "id": "gangnangkong",
+    "ko": "강낭콩",
+    "rr": "gangnangkong",
+    "en": "Kidney beans",
+    "tier": "local",
+    "blurb": "Kidney beans, placed in June by the farm agency's list and Gangnam district's calendar. The agency's list is for menu planning, so treat June as a rough placement more than a harvest date."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "05-01",
+        "to": "05-31",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "농사로 5월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=5"
+      }
+    ],
+    "lane": "greens",
+    "id": "oi",
+    "ko": "오이",
+    "rr": "oi",
+    "en": "Cucumber",
+    "tier": "local",
+    "blurb": "Cucumber, placed in May by Korea's farm agency monthly list. That list is for menu planning, so treat it as a rough placement more than a harvest date."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "05-01",
+        "to": "05-31",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "농사로 5월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=5"
+      }
+    ],
+    "lane": "greens",
+    "id": "sangchu",
+    "ko": "상추",
+    "rr": "sangchu",
+    "en": "Lettuce",
+    "tier": "local",
+    "blurb": "Lettuce, placed in May by Korea's farm agency monthly list. That list is for menu planning, so treat it as a rough placement more than a harvest date."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "07-01",
+        "to": "09-30",
+        "kind": "peak",
+        "mark": "weak",
+        "label": "Namu list"
+      },
+      {
+        "from": "05-01",
+        "to": "05-31",
+        "kind": "peak",
+        "mark": "list",
+        "label": "RDA list"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      },
+      {
+        "label": "농사로 5월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=5"
+      }
+    ],
+    "lane": "greens",
+    "id": "tomato",
+    "ko": "토마토",
+    "rr": "tomato",
+    "en": "Tomato",
+    "phrase": "tomatoes",
+    "tier": "known",
+    "blurb": "Tomato months depend on who you ask. One wiki list gives July-September, while the farm agency's monthly list places it in May. That list is for menu planning, so May is a placement more than a harvest date.",
+    "caveat": "The sources split, so neither window is firm."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "07-31",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "농사로 6월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=6"
+      },
+      {
+        "label": "농사로 7월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=7"
+      }
+    ],
+    "lane": "greens",
+    "id": "gaji",
+    "ko": "가지",
+    "rr": "gaji",
+    "en": "Eggplant",
+    "tier": "local",
+    "blurb": "Eggplant, placed in June or July by the farm agency's monthly lists. That list is for menu planning, so treat it as a rough placement more than a harvest date."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "07-31",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "농사로 6월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=6"
+      },
+      {
+        "label": "농사로 7월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=7"
+      }
+    ],
+    "lane": "greens",
+    "id": "yeolmu",
+    "ko": "열무",
+    "rr": "yeolmu",
+    "en": "Young radish",
+    "tier": "local",
+    "blurb": "Young radish, placed in June or July by the farm agency's monthly lists. That list is for menu planning, so treat it as a rough placement more than a harvest date."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "07-31",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "농사로 6월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=6"
+      },
+      {
+        "label": "농사로 7월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=7"
+      }
+    ],
+    "lane": "greens",
+    "id": "aehobak",
+    "ko": "애호박",
+    "rr": "aehobak",
+    "en": "Korean zucchini",
+    "tier": "local",
+    "blurb": "Korean zucchini, placed in June or July by the farm agency's monthly lists. That list is for menu planning, so treat it as a rough placement more than a harvest date."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "06-01",
+        "to": "09-30",
+        "kind": "peak",
+        "mark": "weak"
+      }
+    ],
+    "eat": [
+      "나물, seasoned greens"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/비름"
+      }
+    ],
+    "lane": "greens",
+    "id": "bireum",
+    "ko": "비름",
+    "rr": "bireum",
+    "en": "Amaranth greens",
+    "tier": "local",
+    "blurb": "Amaranth greens, eaten as young shoots in seasoned namul (나물). The June-September window rests on one wiki page, so treat it as a lead."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [
+      "쌈, steamed wraps",
+      "Soup"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/호박"
+      }
+    ],
+    "lane": "greens",
+    "id": "hobakip",
+    "ko": "호박잎",
+    "rr": "hobakip",
+    "en": "Pumpkin leaves",
+    "tier": "local",
+    "undated": [
+      "summer"
+    ],
+    "blurb": "Pumpkin leaves, a summer food with no sourced month. People steam them for wraps or put them in soup, and they cannot be eaten raw."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "07-01",
+        "to": "07-31",
+        "kind": "peak",
+        "mark": "sourced"
+      },
+      {
+        "from": "06-11",
+        "to": "10-20",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Greenhouse to late tail"
+      }
+    ],
+    "eat": [
+      "Steamed with 2-3 inner husks left on"
+    ],
+    "where": [
+      "Hongcheon (홍천)",
+      "Goesan (괴산)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Hongcheon Corn Festival, 30th, Jul 17-19, 2026"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "RDA",
+        "url": "https://rda.go.kr/middlePopOpenPopNongsaroDBView.do?no=1419"
+      },
+      {
+        "label": "Segye",
+        "url": "https://www.segye.com/newsView/20260626504753"
+      },
+      {
+        "label": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0115_202607190241380529"
+      }
+    ],
+    "lane": "greens",
+    "id": "chal-oksusu",
+    "ko": "찰옥수수",
+    "rr": "chal oksusu",
+    "en": "Waxy corn",
+    "phrase": "waxy corn",
+    "tier": "known",
+    "blurb": "Waxy corn, usually eaten steamed with two or three inner husks left on. It peaks in July. Hongcheon shipped greenhouse corn on June 18, 2026, and harvest runs to mid-October. Goesan had 1,400 farms and about 11,500 t in 2026, and the best picking is 25-27 days after silking.",
+    "caveat": "August is the end of the prime run, not the peak."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "08-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "농사로 8월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=8"
+      }
+    ],
+    "lane": "greens",
+    "id": "gochu",
+    "ko": "고추",
+    "rr": "gochu",
+    "en": "Chili pepper",
+    "tier": "local",
+    "blurb": "Chili pepper, placed in August by Korea's farm agency monthly list. That list is for menu planning, so treat it as a rough placement more than a harvest date."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "08-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "농사로 8월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=8"
+      }
+    ],
+    "lane": "greens",
+    "id": "putkong",
+    "ko": "풋콩",
+    "rr": "putkong",
+    "en": "Green soybeans",
+    "tier": "local",
+    "blurb": "Green soybeans, placed in August by Korea's farm agency monthly list. That list is for menu planning, so treat it as a rough placement more than a harvest date."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "08-01",
+        "to": "08-31",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "goguma"
+    ],
+    "sources": [
+      {
+        "label": "농사로 8월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=8"
+      }
+    ],
+    "lane": "greens",
+    "id": "goguma-sun",
+    "ko": "고구마순",
+    "rr": "goguma sun",
+    "en": "Sweet potato stems",
+    "tier": "local",
+    "blurb": "Sweet potato stems, placed in August by Korea's farm agency monthly list. That list is for menu planning, so treat it as a rough placement more than a harvest date."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "08-01",
+        "to": "09-30",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [
+      "Raw or blanched"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      },
+      {
+        "label": "농사로 8월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=8"
+      },
+      {
+        "label": "Khan",
+        "url": "https://www.khan.co.kr/article/202403161800001"
+      }
+    ],
+    "lane": "greens",
+    "id": "chamnamul",
+    "ko": "참나물",
+    "rr": "chamnamul",
+    "en": "Chamnamul (mountain green)",
+    "tier": "local",
+    "blurb": "A mountain green that two lists place in August-September, though another site names it a spring green. The farm agency's list is for menu planning, so treat the months as a rough placement more than a harvest date. It is eaten raw or blanched.",
+    "caveat": "One site also names it a spring green."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "08-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "강남구",
+        "url": "https://www.gangnam.go.kr/board/B_000031/1074136/view.do?mid=ID01"
+      },
+      {
+        "label": "농사로 11월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=11"
+      }
+    ],
+    "lane": "greens",
+    "id": "danhobak",
+    "ko": "단호박",
+    "rr": "danhobak",
+    "en": "Kabocha",
+    "tier": "local",
+    "blurb": "Kabocha squash. Gangnam district picks August while the farm agency lists it for November, so the lists disagree.",
+    "caveat": "The Aug-Nov range is the union of the two lists."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Sep-Oct, shipments peak mid Oct"
+      }
+    ],
+    "eat": [
+      "Grilled with salt",
+      "송이밥, rice",
+      "Soup",
+      "전골, hot pot"
+    ],
+    "where": [
+      "Yangyang (양양)",
+      "Bonghwa (봉화)",
+      "Yeongdeok (영덕)",
+      "Uljin (울진)",
+      "Samcheok (삼척)",
+      "Goseong (고성)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Yangyang Songi and Salmon Festival, Oct 16-18, 2026",
+      "Bonghwa Songi Festival, 30th, Oct 15-18, 2026"
+    ],
+    "related": [
+      "neungi",
+      "pyogo"
+    ],
+    "sources": [
+      {
+        "label": "MTN",
+        "url": "https://news.mtn.co.kr/news-detail/2026070212441332764"
+      },
+      {
+        "label": "Bravo",
+        "url": "https://bravo.etoday.co.kr/view/atc_view/3963"
+      },
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1159597"
+      }
+    ],
+    "lane": "greens",
+    "id": "songi",
+    "ko": "송이",
+    "rr": "songi",
+    "en": "Pine mushroom",
+    "phrase": "pine mushrooms",
+    "tier": "national",
+    "blurb": "A wild mushroom that cannot be cultivated, so its season is real. Yangyang moved its 2026 festival to Oct 16-18, citing later harvests and shipments that peak in mid-October. Output swings between roughly 50 t and 400 t depending on weather.",
+    "caveat": "A 2014 article puts the start in early September, against mid-October peaks in 2026. In 2025, Yeongdeok top grade averaged 420,000 won at origin, up 40%, after wildfires and a hot September."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "10-10",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "eat": [
+      "초고추장, blanched with chili-vinegar paste",
+      "백숙, chicken soup",
+      "전골, hot pot"
+    ],
+    "where": [
+      "Inje (인제)",
+      "Yangyang (양양)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "songi",
+      "pyogo"
+    ],
+    "sources": [
+      {
+        "label": "산림청",
+        "url": "https://forest.go.kr/kfs/images/data/down/imsan/능이버섯.pdf"
+      },
+      {
+        "label": "Bravo",
+        "url": "https://bravo.etoday.co.kr/view/atc_view/3963"
+      }
+    ],
+    "lane": "greens",
+    "id": "neungi",
+    "ko": "능이",
+    "rr": "neungi",
+    "en": "Neungi mushroom",
+    "phrase": "neungi mushrooms",
+    "tier": "known",
+    "blurb": "A wild autumn mushroom that must be blanched twice and never eaten raw. The ranking \"il neungi, i pyogo, sam songi\" (first neungi, second shiitake, third pine mushroom) has no known author, and columnist Hwang Gwang-hae calls it nonsense. A 2012 article orders them neungi, songi, pyogo.",
+    "caveat": "Another source starts the season in late September."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "eat": [
+      "찌개, stew",
+      "탕, soup",
+      "Dried powder"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "songi",
+      "neungi"
+    ],
+    "sources": [
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1159597"
+      }
+    ],
+    "lane": "greens",
+    "id": "pyogo",
+    "ko": "표고",
+    "rr": "pyogo",
+    "en": "Shiitake",
+    "phrase": "shiitake",
+    "tier": "known",
+    "blurb": "Shiitake has a September-October season in the press, but it is farmed and dried all year. Unlike pine mushroom and neungi, it can be cultivated.",
+    "caveat": "Farmed and dried all year, so the season is soft."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "강남구",
+        "url": "https://www.gangnam.go.kr/board/B_000031/1073409/view.do?mid=ID01"
+      },
+      {
+        "label": "농사로 9월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=9"
+      },
+      {
+        "label": "농사로 10월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=10"
+      }
+    ],
+    "lane": "greens",
+    "id": "neutari",
+    "ko": "느타리",
+    "rr": "neutari",
+    "en": "Oyster mushroom",
+    "tier": "local",
+    "blurb": "Oyster mushroom, placed in September-October by official lists but farmed all year. The farm agency's list is for menu planning, so treat the months as a rough placement more than a harvest date.",
+    "caveat": "Farmed all year."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "강남구",
+        "url": "https://www.gangnam.go.kr/board/B_000031/1073409/view.do?mid=ID01"
+      },
+      {
+        "label": "농사로 9월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=9"
+      },
+      {
+        "label": "농사로 10월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=10"
+      }
+    ],
+    "lane": "greens",
+    "id": "paengi",
+    "ko": "팽이",
+    "rr": "paengi",
+    "en": "Enoki",
+    "tier": "local",
+    "blurb": "Enoki, placed in September-October by official lists but farmed all year. The farm agency's list is for menu planning, so treat the months as a rough placement more than a harvest date.",
+    "caveat": "Farmed all year."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "강남구",
+        "url": "https://www.gangnam.go.kr/board/B_000031/1073409/view.do?mid=ID01"
+      },
+      {
+        "label": "농사로 9월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=9"
+      },
+      {
+        "label": "농사로 10월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=10"
+      }
+    ],
+    "lane": "greens",
+    "id": "saesongi",
+    "ko": "새송이",
+    "rr": "saesongi",
+    "en": "King oyster mushroom",
+    "tier": "local",
+    "blurb": "King oyster mushroom, placed in September-October by official lists but farmed all year. The farm agency's list is for menu planning, so treat the months as a rough placement more than a harvest date.",
+    "caveat": "Farmed all year."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "08-21",
+        "to": "09-10",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Early types"
+      },
+      {
+        "from": "10-01",
+        "to": "10-20",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Main crop"
+      }
+    ],
+    "eat": [
+      "밥, rice",
+      "Chuseok table rice"
+    ],
+    "where": [
+      "Goheung (고흥)",
+      "Damyang (담양)",
+      "Hamyang (함양)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "MAFRA",
+        "url": "https://mafra.go.kr/bbs/home/793/575201/artclView.do"
+      },
+      {
+        "label": "Wikitree",
+        "url": "https://www.wikitree.co.kr/articles/1152721"
+      }
+    ],
+    "lane": "greens",
+    "id": "haepssal",
+    "ko": "햅쌀",
+    "rr": "haepssal",
+    "en": "New-crop rice",
+    "phrase": "the first new rice",
+    "tier": "known",
+    "blurb": "Early rice comes in from late August, and the main crop follows in early to mid-October. About 90% of Korean rice is the mid-late type. Goheung cut its first early rice on Aug 14, 2026, and Damyang harvested the Haedam variety on Aug 20, 2026, aimed at Chuseok (추석), the autumn harvest holiday."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "10-20",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "eat": [
+      "막국수, buckwheat noodles",
+      "평양냉면, cold noodles",
+      "메밀묵, jelly",
+      "빙떡, Jeju rolled pancake",
+      "메밀전병, wraps"
+    ],
+    "where": [
+      "Bongpyeong (봉평)",
+      "Jeju (제주)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/메밀"
+      },
+      {
+        "label": "리컴에리어",
+        "url": "https://recomarea.com/festival/FestivalMain?month=6"
+      }
+    ],
+    "lane": "greens",
+    "id": "memil",
+    "ko": "메밀",
+    "rr": "memil",
+    "en": "Buckwheat",
+    "phrase": "buckwheat",
+    "tier": "known",
+    "blurb": "Buckwheat flowers in August-September and ripens 10-12 weeks after sowing, which is how the harvest window was estimated. Jeju grows about 30% of Korea's crop and Gangwon about 10%. Jeju also has a June festival.",
+    "caveat": "The Sep-mid Oct window is an estimate. No source states harvest months."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "09-01",
+        "to": "11-30",
+        "kind": "season",
+        "mark": "est",
+        "label": "From Sep"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "seoritae"
+    ],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/콩"
+      }
+    ],
+    "lane": "greens",
+    "id": "haetkong",
+    "ko": "햇콩",
+    "rr": "haetkong",
+    "en": "New beans",
+    "tier": "local",
+    "blurb": "The new bean crop, available from September. The only source gives a start month, so the end of this window is a guess.",
+    "caveat": "The start rests on one wiki, and the end is an estimate."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "10-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "weak"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "haetkong"
+    ],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/서리태"
+      }
+    ],
+    "lane": "greens",
+    "id": "seoritae",
+    "ko": "서리태",
+    "rr": "seoritae",
+    "en": "Black soybean",
+    "tier": "local",
+    "blurb": "A black soybean harvested in October-November. The window rests on one wiki page, so treat it as a lead."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "anchor": "chuseok",
+        "before": 10,
+        "after": 2,
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "eat": [
+      "토란국, taro soup (boil the peeled root in salt water to cut slime)",
+      "육개장, with taro stems"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "toran-dae"
+    ],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/토란"
+      },
+      {
+        "label": "농사로 9월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=9"
+      }
+    ],
+    "lane": "greens",
+    "id": "toran",
+    "ko": "토란",
+    "rr": "toran",
+    "en": "Taro",
+    "phrase": "taro",
+    "tier": "local",
+    "blurb": "Taro, planted in April-May and eaten around Chuseok (추석), the autumn harvest holiday. The farm agency's list agrees on September. Boil the peeled root in salt water to cut the slime."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "10-21",
+        "to": "11-10",
+        "kind": "peak",
+        "mark": "weak"
+      }
+    ],
+    "eat": [
+      "연근조림, braised",
+      "전, pancake",
+      "튀김, fried"
+    ],
+    "where": [
+      "Daegu (대구)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/연근"
+      },
+      {
+        "label": "농사로 10월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=10"
+      }
+    ],
+    "lane": "greens",
+    "id": "yeongeun",
+    "ko": "연근",
+    "rr": "yeongeun",
+    "en": "Lotus root",
+    "phrase": "lotus root",
+    "tier": "local",
+    "blurb": "Lotus root is juiciest in late October and early November, according to one wiki. Lists place it in August, October and December. Daegu is said to grow about 70% of the national crop.",
+    "caveat": "Lists disagree on the month, and the Daegu share comes from one wiki."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "10-01",
+        "to": "04-30",
+        "kind": "peak",
+        "mark": "est"
+      }
+    ],
+    "eat": [
+      "Grilled plain or in sauce",
+      "더덕차, tea",
+      "섭산삼, battered and fried"
+    ],
+    "where": [
+      "Hoengseong (횡성)",
+      "Ulleungdo (울릉도)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "산림청",
+        "url": "https://forest.go.kr/kfs/images/data/down/imsan/imsan_03_04.pdf"
+      }
+    ],
+    "lane": "greens",
+    "id": "deodeok",
+    "ko": "더덕",
+    "rr": "deodeok",
+    "en": "Bonnet bellflower root",
+    "phrase": "bonnet bellflower root",
+    "tier": "local",
+    "blurb": "A root dug from October until spring sprouting, which explains why one wiki lists it Jan-Apr and the farm agency lists January. Hoengseong holds a geographical indication for it.",
+    "caveat": "The Oct-Apr window is a judgment call. Nothing says autumn and spring roots taste the same."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [
+      "나물, seasoned greens",
+      "고추장 양념, chili-paste dressing",
+      "Grilled with meat",
+      "도라지차, tea"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "산림청",
+        "url": "https://forest.go.kr/kfs/images/data/down/imsan/imsan_03_05.pdf"
+      }
+    ],
+    "lane": "greens",
+    "id": "doraji",
+    "ko": "도라지",
+    "rr": "doraji",
+    "en": "Balloon flower root",
+    "phrase": "balloon flower root",
+    "tier": "known",
+    "undated": [
+      "autumn",
+      "spring"
+    ],
+    "blurb": "Balloon flower root, dug in autumn or in spring after the thaw, with no month given. That fits the farm agency's January and October listings. Cooks soak it to remove bitterness."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "02-28",
+        "kind": "peak",
+        "mark": "sourced",
+        "label": "Best eating"
+      },
+      {
+        "from": "08-01",
+        "to": "11-30",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Dug"
+      }
+    ],
+    "eat": [
+      "군고구마, roasted",
+      "찐고구마, steamed"
+    ],
+    "where": [
+      "Haenam (해남)",
+      "Yeoju (여주)",
+      "Iksan (익산)",
+      "Yeongam (영암)",
+      "Gochang (고창)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "gungoguma",
+      "goguma-sun"
+    ],
+    "sources": [
+      {
+        "label": "Kukinews",
+        "url": "https://www.kukinews.com/article/view/kuk202208220016"
+      },
+      {
+        "label": "RDA",
+        "url": "https://www.rda.go.kr/webzine/2026/09/3_3.html"
+      },
+      {
+        "label": "FN News",
+        "url": "https://www.fnnews.com/news/202610161447195841"
+      }
+    ],
+    "lane": "greens",
+    "id": "goguma",
+    "ko": "고구마",
+    "rr": "goguma",
+    "en": "Sweet potato",
+    "phrase": "sweet potatoes",
+    "tier": "known",
+    "blurb": "Sweet potatoes are dug from August to November, but fresh tubers are starchy. Storage sweetens them, and growers say November-February tastes best. Growers in Yeoju and Haenam expected about 70% of the prior year's yield in 2026 after a dry summer.",
+    "caveat": "Sources put the start of harvest anywhere from late July to October."
+  },
+  {
+    "aka": [
+      "수삼"
+    ],
+    "windows": [],
+    "eat": [
+      "삼계탕, ginseng chicken soup"
+    ],
+    "where": [
+      "Geumsan (금산)"
+    ],
+    "closures": [],
+    "festivals": [
+      "Geumsan World Ginseng Festival, 44th, Oct 2-11, 2026"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "The Fact",
+        "url": "https://news.tf.co.kr/read/ogmeta/2371212.htm"
+      },
+      {
+        "label": "농사로 7월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=7"
+      }
+    ],
+    "lane": "greens",
+    "id": "insam",
+    "ko": "인삼",
+    "rr": "insam",
+    "en": "Ginseng",
+    "phrase": "ginseng",
+    "tier": "known",
+    "undated": [],
+    "blurb": "Ginseng, with no sourced harvest month. Geumsan's festival runs in October, while the farm agency lists fresh ginseng (susam, 수삼) in July."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [
+      "생강청, syrup",
+      "생강차, tea",
+      "편강, candied ginger"
+    ],
+    "where": [
+      "Wanju Bongdong (완주 봉동)",
+      "Andong (안동)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/생강"
+      },
+      {
+        "label": "농사로 12월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=12"
+      }
+    ],
+    "lane": "greens",
+    "id": "saenggang",
+    "ko": "생강",
+    "rr": "saenggang",
+    "en": "Ginger",
+    "phrase": "ginger",
+    "tier": "local",
+    "undated": [
+      "autumn"
+    ],
+    "blurb": "New ginger is an autumn crop, but no source gives a month. The farm agency lists it for December. It goes into gimjang (김장), the annual kimchi-making."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "01-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "weak"
+      }
+    ],
+    "eat": [
+      "조림, braised"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      }
+    ],
+    "lane": "greens",
+    "id": "ugeong",
+    "ko": "우엉",
+    "rr": "ugeong",
+    "en": "Burdock",
+    "tier": "local",
+    "blurb": "Burdock root, listed for January-March by a single wiki list with no harvest month. Cooks braise it, and it goes into kimbap (김밥) fillings."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "10-01",
+        "to": "10-31",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [
+      "아욱국, mallow soup, often with small dried shrimp"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "강남구",
+        "url": "https://www.gangnam.go.kr/board/B_000031/1074136/view.do?mid=ID01"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/아욱"
+      }
+    ],
+    "lane": "greens",
+    "id": "auk",
+    "ko": "아욱",
+    "rr": "auk",
+    "en": "Mallow",
+    "tier": "local",
+    "blurb": "A leafy green for soup, placed in October by Gangnam district. An old saying, \"gaeul aukguk-eun mun dada geolgo meokneunda\", holds that autumn mallow soup is eaten behind a closed door."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "10-01",
+        "to": "11-30",
+        "kind": "peak",
+        "mark": "list"
+      },
+      {
+        "from": "11-01",
+        "to": "02-28",
+        "kind": "season",
+        "mark": "est",
+        "label": "Late autumn to winter"
+      }
+    ],
+    "eat": [
+      "호박죽, pumpkin porridge",
+      "전, pancake",
+      "떡, rice cake",
+      "찌개, stew"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "농사로 10월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=10"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/호박"
+      }
+    ],
+    "lane": "greens",
+    "id": "neulgeun-hobak",
+    "ko": "늙은호박",
+    "rr": "neulgeun hobak",
+    "en": "Mature pumpkin",
+    "tier": "known",
+    "phrase": "mature pumpkin",
+    "blurb": "Mature pumpkin, listed for October-November by the farm agency and described as a late autumn to winter food. It becomes pumpkin porridge, pancakes, rice cakes and stew."
+  },
+  {
+    "aka": [
+      "가을무"
+    ],
+    "windows": [
+      {
+        "from": "10-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "eat": [
+      "무생채, shredded salad",
+      "무밥, rice",
+      "무조림, braised",
+      "무국, soup"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "baechu",
+      "gimjang",
+      "jeju-woldongmu",
+      "siraegi"
+    ],
+    "sources": [
+      {
+        "label": "Herald",
+        "url": "https://www.heraldk.com/article/2025112814500048539"
+      }
+    ],
+    "lane": "greens",
+    "id": "mu",
+    "ko": "무",
+    "rr": "mu",
+    "en": "Autumn radish",
+    "phrase": "autumn radish",
+    "tier": "known",
+    "blurb": "Radish sown in August-September and eaten October-December. Koreans call winter radish dongsam (동삼), \"winter ginseng\", and one saying holds that autumn radish is a tonic. The 2026 national crop forecast was 345,000 t."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "11-11",
+        "to": "04-10",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "eat": [],
+    "where": [
+      "Seongsan, Jeju (제주 성산)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "mu"
+    ],
+    "sources": [
+      {
+        "label": "경인",
+        "url": "https://www.kyeongin.com/article/1576735"
+      }
+    ],
+    "lane": "greens",
+    "id": "jeju-woldongmu",
+    "ko": "제주 월동무",
+    "rr": "jeju woldongmu",
+    "en": "Jeju overwintered radish",
+    "tier": "local",
+    "blurb": "Overwintered radish harvested on Jeju from mid-November to early April. Seongsan produces about 30% of national radish output."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "sourced"
+      },
+      {
+        "from": "10-21",
+        "to": "10-31",
+        "kind": "season",
+        "mark": "sourced",
+        "label": "Shipments from late Oct"
+      }
+    ],
+    "eat": [
+      "김장 kimchi"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "gimjang",
+      "mu",
+      "jjokpa"
+    ],
+    "sources": [
+      {
+        "label": "뉴스서울",
+        "url": "https://www.newsseoul.co.kr/news/view/1065605418494190"
+      },
+      {
+        "label": "Namu list",
+        "url": "https://namu.wiki/w/%EC%A0%9C%EC%B2%A0%20%EC%9D%8C%EC%8B%9D"
+      }
+    ],
+    "lane": "greens",
+    "id": "baechu",
+    "ko": "배추",
+    "rr": "baechu",
+    "en": "Napa cabbage",
+    "phrase": "napa cabbage",
+    "tier": "national",
+    "blurb": "Autumn napa cabbage, the crop behind gimjang (김장), the annual kimchi-making. Shipments rise from late October and arrive in full from November. In 2026 retail price was 5,557 won a head, down 10.3%, and the ministries planned a gimjang price package from Nov 9.",
+    "caveat": "Haenam winter cabbage has a geographical indication, but we found no calendar for it."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [
+      "파김치, scallion kimchi"
+    ],
+    "where": [
+      "Hongseong (홍성)",
+      "Asan (아산)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "gimjang",
+      "baechu"
+    ],
+    "sources": [
+      {
+        "label": "뉴스서울",
+        "url": "https://www.newsseoul.co.kr/news/view/1065605418494190"
+      },
+      {
+        "label": "농사로 10월",
+        "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03924&code=&tabCode=1&dtlCode=3&month=10"
+      }
+    ],
+    "lane": "greens",
+    "id": "jjokpa",
+    "ko": "쪽파",
+    "rr": "jjokpa",
+    "en": "Scallion",
+    "tier": "local",
+    "undated": [
+      "autumn"
+    ],
+    "blurb": "A thin scallion grown as an autumn field crop for gimjang (김장), the annual kimchi-making. No source gives a month. Hongseong and Asan are named as growers."
+  },
+  {
+    "aka": [
+      "섬초",
+      "포항초"
+    ],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "sourced"
+      }
+    ],
+    "eat": [
+      "섬초 무침, seasoned spinach",
+      "포항초 국, soup"
+    ],
+    "where": [
+      "Bigeumdo, Sinan (신안 비금도)",
+      "Pohang (포항)",
+      "Namhae (남해)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "매일신문",
+        "url": "https://www.imaeil.com/page/view/2025022409131874256"
+      },
+      {
+        "label": "Lady Khan",
+        "url": "https://lady.khan.co.kr/cooking/article/202601161348011"
+      },
+      {
+        "label": "Namu",
+        "url": "https://namu.wiki/w/시금치"
+      }
+    ],
+    "lane": "greens",
+    "id": "gyeoul-sigeumchi",
+    "ko": "겨울 시금치",
+    "rr": "gyeoul sigeumchi",
+    "en": "Winter spinach",
+    "phrase": "winter spinach",
+    "tier": "known",
+    "blurb": "Winter-sown spinach, sweeter than the spring-sown kind. Seomcho (섬초) from Sinan's islands has thick, broad leaves for namul. Pohangcho (포항초) is short with a plump root, suited to soup and hot pot.",
+    "caveat": "The farm agency's list also places spinach in May."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "강남구",
+        "url": "https://www.gangnam.go.kr/board/B_000031/1074136/view.do?mid=ID01"
+      },
+      {
+        "label": "강서구",
+        "url": "https://www.twig24.com/news/local_govern/news_local/2025/02/28/20250228500150"
+      }
+    ],
+    "lane": "greens",
+    "id": "beurokolli",
+    "ko": "브로콜리",
+    "rr": "beurokolli",
+    "en": "Broccoli",
+    "tier": "local",
+    "blurb": "Broccoli, placed in November-December by district and farm agency lists. Treat the months as a rough placement more than a harvest date."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "강남구",
+        "url": "https://www.gangnam.go.kr/board/B_000031/1074136/view.do?mid=ID01"
+      },
+      {
+        "label": "강서구",
+        "url": "https://www.twig24.com/news/local_govern/news_local/2025/02/28/20250228500150"
+      }
+    ],
+    "lane": "greens",
+    "id": "danggeun",
+    "ko": "당근",
+    "rr": "danggeun",
+    "en": "Carrot",
+    "tier": "local",
+    "blurb": "Carrot, placed in November-December by district and farm agency lists. Treat the months as a rough placement more than a harvest date."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "11-01",
+        "to": "12-31",
+        "kind": "peak",
+        "mark": "list"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "강남구",
+        "url": "https://www.gangnam.go.kr/board/B_000031/1074136/view.do?mid=ID01"
+      },
+      {
+        "label": "강서구",
+        "url": "https://www.twig24.com/news/local_govern/news_local/2025/02/28/20250228500150"
+      }
+    ],
+    "lane": "greens",
+    "id": "kollabi",
+    "ko": "콜라비",
+    "rr": "kollabi",
+    "en": "Kohlrabi",
+    "tier": "local",
+    "blurb": "Kohlrabi, placed in November-December by district and farm agency lists. Treat the months as a rough placement more than a harvest date."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "list",
+        "label": "Mar"
+      },
+      {
+        "from": "06-01",
+        "to": "06-30",
+        "kind": "peak",
+        "mark": "list",
+        "label": "Jun"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "농식품정보누리",
+        "url": "https://www.foodnuri.go.kr/portal/bbs/B0000299/list.do?menuNo=300106"
+      }
+    ],
+    "lane": "greens",
+    "id": "daepa",
+    "ko": "대파",
+    "rr": "daepa",
+    "en": "Green onion",
+    "tier": "local",
+    "blurb": "Green onion, which appears only on a government poster list, in March and June. That list is for menu planning, so treat it as a rough placement more than a harvest date.",
+    "caveat": "Poster items only."
+  },
+  {
+    "aka": [],
+    "windows": [
+      {
+        "from": "03-01",
+        "to": "03-31",
+        "kind": "peak",
+        "mark": "list",
+        "label": "Mar"
+      },
+      {
+        "from": "06-01",
+        "to": "06-30",
+        "kind": "peak",
+        "mark": "list",
+        "label": "Jun"
+      }
+    ],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [
+      {
+        "label": "농식품정보누리",
+        "url": "https://www.foodnuri.go.kr/portal/bbs/B0000299/list.do?menuNo=300106"
+      }
+    ],
+    "lane": "greens",
+    "id": "yangbaechu",
+    "ko": "양배추",
+    "rr": "yangbaechu",
+    "en": "Cabbage",
+    "tier": "local",
+    "blurb": "Cabbage, which appears only on a government poster list, in March and June. That list is for menu planning, so treat it as a rough placement more than a harvest date.",
+    "caveat": "Poster items only."
+  },
+  {
+    "aka": [
+      "참죽순"
+    ],
+    "windows": [],
+    "eat": [
+      "나물, seasoned greens",
+      "전, pancake",
+      "장아찌, pickle",
+      "김치, kimchi"
+    ],
+    "where": [
+      "Changwon (창원)",
+      "Changnyeong (창녕)",
+      "Muju (무주)",
+      "Yeongdong (영동)",
+      "Geumsan (금산)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [],
+    "lane": "greens",
+    "id": "gajuknamul",
+    "ko": "가죽나물",
+    "rr": "gajuknamul",
+    "en": "Toona shoots",
+    "tier": "local",
+    "undated": [],
+    "blurb": "A tree shoot with no sourced month, so it stays off the calendar. It turns up as seasoned greens, in pancakes, as pickles and in kimchi.",
+    "caveat": "Rare in Gyeonggi province and the north."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [],
+    "lane": "greens",
+    "id": "dareosun",
+    "ko": "다래순",
+    "rr": "dareosun",
+    "en": "Hardy kiwi shoots",
+    "tier": "local",
+    "undated": [],
+    "blurb": "Hardy kiwi shoots from the forest, with no sourced month. The one source mentions dried shoots for tea."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [],
+    "lane": "greens",
+    "id": "chopi-ip",
+    "ko": "초피 잎",
+    "rr": "chopi ip",
+    "en": "Korean pepper leaf",
+    "tier": "local",
+    "undated": [],
+    "blurb": "The fruit of the Korean pepper tree is a Sep-Oct crop, but the leaf has no sourced month. The ground fruit goes over chueotang (추어탕) and Gyeongsang-style spicy stew (maeuntang)."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [],
+    "lane": "greens",
+    "id": "jandae",
+    "ko": "잔대",
+    "rr": "jandae",
+    "en": "Ladybell root",
+    "tier": "local",
+    "undated": [],
+    "blurb": "A root with no sourced month, so it stays off the calendar."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [],
+    "lane": "greens",
+    "id": "gombobaechu",
+    "ko": "곰보배추",
+    "rr": "gombobaechu",
+    "en": "Gombobaechu herb",
+    "tier": "local",
+    "undated": [],
+    "blurb": "A herb with no sourced month, so it stays off the calendar."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [],
+    "lane": "greens",
+    "id": "samdongcho",
+    "ko": "삼동초",
+    "rr": "samdongcho",
+    "en": "Overwintered rape",
+    "tier": "local",
+    "undated": [],
+    "blurb": "Overwintered rape greens. No source gives a month, and no encyclopedia page covers it."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [
+      "김치, kimchi",
+      "나물, seasoned greens"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [],
+    "lane": "greens",
+    "id": "godeulppaegi",
+    "ko": "고들빼기",
+    "rr": "godeulppaegi",
+    "en": "Korean lettuce",
+    "tier": "local",
+    "undated": [],
+    "blurb": "A bitter green that goes into kimchi and seasoned namul (나물) after a soak in salt water. No source gives a month. Suncheon in Jeonnam is the named region."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [
+      "갓김치, mustard-green kimchi"
+    ],
+    "where": [
+      "Yeosu (여수)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [],
+    "lane": "greens",
+    "id": "dolsan-gat",
+    "ko": "돌산갓",
+    "rr": "dolsan gat",
+    "en": "Yeosu mustard greens",
+    "tier": "local",
+    "undated": [],
+    "blurb": "Mustard greens from Yeosu, with no sourced month. Mustard greens in general grow in spring and autumn, mostly autumn. The greens and their kimchi (gatkimchi, 갓김치) hold geographical indications."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "gimjang"
+    ],
+    "sources": [],
+    "lane": "greens",
+    "id": "gimjang-gat",
+    "ko": "김장 갓",
+    "rr": "gimjang gat",
+    "en": "Mustard greens",
+    "tier": "local",
+    "undated": [
+      "autumn"
+    ],
+    "blurb": "Mustard greens, mostly an autumn crop that goes into gimjang (김장), the annual kimchi-making. No source gives a month."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [],
+    "lane": "greens",
+    "id": "kkaennip",
+    "ko": "깻잎",
+    "rr": "kkaennip",
+    "en": "Perilla leaves",
+    "tier": "local",
+    "undated": [],
+    "blurb": "Perilla leaves, with no sourced month. The farm agency's list puts them in February, which reads as stored goods, not harvest."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [],
+    "lane": "greens",
+    "id": "kongip",
+    "ko": "콩잎",
+    "rr": "kongip",
+    "en": "Soybean leaves",
+    "tier": "local",
+    "undated": [],
+    "blurb": "Soybean leaves, with no sourced month and no recipe notes. Gyeongsang is the usual region."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [
+      "된장국, soybean-paste soup",
+      "나물, seasoned greens",
+      "쌈, wraps"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [],
+    "lane": "greens",
+    "id": "geundae",
+    "ko": "근대",
+    "rr": "geundae",
+    "en": "Chard",
+    "tier": "local",
+    "undated": [],
+    "blurb": "Chard, with no sourced month. It goes into soybean-paste soup (doenjang guk), seasoned greens and wraps."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "baechu"
+    ],
+    "sources": [],
+    "lane": "greens",
+    "id": "gorangji-baechu",
+    "ko": "고랭지 배추",
+    "rr": "gorangji baechu",
+    "en": "Highland cabbage",
+    "tier": "local",
+    "undated": [
+      "summer"
+    ],
+    "blurb": "Cabbage grown on highland sites above 400 m. Sources say only that it is a summer crop, and none gives a month."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "mu"
+    ],
+    "sources": [],
+    "lane": "greens",
+    "id": "gorangji-mu",
+    "ko": "고랭지 무",
+    "rr": "gorangji mu",
+    "en": "Highland radish",
+    "tier": "local",
+    "undated": [
+      "summer"
+    ],
+    "blurb": "Highland radish. Sources say only that it is a summer crop, and none gives a month."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [
+      "Haenam (해남)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "baechu"
+    ],
+    "sources": [],
+    "lane": "greens",
+    "id": "haenam-gyeoul-baechu",
+    "ko": "해남 겨울배추",
+    "rr": "haenam gyeoul baechu",
+    "en": "Haenam winter cabbage",
+    "tier": "local",
+    "undated": [],
+    "blurb": "Winter cabbage from Haenam, which holds a geographical indication. No source gives a harvest calendar."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "baechu"
+    ],
+    "sources": [],
+    "lane": "greens",
+    "id": "ugeoji",
+    "ko": "우거지",
+    "rr": "ugeoji",
+    "en": "Outer cabbage leaves",
+    "tier": "local",
+    "undated": [],
+    "blurb": "The outer leaves of napa cabbage. No source gives a month for them."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [
+      "육개장, spicy beef soup"
+    ],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "toran"
+    ],
+    "sources": [],
+    "lane": "greens",
+    "id": "toran-dae",
+    "ko": "토란대",
+    "rr": "toran dae",
+    "en": "Taro stems",
+    "tier": "local",
+    "undated": [],
+    "blurb": "Taro stems, which show up only in list placements with no harvest month. They go into yukgaejang (육개장), a spicy beef soup."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [],
+    "lane": "greens",
+    "id": "ma",
+    "ko": "마",
+    "rr": "ma",
+    "en": "Korean yam",
+    "tier": "local",
+    "undated": [],
+    "blurb": "Korean yam. No source gives a month for it."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [
+      "chal-oksusu"
+    ],
+    "sources": [],
+    "lane": "greens",
+    "id": "chodang-oksusu",
+    "ko": "초당옥수수",
+    "rr": "chodang oksusu",
+    "en": "Super-sweet corn",
+    "tier": "local",
+    "undated": [],
+    "blurb": "Super-sweet corn. No source gives a month for it."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [],
+    "lane": "greens",
+    "id": "ssari",
+    "ko": "싸리",
+    "rr": "ssari",
+    "en": "Ssari mushroom",
+    "tier": "local",
+    "undated": [],
+    "blurb": "A wild mushroom called ssari (싸리). No source gives a month for it."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [],
+    "lane": "greens",
+    "id": "bam-beoseot",
+    "ko": "밤버섯",
+    "rr": "bam beoseot",
+    "en": "Chestnut mushroom",
+    "tier": "local",
+    "undated": [],
+    "blurb": "A wild mushroom called bam-beoseot (밤버섯), the chestnut mushroom. No source gives a month for it."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [],
+    "lane": "greens",
+    "id": "kkachi-beoseot",
+    "ko": "까치버섯",
+    "rr": "kkachi beoseot",
+    "en": "Magpie mushroom",
+    "tier": "local",
+    "undated": [],
+    "blurb": "A wild mushroom called kkachi-beoseot (까치버섯), the magpie mushroom. No source gives a month for it."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [],
+    "lane": "greens",
+    "id": "seogi",
+    "ko": "석이",
+    "rr": "seogi",
+    "en": "Rock tripe mushroom",
+    "tier": "local",
+    "undated": [],
+    "blurb": "A wild mushroom called seogi (석이). No source gives a month for it."
+  },
+  {
+    "aka": [],
+    "windows": [],
+    "eat": [],
+    "where": [
+      "Ganghwa (강화)"
+    ],
+    "closures": [],
+    "festivals": [],
+    "related": [],
+    "sources": [],
+    "lane": "greens",
+    "id": "ganghwa-sunmu",
+    "ko": "강화 순무",
+    "rr": "ganghwa sunmu",
+    "en": "Ganghwa turnip",
+    "tier": "local",
+    "undated": [],
+    "blurb": "A turnip from Ganghwa. No source gives a sowing or harvest month for it."
+  }
+]
