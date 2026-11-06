@@ -2,7 +2,7 @@ import { useComputed, useSignal } from "@preact/signals";
 import { useEffect } from "preact/hooks";
 import { lunarOf, termAt } from "../lib/calendar.ts";
 import { FOODS, upcoming } from "../lib/client-data.ts";
-import { monthName, shortDate, toParts, WEEKDAYS, WEEKDAYS_KO, type DayNum } from "../lib/dates.ts";
+import { monthName, shortDate, toIso, toParts, WEEKDAYS, WEEKDAYS_KO, type DayNum } from "../lib/dates.ts";
 import { headlineRank } from "../lib/headliners.ts";
 import { itIs } from "../lib/korean.ts";
 import { inSeason, type InSeason } from "../lib/season.ts";
@@ -39,6 +39,22 @@ export function Hero() {
       .slice(0, PICKS);
   });
   const turn = useSignal(0);
+  const list = picks.value;
+  const pick = list.length > 0 ? list[turn.value % list.length] : undefined;
+  const copied = useSignal(false);
+
+  const share = async () => {
+    const url = new URL(location.href);
+    url.searchParams.set("d", toIso(day.peek()));
+    const title = `이맘때면 ${pick ? itIs(pick.food.ko) : ""}`;
+    if (typeof navigator.share === "function") {
+      await navigator.share({ title, url: url.href }).catch(() => undefined);
+      return;
+    }
+    await navigator.clipboard.writeText(url.href);
+    copied.value = true;
+    setTimeout(() => { copied.value = false; }, 1800);
+  };
 
   useEffect(() => {
     if (matchMedia("(prefers-reduced-motion: reduce)").matches) return undefined;
@@ -46,8 +62,6 @@ export function Hero() {
     return () => clearInterval(timer);
   }, []);
 
-  const list = picks.value;
-  const pick = list.length > 0 ? list[turn.value % list.length] : undefined;
   const { year, month, date, weekday } = parts.value;
   const red = weekday === 0 || Boolean(holiday.value);
   const moon = lunar.value;
@@ -66,6 +80,7 @@ export function Hero() {
           <span><span lang="ko">{WEEKDAYS_KO[weekday]}요일</span> {WEEKDAYS[weekday]}</span>
           {moon ? <span>음력 {moon.leap ? "윤" : ""}{moon.month}.{moon.date}</span> : null}
           <span>{isToday ? "Today in Seoul" : `${spot.value.nextStart - day.value} days to ${spot.value.next.rr}`}</span>
+          <span class="leaf-term"><span lang="ko">{spot.value.term.ko}</span> {spot.value.term.en}</span>
         </p>
         {holiday.value ? <p class="leaf-event"><span lang="ko">{holiday.value.event.ko}</span> {holiday.value.event.en}</p> : null}
       </div>
@@ -86,6 +101,7 @@ export function Hero() {
           Or what else? <span lang="ko">또 뭐 있어?</span>
         </button>
       ) : null}
+      <button type="button" class="share" onClick={share}>{copied.value ? "Link copied" : "Share this day"}</button>
       {!isToday ? (
         <button type="button" class="back-today" onClick={() => window.dispatchEvent(new CustomEvent("wheel:goto", { detail: today.value }))}>
           Back to today, {shortDate(today.value)}

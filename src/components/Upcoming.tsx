@@ -3,7 +3,7 @@ import { upcoming } from "../lib/client-data.ts";
 import { shortDate } from "../lib/dates.ts";
 import { settledDay } from "../lib/store.ts";
 
-const KIND_LABEL = { law: "Legal", term: "Solar term", holiday: "Holiday", market: "Market day", festival: "Festival" } as const;
+const KIND_LABEL = { law: "Legal", term: "Solar term", holiday: "Calendar", market: "Market day", festival: "Festival" } as const;
 
 export function Upcoming() {
   const list = useComputed(() => upcoming(settledDay.value, 8));

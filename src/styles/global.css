@@ -61,6 +61,7 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .leaf-num { font-family: var(--num); font-size: clamp(110px, 15vw, 210px); line-height: 1.02; letter-spacing: -.01em; }
 .leaf-num.red { color: var(--accent); }
 .leaf-side { display: flex; flex-direction: column; font-size: 15px; padding-bottom: 14px; line-height: 1.35; }
+.leaf-term { display: none; }
 .leaf-event { grid-column: 1 / -1; font-family: var(--sign-ko); font-size: 20px; color: var(--accent); }
 
 .line { margin-top: clamp(10px, 2vh, 26px); font-weight: 400; }
@@ -70,7 +71,7 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 @keyframes stamp { from { opacity: 0; transform: translateY(10px) scale(.97); } }
 .line-en { display: block; margin-top: 10px; font-size: clamp(18px, 1.7vw, 24px); font-weight: 500; }
 .line-en a { text-decoration-color: var(--accent); text-decoration-thickness: 2px; text-underline-offset: 3px; }
-.line-next, .back-today { margin-top: 12px; margin-right: 14px; font-size: 15px; font-weight: 600; border-bottom: 2px solid var(--accent); }
+.line-next, .back-today, .share { margin-top: 12px; margin-right: 14px; font-size: 15px; font-weight: 600; border-bottom: 2px solid var(--accent); }
 
 .wheel-frame { position: relative; display: flex; justify-content: center; align-items: center; }
 .wheel {
@@ -110,8 +111,9 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .pointer { position: absolute; left: 50%; top: -6px; width: 26px; transform: translateX(-50%); fill: var(--ink); pointer-events: none; }
 .wheel-tip {
   position: absolute; transform: translate(14px, -130%); pointer-events: none; white-space: nowrap;
-  background: var(--ink); color: var(--paper); padding: 4px 9px; font-size: 14px;
+  background: var(--ink); color: var(--paper); padding: 4px 9px; font-size: 14px; text-decoration: none; z-index: 2;
 }
+.wheel-tip.touch { pointer-events: auto; transform: translate(-50%, -130%); padding: 8px 12px; }
 .wheel-tip strong { font-family: var(--sign-ko); font-weight: 400; font-size: 17px; }
 
 .wall { padding: 12px clamp(16px, 3vw, 40px) 40px; }
@@ -158,6 +160,9 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .foot { padding: 28px clamp(16px, 3vw, 40px) 40px; border-top: 3px solid var(--ink); font-size: 15px; }
 
 @media (max-width: 640px) {
+  .filters { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin: 0 calc(-1 * clamp(16px, 3vw, 40px)); padding: 0 clamp(16px, 3vw, 40px); }
+  .filters::-webkit-scrollbar { display: none; }
+  .filters button { flex: none; }
   .brand-rr { display: none; }
   .top nav { font-size: 14.5px; gap: 12px; }
 }
@@ -168,6 +173,7 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
   .wheel-frame { height: 98vw; margin: 8px calc(-1 * clamp(16px, 3vw, 40px)) 0; align-items: flex-start; overflow: hidden; }
   .wheel { width: 195vw; max-width: 1100px; flex: none; margin-top: 18px; }
   .wheel-center { display: none; }
+  .leaf-term { display: block; }
   .pointer { top: -4px; }
 }
 
@@ -192,13 +198,17 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 /* Food page */
 .food { padding: 8px clamp(16px, 3vw, 40px) 40px; max-width: 1100px; margin: 0 auto; }
 .crumb { font-size: 14px; }
+.food-head { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 420px); column-gap: 28px; align-items: end; }
+.food-head > * { grid-column: 1; }
+.print { grid-column: 2; grid-row: 1 / span 5; align-self: end; margin: 0; }
+.print-ink { display: block; width: 100%; background: var(--ink); -webkit-mask: var(--src) center / contain no-repeat; mask: var(--src) center / contain no-repeat; }
 .food-head h1 { font-family: var(--display-ko); font-weight: 400; font-size: min(26vw, calc(92vw / var(--len, 2)), 260px); line-height: 1.1; margin-top: 6px; color: var(--accent); word-break: keep-all; }
 .food-names { font-size: clamp(22px, 2.6vw, 30px); display: flex; flex-wrap: wrap; gap: 4px 14px; align-items: baseline; }
 .food-names span { font-size: .72em; opacity: .85; }
 .food-aka { font-size: 15px; margin-top: 2px; }
 .food-when { margin-top: 26px; }
 .status { display: flex; gap: 12px; align-items: baseline; font-size: 17px; font-weight: 600; margin-bottom: 10px; }
-.status-ko { font-family: var(--display-ko); font-weight: 400; font-size: 34px; line-height: 1.1; color: var(--accent); }
+.status-ko { font-family: var(--display-ko); font-weight: 400; font-size: 34px; line-height: 1.1; color: var(--accent); white-space: nowrap; }
 .legend { display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 13px; margin-top: 8px; }
 .legend li { display: flex; align-items: center; gap: 6px; }
 .legend i { width: 18px; height: 10px; display: inline-block; }
@@ -220,6 +230,7 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .related h2, .sources h2 { font-family: var(--sign-ko); font-weight: 400; font-size: 22px; margin-bottom: 8px; }
 .sources { margin-top: 30px; font-size: 14.5px; }
 .sources ul { display: flex; flex-wrap: wrap; gap: 2px 16px; }
+.credit { margin-top: 18px; font-size: 13px; opacity: .85; }
 .say { margin-top: 34px; font-family: var(--sign-ko); font-size: 28px; }
 .say a { font-family: var(--ui); font-size: 15px; font-weight: 600; margin-left: 10px; }
 
@@ -286,6 +297,8 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .words dd { margin: 0; }
 
 @media (max-width: 700px) {
+  .food-head { grid-template-columns: 1fr; }
+  .print { grid-column: 1; grid-row: auto; margin-top: 14px; }
   .month-head { grid-template-columns: 1fr; }
   .month-duo { grid-template-columns: 1fr; }
   .date-list li { grid-template-columns: 64px 1fr; }

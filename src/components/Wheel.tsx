@@ -1,6 +1,6 @@
 import { useComputed, useSignal, useSignalEffect } from "@preact/signals";
 import { useEffect, useMemo, useRef, useState } from "preact/hooks";
-import { FIRST_DAY, LAST_DAY, SOLAR_TERMS, termAt, termsOfYear } from "../lib/calendar.ts";
+import { FIRST_DAY, LAST_DAY, termAt, termsOfYear } from "../lib/calendar.ts";
 import { FOODS } from "../lib/client-data.ts";
 import { dayOf, MONTHS_SHORT, shortDate, toParts, yearFraction, yearLength, type DayNum } from "../lib/dates.ts";
 import { printedOn } from "../lib/palette.ts";
@@ -30,6 +30,7 @@ interface Hit {
   track: Track;
   x: number;
   y: number;
+  touch?: boolean;
 }
 
 export function Wheel() {
@@ -231,7 +232,11 @@ export function Wheel() {
         return;
       }
       const target = hitAt(event);
-      if (target) location.href = `/food/${target.track.food.id}/`;
+      if (event.pointerType !== "mouse") {
+        setHit(target ? { ...target, touch: true } : null);
+      } else if (target) {
+        location.href = `/food/${target.track.food.id}/`;
+      }
       return;
     }
     if (event.timeStamp - active.time > 80) velocity.current = 0;
@@ -271,7 +276,7 @@ export function Wheel() {
         onPointerMove={onMove}
         onPointerUp={onUp}
         onPointerCancel={() => { drag.current = null; }}
-        onPointerLeave={() => setHit(null)}
+        onPointerLeave={(event) => { if (event.pointerType === "mouse") setHit(null); }}
         onKeyDown={onKey}
       >
         <svg ref={disc} class="disc" viewBox={`0 0 ${WHEEL.size} ${WHEEL.size}`} aria-hidden="true">
@@ -334,13 +339,17 @@ export function Wheel() {
         </div>
         <svg class="pointer" viewBox="0 0 40 60" aria-hidden="true"><path d="M20 58 L2 2 H38 Z" /></svg>
         {hit ? (
-          <div class="wheel-tip" style={{ left: hit.x, top: hit.y }}>
+          <a
+            class={`wheel-tip${hit.touch ? " touch" : ""}`}
+            href={`/food/${hit.track.food.id}/`}
+            style={{ left: hit.x, top: hit.y }}
+            onPointerDown={(event) => event.stopPropagation()}
+          >
             <strong lang="ko">{hit.track.food.ko}</strong> {hit.track.food.en}
-          </div>
+          </a>
         ) : null}
       </div>
     </div>
   );
 }
 
-export const TERM_COUNT = SOLAR_TERMS.length;

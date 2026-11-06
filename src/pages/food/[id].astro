@@ -7,6 +7,7 @@ import { looseDate, toParts, todayInSeoul, yearFraction } from "../../lib/dates.
 import { ALL_FOODS, foodById, printedForFood, sourceLabel } from "../../lib/foods.ts";
 import { itIs } from "../../lib/korean.ts";
 import { MONTH_COPY } from "../../lib/months.ts";
+import { printFor } from "../../lib/prints.ts";
 
 export function getStaticPaths() {
   return ALL_FOODS.map((food) => ({ params: { id: food.id }, props: { food } }));
@@ -35,6 +36,7 @@ const certainty = food.windows.some((window) => window.mark === "est")
     : null;
 const peak = food.windows.find((window) => window.kind === "peak" && "from" in window);
 const ogMonth = peak && "from" in peak ? MONTH_COPY[Number(peak.from.slice(0, 2)) - 1]?.slug ?? "home" : "home";
+const print = printFor(food.id);
 const title = `${food.ko} ${food.en}: when to eat it in Korea`;
 const description = food.blurb.slice(0, 155);
 ---
@@ -45,6 +47,11 @@ const description = food.blurb.slice(0, 155);
       <h1 lang="ko" class={food.ko.length > 5 ? "long" : undefined} style={{ "--len": food.ko.length }}>{food.ko}</h1>
       <p class="food-names"><strong>{food.en}</strong> <span>{food.rr}</span></p>
       {food.aka.length > 0 ? <p class="food-aka">Also <span lang="ko">{food.aka.join(", ")}</span></p> : null}
+      {print ? (
+        <figure class="print" role="img" aria-label={`Halftone print of ${food.en}`}>
+          <span class="print-ink" style={{ "--src": `url(/prints/${food.id}.webp)`, aspectRatio: `${print.width} / ${print.height}` }} />
+        </figure>
+      ) : null}
     </header>
 
     <section class="food-when" aria-label="When it is in season">
@@ -98,6 +105,7 @@ const description = food.blurb.slice(0, 155);
           <ul>{food.sources.map((source) => <li><a href={source.url} rel="noopener nofollow" target="_blank">{sourceLabel(source.label)}</a></li>)}</ul>
         </aside>
       ) : null}
+      {print ? <p class="credit">Print from a <a href={print.page} rel="noopener nofollow" target="_blank">photo by {print.author}</a>, {print.licenseUrl ? <a href={print.licenseUrl} rel="noopener nofollow" target="_blank">{print.license}</a> : print.license}, turned into a halftone.</p> : null}
       <p class="say"><span lang="ko">이맘때면 {itIs(food.ko)}</span> <a href="/">Spin the year</a></p>
     </section>
   </main>
